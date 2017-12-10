@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/libraries/sharedCode/build/intermediates/bundles/default/libs/markdownview-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99339c10104c73e038bec74a47136bde2a0f826d">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app-pro/build/intermediates/transforms/dex/debug/folders/1000/8/markdownview-1.2_9ae2d9e4080fa3ed7d4140e404a14b941059d86f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_354c60c4eca6ab7759e68a178f21f26d622563db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app-pro/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app-pro/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2770f018f916b525ea8e4923a83eb151c9fc1853/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/libraries/sharedCode/build/intermediates/bundles/default/libs/markdownview-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99339c10104c73e038bec74a47136bde2a0f826d">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/markdownview-1.2_9ae2d9e4080fa3ed7d4140e404a14b941059d86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.2.0/d80514b6f44f0c4c6234e2d67fea783a25e77275/adapter-rxjava-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.2.0_cab138430252ab7552378659ed3026cacbbdc5da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/4cfb62768e44b916ce0f9a601655ce02dd4754a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5f97ff33d838393c21cd3ef28c65a43c422ae5d">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_2e1ff9f3e4686ae10afa3ae19a73750b3bb09c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/libraries/sharedCode/build/intermediates/bundles/default/libs/juniversalchardet-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87675a9ecd5304c687d86ce2ed20616f189823ad">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/juniversalchardet-1.0.3_6067cbd8929daa7817955584b399c623467ce835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_7dedb182722d9c03060e9d16d39520b6efe95c76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/libraries/sharedCode/build/intermediates/bundles/default/libs/juniversalchardet-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87675a9ecd5304c687d86ce2ed20616f189823ad">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app-pro/build/intermediates/transforms/dex/debug/folders/1000/8/juniversalchardet-1.0.3_6067cbd8929daa7817955584b399c623467ce835/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/libraries/sharedCode/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dda9671834801e6901bb408255721c4e461a6be">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_3153db9c7d84f686410a878018d3acc53b44a8ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/557edd918fd41f9260963583ebf5a61a43a6b423/commons-lang3-3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="557edd918fd41f9260963583ebf5a61a43a6b423">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/commons-lang3-3.7_c455245656adee8a02e5db0067b4dc6be1afadaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/7cc65121a2be4a4a54ae5001c285d4232b394a47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5ee4b7829f6ec48400e678cc969176f455cb14c">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_7a671f67cc9e044c317eb20ecc079b7aee5f9b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="494089d9d84042634d2be0355702e96805f847d3">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_c3e841351ba8d5803a4b6f870ac77612be423674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_bd76d174d3bdfe3751e0c5e7b97f55025c108b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/fe780326011a4ea28ce2f5f623fc6ff969782ac2/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_a092f12f91fb3e74cbb49a871b946d502d41500b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/library-2.4.0_455c8f160f567d00a350f70c9db18311aadac32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/okio-1.11.0_3904c454467f1676da1c7ae8bf1c5bbd849246f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_bf4fc98d4e932cf703a6cc9917d2ef6fe460efb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_3474709c1f6c3f1cd8c269864c431d810bba1cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_687527b44d21cd86f836a47a823e5643145d68aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_94761d75629938b7da3dcf314699f11ee1fd89fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/429eb159a016b69cd197d53cc48a7659eb424575/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ed069a339f56b2f9f52bd986dfcb1cb508a2fa">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_deba50eff5f5839541652cb23e645fb9bf177eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/50bda0e05e901496c6f419e0ca2c0237994f4cc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_d785d921d0678c96e077dbf99d5fff6661f18b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/libraries/FloatingActionButton/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f35e5fd455872e16450304b9232eba5688a208b8">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_479d6bb17b0e6cbbdf00ebeb70fc11f98e51fc81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/gson-2.7_ef20a151592ef3c5c0213814f2ba3435eb1e4da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8/rxjava-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/rxjava-1.2.0_6907c708e3d99e15df95b91fd90494e0ef8dc5e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app-pro/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93e82c2ab8ab235e302e06cbad03162a6aa877ff">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app-pro/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0316452c00c9b4b9eb9cc302f03dd20b08706a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/fe780326011a4ea28ce2f5f623fc6ff969782ac2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_57a1483bc0caca1193f1c634a4ffc6afafc56d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/meghalagrawal/.android/build-cache/6b81ff567057e66d426f2b141100c3720e01bcab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_f3139ff1d06a42e92f67932d2cd5b40db3f81e06.jar" />
+    </item>
+
+</items>
