@@ -22,7 +22,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@id/im_save"
-        app:showAsAction="ifRoom"
+        app:showAsAction="never"
         android:icon="@drawable/ic_action_save"
         android:title="@string/salva">
     <menu>
@@ -39,13 +39,13 @@
 
     <item
             android:id="@id/im_undo"
-        app:showAsAction="ifRoom"
+        app:showAsAction="never"
             android:icon="@drawable/ic_action_undo"
             android:title="@string/testo_indietro"
             />
     <item
             android:id="@id/im_redo"
-        app:showAsAction="ifRoom"
+        app:showAsAction="never"
             android:icon="@drawable/ic_action_redo"
             android:title="@string/testo_rifai"
             />
@@ -68,18 +68,39 @@
         android:id="@id/im_view_it_on_browser"
         app:showAsAction="never"
         android:title="@string/view_it_on_the_web"
+        android:visible="false"
+
         />
     <item
         android:id="@id/im_view_markdown"
         app:showAsAction="never"
         android:title="@string/view_markdown_result"
+        android:visible="false"
+
         />
     <item
         android:id="@id/im_share"
         app:showAsAction="never"
         android:title="@string/share"
         app:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+        android:visible="false"
+
         />
+    <item
+        android:id="@id/im_compile"
+        android:title="@string/compile"
+
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/play_button"
+        />
+
+    <item android:id="@+id/language_spinner"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.Spinner"
+        android:title="@string/language"
+
+        />
+
     <item
         android:id="@id/im_info"
         app:showAsAction="never"
@@ -89,5 +110,6 @@
         android:id="@id/im_donate"
         app:showAsAction="never"
         android:title="@string/donation_action"
+        android:visible="false"
         />
 </menu>

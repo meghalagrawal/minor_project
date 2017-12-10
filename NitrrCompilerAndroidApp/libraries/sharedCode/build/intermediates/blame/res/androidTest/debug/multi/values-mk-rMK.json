@@ -1,0 +1,3336 @@
+[
+    {
+        "outputFile": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 107,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 103,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 103,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 107,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 107,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 85,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 104,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 118,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 118,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 105,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 105,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 106,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1031,
+                        "endColumn": 106,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endColumn": 100,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 100,
+                        "endOffset": 1234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 106,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 106,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 110,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 110,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endColumn": 103,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 103,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endColumn": 46,
+                    "endOffset": 1363
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1368,
+                    "endLine": 24,
+                    "endColumn": 13,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endLine": 12,
+                        "endColumn": 13,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 57,
+                    "endOffset": 2076
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 57,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2081,
+                    "endColumn": 45,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 45,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 56,
+                    "endOffset": 2179
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 56,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2184,
+                    "endColumn": 47,
+                    "endOffset": 2227
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 47,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2232,
+                    "endColumn": 41,
+                    "endOffset": 2269
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 41,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2274,
+                    "endColumn": 37,
+                    "endOffset": 2307
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 37,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2312,
+                    "endColumn": 47,
+                    "endOffset": 2355
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 47,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2360,
+                    "endColumn": 63,
+                    "endOffset": 2419
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 63,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2424,
+                    "endColumn": 61,
+                    "endOffset": 2481
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 61,
+                        "endOffset": 1215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2486,
+                    "endColumn": 39,
+                    "endOffset": 2521
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1220,
+                        "endColumn": 39,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2526,
+                    "endColumn": 43,
+                    "endOffset": 2565
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1260,
+                        "endColumn": 43,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2570,
+                    "endColumn": 57,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1304,
+                        "endColumn": 57,
+                        "endOffset": 1357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2628,
+                    "endColumn": 48,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1362,
+                        "endColumn": 48,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endColumn": 73,
+                    "endOffset": 2746
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 73,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2751,
+                    "endColumn": 65,
+                    "endOffset": 2812
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 65,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2817,
+                    "endColumn": 47,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 47,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 40,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 40,
+                        "endOffset": 1635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endColumn": 54,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1640,
+                        "endColumn": 54,
+                        "endOffset": 1690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endColumn": 39,
+                    "endOffset": 2996
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1695,
+                        "endColumn": 39,
+                        "endOffset": 1730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3001,
+                    "endColumn": 45,
+                    "endOffset": 3042
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1735,
+                        "endColumn": 45,
+                        "endOffset": 1776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3047,
+                    "endColumn": 43,
+                    "endOffset": 3086
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1781,
+                        "endColumn": 43,
+                        "endOffset": 1820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3091,
+                    "endColumn": 59,
+                    "endOffset": 3146
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endColumn": 59,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3151,
+                    "endColumn": 45,
+                    "endOffset": 3192
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1885,
+                        "endColumn": 45,
+                        "endOffset": 1926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3197,
+                    "endColumn": 65,
+                    "endOffset": 3258
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endColumn": 65,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3263,
+                    "endColumn": 66,
+                    "endOffset": 3325
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1997,
+                        "endColumn": 66,
+                        "endOffset": 2059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3330,
+                    "endColumn": 60,
+                    "endOffset": 3386
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2064,
+                        "endColumn": 60,
+                        "endOffset": 2120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3391,
+                    "endColumn": 67,
+                    "endOffset": 3454
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2125,
+                        "endColumn": 67,
+                        "endOffset": 2188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3459,
+                    "endColumn": 86,
+                    "endOffset": 3541
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2193,
+                        "endColumn": 86,
+                        "endOffset": 2275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3546,
+                    "endColumn": 35,
+                    "endOffset": 3577
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2280,
+                        "endColumn": 35,
+                        "endOffset": 2311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3582,
+                    "endColumn": 69,
+                    "endOffset": 3647
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2316,
+                        "endColumn": 69,
+                        "endOffset": 2381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3652,
+                    "endColumn": 67,
+                    "endOffset": 3715
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2386,
+                        "endColumn": 67,
+                        "endOffset": 2449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3720,
+                    "endColumn": 49,
+                    "endOffset": 3765
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2454,
+                        "endColumn": 49,
+                        "endOffset": 2499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3770,
+                    "endColumn": 57,
+                    "endOffset": 3823
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2504,
+                        "endColumn": 57,
+                        "endOffset": 2557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3828,
+                    "endColumn": 51,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2562,
+                        "endColumn": 51,
+                        "endOffset": 2609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 56,
+                    "endOffset": 3932
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2614,
+                        "endColumn": 56,
+                        "endOffset": 2666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3937,
+                    "endColumn": 52,
+                    "endOffset": 3985
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2671,
+                        "endColumn": 52,
+                        "endOffset": 2719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3990,
+                    "endColumn": 57,
+                    "endOffset": 4043
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2724,
+                        "endColumn": 57,
+                        "endOffset": 2777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4048,
+                    "endColumn": 52,
+                    "endOffset": 4096
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2782,
+                        "endColumn": 52,
+                        "endOffset": 2830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4101,
+                    "endColumn": 50,
+                    "endOffset": 4147
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 50,
+                        "endOffset": 2881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4152,
+                    "endColumn": 92,
+                    "endOffset": 4240
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2886,
+                        "endColumn": 92,
+                        "endOffset": 2974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4245,
+                    "endLine": 68,
+                    "endColumn": 13,
+                    "endOffset": 4479
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2979,
+                        "endLine": 56,
+                        "endColumn": 13,
+                        "endOffset": 3213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4484,
+                    "endColumn": 87,
+                    "endOffset": 4567
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3218,
+                        "endColumn": 87,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4572,
+                    "endColumn": 118,
+                    "endOffset": 4686
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endColumn": 118,
+                        "endOffset": 3420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4691,
+                    "endColumn": 62,
+                    "endOffset": 4749
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3425,
+                        "endColumn": 62,
+                        "endOffset": 3483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4754,
+                    "endColumn": 61,
+                    "endOffset": 4811
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3488,
+                        "endColumn": 61,
+                        "endOffset": 3545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4816,
+                    "endColumn": 45,
+                    "endOffset": 4857
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3550,
+                        "endColumn": 45,
+                        "endOffset": 3591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4862,
+                    "endColumn": 66,
+                    "endOffset": 4924
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3596,
+                        "endColumn": 66,
+                        "endOffset": 3658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4929,
+                    "endColumn": 47,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3663,
+                        "endColumn": 47,
+                        "endOffset": 3706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 61,
+                    "endOffset": 5034
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3711,
+                        "endColumn": 61,
+                        "endOffset": 3768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5039,
+                    "endColumn": 71,
+                    "endOffset": 5106
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3773,
+                        "endColumn": 71,
+                        "endOffset": 3840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5111,
+                    "endColumn": 57,
+                    "endOffset": 5164
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endColumn": 57,
+                        "endOffset": 3898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5169,
+                    "endColumn": 88,
+                    "endOffset": 5253
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3903,
+                        "endColumn": 88,
+                        "endOffset": 3987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5258,
+                    "endColumn": 70,
+                    "endOffset": 5324
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3992,
+                        "endColumn": 70,
+                        "endOffset": 4058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5329,
+                    "endColumn": 55,
+                    "endOffset": 5380
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4063,
+                        "endColumn": 55,
+                        "endOffset": 4114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5385,
+                    "endColumn": 38,
+                    "endOffset": 5419
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4119,
+                        "endColumn": 38,
+                        "endOffset": 4153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5424,
+                    "endColumn": 37,
+                    "endOffset": 5457
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4158,
+                        "endColumn": 37,
+                        "endOffset": 4191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5462,
+                    "endColumn": 77,
+                    "endOffset": 5535
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4196,
+                        "endColumn": 77,
+                        "endOffset": 4269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5540,
+                    "endColumn": 95,
+                    "endOffset": 5631
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4274,
+                        "endColumn": 95,
+                        "endOffset": 4365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5636,
+                    "endColumn": 89,
+                    "endOffset": 5721
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4370,
+                        "endColumn": 89,
+                        "endOffset": 4455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5726,
+                    "endColumn": 37,
+                    "endOffset": 5759
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4460,
+                        "endColumn": 37,
+                        "endOffset": 4493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5764,
+                    "endColumn": 41,
+                    "endOffset": 5801
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4498,
+                        "endColumn": 41,
+                        "endOffset": 4535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5806,
+                    "endColumn": 47,
+                    "endOffset": 5849
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4540,
+                        "endColumn": 47,
+                        "endOffset": 4583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5854,
+                    "endColumn": 49,
+                    "endOffset": 5899
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4588,
+                        "endColumn": 49,
+                        "endOffset": 4633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5904,
+                    "endColumn": 49,
+                    "endOffset": 5949
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4638,
+                        "endColumn": 49,
+                        "endOffset": 4683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5954,
+                    "endColumn": 45,
+                    "endOffset": 5995
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4688,
+                        "endColumn": 45,
+                        "endOffset": 4729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6000,
+                    "endColumn": 37,
+                    "endOffset": 6033
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4734,
+                        "endColumn": 37,
+                        "endOffset": 4767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6038,
+                    "endColumn": 37,
+                    "endOffset": 6071
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4772,
+                        "endColumn": 37,
+                        "endOffset": 4805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6076,
+                    "endColumn": 65,
+                    "endOffset": 6137
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4810,
+                        "endColumn": 65,
+                        "endOffset": 4871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6142,
+                    "endColumn": 70,
+                    "endOffset": 6208
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4876,
+                        "endColumn": 70,
+                        "endOffset": 4942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6213,
+                    "endColumn": 37,
+                    "endOffset": 6246
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4947,
+                        "endColumn": 37,
+                        "endOffset": 4980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 6251,
+                    "endColumn": 76,
+                    "endOffset": 6323
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 4985,
+                        "endColumn": 76,
+                        "endOffset": 5057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 6328,
+                    "endColumn": 89,
+                    "endOffset": 6413
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5062,
+                        "endColumn": 89,
+                        "endOffset": 5147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6418,
+                    "endColumn": 51,
+                    "endOffset": 6465
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5152,
+                        "endColumn": 51,
+                        "endOffset": 5199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 6470,
+                    "endColumn": 53,
+                    "endOffset": 6519
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5204,
+                        "endColumn": 53,
+                        "endOffset": 5253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 6524,
+                    "endColumn": 69,
+                    "endOffset": 6589
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5258,
+                        "endColumn": 69,
+                        "endOffset": 5323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 6594,
+                    "endColumn": 40,
+                    "endOffset": 6630
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5328,
+                        "endColumn": 40,
+                        "endOffset": 5364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 6635,
+                    "endColumn": 46,
+                    "endOffset": 6677
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5369,
+                        "endColumn": 46,
+                        "endOffset": 5411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 6682,
+                    "endColumn": 83,
+                    "endOffset": 6761
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5416,
+                        "endColumn": 83,
+                        "endOffset": 5495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 6766,
+                    "endColumn": 49,
+                    "endOffset": 6811
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5500,
+                        "endColumn": 49,
+                        "endOffset": 5545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6816,
+                    "endColumn": 66,
+                    "endOffset": 6878
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 5550,
+                        "endColumn": 66,
+                        "endOffset": 5612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6883,
+                    "endColumn": 41,
+                    "endOffset": 6920
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 5617,
+                        "endColumn": 41,
+                        "endOffset": 5654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6925,
+                    "endColumn": 63,
+                    "endOffset": 6984
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5659,
+                        "endColumn": 63,
+                        "endOffset": 5718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6989,
+                    "endColumn": 38,
+                    "endOffset": 7023
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 5723,
+                        "endColumn": 38,
+                        "endOffset": 5757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 7028,
+                    "endColumn": 37,
+                    "endOffset": 7061
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 5762,
+                        "endColumn": 37,
+                        "endOffset": 5795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 7066,
+                    "endColumn": 41,
+                    "endOffset": 7103
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 5800,
+                        "endColumn": 41,
+                        "endOffset": 5837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 7108,
+                    "endColumn": 45,
+                    "endOffset": 7149
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 5842,
+                        "endColumn": 45,
+                        "endOffset": 5883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 7154,
+                    "endColumn": 57,
+                    "endOffset": 7207
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 5888,
+                        "endColumn": 57,
+                        "endOffset": 5941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7212,
+                    "endColumn": 37,
+                    "endOffset": 7245
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 5946,
+                        "endColumn": 37,
+                        "endOffset": 5979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 7250,
+                    "endColumn": 33,
+                    "endOffset": 7279
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 5984,
+                        "endColumn": 33,
+                        "endOffset": 6013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 7284,
+                    "endColumn": 49,
+                    "endOffset": 7329
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6018,
+                        "endColumn": 49,
+                        "endOffset": 6063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 7334,
+                    "endColumn": 62,
+                    "endOffset": 7392
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6068,
+                        "endColumn": 62,
+                        "endOffset": 6126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7397,
+                    "endColumn": 48,
+                    "endOffset": 7441
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 6131,
+                        "endColumn": 48,
+                        "endOffset": 6175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 7446,
+                    "endColumn": 70,
+                    "endOffset": 7512
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6180,
+                        "endColumn": 70,
+                        "endOffset": 6246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 7517,
+                    "endColumn": 37,
+                    "endOffset": 7550
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 6251,
+                        "endColumn": 37,
+                        "endOffset": 6284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7555,
+                    "endColumn": 51,
+                    "endOffset": 7602
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 6289,
+                        "endColumn": 51,
+                        "endOffset": 6336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 7607,
+                    "endColumn": 43,
+                    "endOffset": 7646
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 6341,
+                        "endColumn": 43,
+                        "endOffset": 6380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 7651,
+                    "endColumn": 49,
+                    "endOffset": 7696
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6385,
+                        "endColumn": 49,
+                        "endOffset": 6430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 7701,
+                    "endColumn": 45,
+                    "endOffset": 7742
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 6435,
+                        "endColumn": 45,
+                        "endOffset": 6476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7747,
+                    "endColumn": 90,
+                    "endOffset": 7833
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 6481,
+                        "endColumn": 90,
+                        "endOffset": 6567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 7838,
+                    "endColumn": 39,
+                    "endOffset": 7873
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 6572,
+                        "endColumn": 39,
+                        "endOffset": 6607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7878,
+                    "endColumn": 52,
+                    "endOffset": 7926
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 6612,
+                        "endColumn": 52,
+                        "endOffset": 6660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7931,
+                    "endColumn": 38,
+                    "endOffset": 7965
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 6665,
+                        "endColumn": 38,
+                        "endOffset": 6699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7970,
+                    "endColumn": 50,
+                    "endOffset": 8016
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 6704,
+                        "endColumn": 50,
+                        "endOffset": 6750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8021,
+                    "endColumn": 45,
+                    "endOffset": 8062
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 6755,
+                        "endColumn": 45,
+                        "endOffset": 6796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 8067,
+                    "endColumn": 47,
+                    "endOffset": 8110
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 6801,
+                        "endColumn": 47,
+                        "endOffset": 6844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 8115,
+                    "endColumn": 53,
+                    "endOffset": 8164
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 6849,
+                        "endColumn": 53,
+                        "endOffset": 6898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 8169,
+                    "endColumn": 65,
+                    "endOffset": 8230
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 6903,
+                        "endColumn": 65,
+                        "endOffset": 6964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 8235,
+                    "endColumn": 71,
+                    "endOffset": 8302
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 6969,
+                        "endColumn": 71,
+                        "endOffset": 7036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 8307,
+                    "endColumn": 41,
+                    "endOffset": 8344
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 7041,
+                        "endColumn": 41,
+                        "endOffset": 7078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 8349,
+                    "endColumn": 41,
+                    "endOffset": 8386
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 7083,
+                        "endColumn": 41,
+                        "endOffset": 7120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 8391,
+                    "endColumn": 43,
+                    "endOffset": 8430
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 7125,
+                        "endColumn": 43,
+                        "endOffset": 7164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 8435,
+                    "endColumn": 51,
+                    "endOffset": 8482
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 7169,
+                        "endColumn": 51,
+                        "endOffset": 7216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 8487,
+                    "endColumn": 65,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 7221,
+                        "endColumn": 65,
+                        "endOffset": 7282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endColumn": 88,
+                    "endOffset": 8637
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 7287,
+                        "endColumn": 88,
+                        "endOffset": 7371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 8642,
+                    "endColumn": 43,
+                    "endOffset": 8681
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 7376,
+                        "endColumn": 43,
+                        "endOffset": 7415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 8686,
+                    "endColumn": 54,
+                    "endOffset": 8736
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 7420,
+                        "endColumn": 54,
+                        "endOffset": 7470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 8741,
+                    "endColumn": 38,
+                    "endOffset": 8775
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 7475,
+                        "endColumn": 38,
+                        "endOffset": 7509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 8780,
+                    "endColumn": 43,
+                    "endOffset": 8819
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 7514,
+                        "endColumn": 43,
+                        "endOffset": 7553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 8824,
+                    "endColumn": 88,
+                    "endOffset": 8908
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 7558,
+                        "endColumn": 88,
+                        "endOffset": 7642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 8913,
+                    "endColumn": 38,
+                    "endOffset": 8947
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 7647,
+                        "endColumn": 38,
+                        "endOffset": 7681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 8952,
+                    "endColumn": 44,
+                    "endOffset": 8992
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 7686,
+                        "endColumn": 44,
+                        "endOffset": 7726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 8997,
+                    "endColumn": 63,
+                    "endOffset": 9056
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 7731,
+                        "endColumn": 63,
+                        "endOffset": 7790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 9061,
+                    "endColumn": 65,
+                    "endOffset": 9122
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 7795,
+                        "endColumn": 65,
+                        "endOffset": 7856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 9127,
+                    "endColumn": 75,
+                    "endOffset": 9198
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 7861,
+                        "endColumn": 75,
+                        "endOffset": 7932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 9203,
+                    "endColumn": 39,
+                    "endOffset": 9238
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 7937,
+                        "endColumn": 39,
+                        "endOffset": 7972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 9243,
+                    "endColumn": 72,
+                    "endOffset": 9311
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 7977,
+                        "endColumn": 72,
+                        "endOffset": 8045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 9316,
+                    "endColumn": 48,
+                    "endOffset": 9360
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 8050,
+                        "endColumn": 48,
+                        "endOffset": 8094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 9365,
+                    "endColumn": 51,
+                    "endOffset": 9412
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 8099,
+                        "endColumn": 51,
+                        "endOffset": 8146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 9417,
+                    "endColumn": 61,
+                    "endOffset": 9474
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 8151,
+                        "endColumn": 61,
+                        "endOffset": 8208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 9479,
+                    "endColumn": 37,
+                    "endOffset": 9512
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 8213,
+                        "endColumn": 37,
+                        "endOffset": 8246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 9517,
+                    "endColumn": 68,
+                    "endOffset": 9581
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 8251,
+                        "endColumn": 68,
+                        "endOffset": 8315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 9586,
+                    "endColumn": 61,
+                    "endOffset": 9643
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 8320,
+                        "endColumn": 61,
+                        "endOffset": 8377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 9648,
+                    "endColumn": 37,
+                    "endOffset": 9681
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 8382,
+                        "endColumn": 37,
+                        "endOffset": 8415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 9686,
+                    "endColumn": 77,
+                    "endOffset": 9759
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 8420,
+                        "endColumn": 77,
+                        "endOffset": 8493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 9764,
+                    "endColumn": 37,
+                    "endOffset": 9797
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 8498,
+                        "endColumn": 37,
+                        "endOffset": 8531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 9802,
+                    "endColumn": 46,
+                    "endOffset": 9844
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 8536,
+                        "endColumn": 46,
+                        "endOffset": 8578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 9849,
+                    "endColumn": 47,
+                    "endOffset": 9892
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 8583,
+                        "endColumn": 47,
+                        "endOffset": 8626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 9897,
+                    "endColumn": 44,
+                    "endOffset": 9937
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 8631,
+                        "endColumn": 44,
+                        "endOffset": 8671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 9942,
+                    "endColumn": 53,
+                    "endOffset": 9991
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 8676,
+                        "endColumn": 53,
+                        "endOffset": 8725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 9996,
+                    "endColumn": 59,
+                    "endOffset": 10051
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 8730,
+                        "endColumn": 59,
+                        "endOffset": 8785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 10056,
+                    "endColumn": 39,
+                    "endOffset": 10091
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 8790,
+                        "endColumn": 39,
+                        "endOffset": 8825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 10096,
+                    "endColumn": 51,
+                    "endOffset": 10143
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 8830,
+                        "endColumn": 51,
+                        "endOffset": 8877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 10148,
+                    "endColumn": 49,
+                    "endOffset": 10193
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 8882,
+                        "endColumn": 49,
+                        "endOffset": 8927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 10198,
+                    "endColumn": 60,
+                    "endOffset": 10254
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 8932,
+                        "endColumn": 60,
+                        "endOffset": 8988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 10259,
+                    "endColumn": 57,
+                    "endOffset": 10312
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 8993,
+                        "endColumn": 57,
+                        "endOffset": 9046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 10317,
+                    "endColumn": 55,
+                    "endOffset": 10368
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 9051,
+                        "endColumn": 55,
+                        "endOffset": 9102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 10373,
+                    "endColumn": 57,
+                    "endOffset": 10426
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 9107,
+                        "endColumn": 57,
+                        "endOffset": 9160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 10431,
+                    "endColumn": 37,
+                    "endOffset": 10464
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 9165,
+                        "endColumn": 37,
+                        "endOffset": 9198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 10469,
+                    "endColumn": 36,
+                    "endOffset": 10501
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 9203,
+                        "endColumn": 36,
+                        "endOffset": 9235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 10506,
+                    "endColumn": 60,
+                    "endOffset": 10562
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 9240,
+                        "endColumn": 60,
+                        "endOffset": 9296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 10567,
+                    "endColumn": 92,
+                    "endOffset": 10655
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 9301,
+                        "endColumn": 92,
+                        "endOffset": 9389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 10660,
+                    "endColumn": 41,
+                    "endOffset": 10697
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 9394,
+                        "endColumn": 41,
+                        "endOffset": 9431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 10702,
+                    "endColumn": 62,
+                    "endOffset": 10760
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 9436,
+                        "endColumn": 62,
+                        "endOffset": 9494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 10765,
+                    "endColumn": 55,
+                    "endOffset": 10816
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 9499,
+                        "endColumn": 55,
+                        "endOffset": 9550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 10821,
+                    "endColumn": 59,
+                    "endOffset": 10876
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 9555,
+                        "endColumn": 59,
+                        "endOffset": 9610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 10881,
+                    "endColumn": 93,
+                    "endOffset": 10970
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 9615,
+                        "endColumn": 93,
+                        "endOffset": 9704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 10975,
+                    "endColumn": 65,
+                    "endOffset": 11036
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 9709,
+                        "endColumn": 65,
+                        "endOffset": 9770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 11041,
+                    "endColumn": 69,
+                    "endOffset": 11106
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 9775,
+                        "endColumn": 69,
+                        "endOffset": 9840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 11111,
+                    "endColumn": 37,
+                    "endOffset": 11144
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 9845,
+                        "endColumn": 37,
+                        "endOffset": 9878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 11149,
+                    "endColumn": 62,
+                    "endOffset": 11207
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 9883,
+                        "endColumn": 62,
+                        "endOffset": 9941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 11212,
+                    "endColumn": 53,
+                    "endOffset": 11261
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-mk-rMK/values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 9946,
+                        "endColumn": 53,
+                        "endOffset": 9995
+                    }
+                }
+            }
+        ]
+    }
+]

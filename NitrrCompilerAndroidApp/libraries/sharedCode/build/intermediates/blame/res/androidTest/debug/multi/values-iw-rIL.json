@@ -1,0 +1,3108 @@
+[
+    {
+        "outputFile": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-iw-rIL/values-iw-rIL.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endLine": 12,
+                    "endColumn": 13,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endLine": 12,
+                        "endColumn": 13,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 57,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 57,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 45,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 45,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 54,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 54,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 47,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 47,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 41,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 964,
+                        "endColumn": 41,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endColumn": 37,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 37,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 47,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 47,
+                        "endOffset": 1087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 63,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1092,
+                        "endColumn": 63,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1156,
+                    "endColumn": 61,
+                    "endOffset": 1213
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 61,
+                        "endOffset": 1213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1218,
+                    "endColumn": 39,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1218,
+                        "endColumn": 39,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 40,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 40,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 52,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endColumn": 52,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 45,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 45,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 73,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 73,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 65,
+                    "endOffset": 1533
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 65,
+                        "endOffset": 1533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1538,
+                    "endColumn": 47,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endColumn": 47,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 39,
+                    "endOffset": 1621
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 39,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1626,
+                    "endColumn": 52,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endColumn": 52,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 39,
+                    "endOffset": 1714
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1679,
+                        "endColumn": 39,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1719,
+                    "endColumn": 42,
+                    "endOffset": 1757
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endColumn": 42,
+                        "endOffset": 1757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1762,
+                    "endColumn": 43,
+                    "endOffset": 1801
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1762,
+                        "endColumn": 43,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1806,
+                    "endColumn": 59,
+                    "endOffset": 1861
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 59,
+                        "endOffset": 1861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1866,
+                    "endColumn": 45,
+                    "endOffset": 1907
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1866,
+                        "endColumn": 45,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1912,
+                    "endColumn": 65,
+                    "endOffset": 1973
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1912,
+                        "endColumn": 65,
+                        "endOffset": 1973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1978,
+                    "endColumn": 67,
+                    "endOffset": 2041
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1978,
+                        "endColumn": 67,
+                        "endOffset": 2041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2046,
+                    "endColumn": 60,
+                    "endOffset": 2102
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2046,
+                        "endColumn": 60,
+                        "endOffset": 2102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2107,
+                    "endColumn": 67,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2107,
+                        "endColumn": 67,
+                        "endOffset": 2170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 86,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2175,
+                        "endColumn": 86,
+                        "endOffset": 2257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 35,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2262,
+                        "endColumn": 35,
+                        "endOffset": 2293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endColumn": 69,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2298,
+                        "endColumn": 69,
+                        "endOffset": 2363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 67,
+                    "endOffset": 2431
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2368,
+                        "endColumn": 67,
+                        "endOffset": 2431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2436,
+                    "endColumn": 44,
+                    "endOffset": 2476
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2436,
+                        "endColumn": 44,
+                        "endOffset": 2476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2481,
+                    "endColumn": 57,
+                    "endOffset": 2534
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2481,
+                        "endColumn": 57,
+                        "endOffset": 2534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2539,
+                    "endColumn": 51,
+                    "endOffset": 2586
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2539,
+                        "endColumn": 51,
+                        "endOffset": 2586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2591,
+                    "endColumn": 56,
+                    "endOffset": 2643
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2591,
+                        "endColumn": 56,
+                        "endOffset": 2643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2648,
+                    "endColumn": 52,
+                    "endOffset": 2696
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2648,
+                        "endColumn": 52,
+                        "endOffset": 2696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2701,
+                    "endColumn": 57,
+                    "endOffset": 2754
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2701,
+                        "endColumn": 57,
+                        "endOffset": 2754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2759,
+                    "endColumn": 52,
+                    "endOffset": 2807
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2759,
+                        "endColumn": 52,
+                        "endOffset": 2807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2812,
+                    "endColumn": 50,
+                    "endOffset": 2858
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2812,
+                        "endColumn": 50,
+                        "endOffset": 2858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2863,
+                    "endColumn": 92,
+                    "endOffset": 2951
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2863,
+                        "endColumn": 92,
+                        "endOffset": 2951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2956,
+                    "endLine": 56,
+                    "endColumn": 13,
+                    "endOffset": 3190
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2956,
+                        "endLine": 56,
+                        "endColumn": 13,
+                        "endOffset": 3190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3195,
+                    "endColumn": 87,
+                    "endOffset": 3278
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3195,
+                        "endColumn": 87,
+                        "endOffset": 3278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3283,
+                    "endColumn": 118,
+                    "endOffset": 3397
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3283,
+                        "endColumn": 118,
+                        "endOffset": 3397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3402,
+                    "endColumn": 62,
+                    "endOffset": 3460
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3402,
+                        "endColumn": 62,
+                        "endOffset": 3460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3465,
+                    "endColumn": 61,
+                    "endOffset": 3522
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3465,
+                        "endColumn": 61,
+                        "endOffset": 3522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3527,
+                    "endColumn": 41,
+                    "endOffset": 3564
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3527,
+                        "endColumn": 41,
+                        "endOffset": 3564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3569,
+                    "endColumn": 66,
+                    "endOffset": 3631
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3569,
+                        "endColumn": 66,
+                        "endOffset": 3631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3636,
+                    "endColumn": 47,
+                    "endOffset": 3679
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3636,
+                        "endColumn": 47,
+                        "endOffset": 3679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3684,
+                    "endColumn": 61,
+                    "endOffset": 3741
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3684,
+                        "endColumn": 61,
+                        "endOffset": 3741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3746,
+                    "endColumn": 71,
+                    "endOffset": 3813
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3746,
+                        "endColumn": 71,
+                        "endOffset": 3813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3818,
+                    "endColumn": 57,
+                    "endOffset": 3871
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3818,
+                        "endColumn": 57,
+                        "endOffset": 3871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3876,
+                    "endColumn": 88,
+                    "endOffset": 3960
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3876,
+                        "endColumn": 88,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3965,
+                    "endColumn": 70,
+                    "endOffset": 4031
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3965,
+                        "endColumn": 70,
+                        "endOffset": 4031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4036,
+                    "endColumn": 55,
+                    "endOffset": 4087
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4036,
+                        "endColumn": 55,
+                        "endOffset": 4087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4092,
+                    "endColumn": 38,
+                    "endOffset": 4126
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4092,
+                        "endColumn": 38,
+                        "endOffset": 4126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4131,
+                    "endColumn": 37,
+                    "endOffset": 4164
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4131,
+                        "endColumn": 37,
+                        "endOffset": 4164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4169,
+                    "endColumn": 77,
+                    "endOffset": 4242
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4169,
+                        "endColumn": 77,
+                        "endOffset": 4242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4247,
+                    "endColumn": 95,
+                    "endOffset": 4338
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4247,
+                        "endColumn": 95,
+                        "endOffset": 4338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4343,
+                    "endColumn": 89,
+                    "endOffset": 4428
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4343,
+                        "endColumn": 89,
+                        "endOffset": 4428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4433,
+                    "endColumn": 37,
+                    "endOffset": 4466
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4433,
+                        "endColumn": 37,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4471,
+                    "endColumn": 41,
+                    "endOffset": 4508
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4471,
+                        "endColumn": 41,
+                        "endOffset": 4508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4513,
+                    "endColumn": 47,
+                    "endOffset": 4556
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4513,
+                        "endColumn": 47,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4561,
+                    "endColumn": 49,
+                    "endOffset": 4606
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4561,
+                        "endColumn": 49,
+                        "endOffset": 4606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4611,
+                    "endColumn": 49,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4611,
+                        "endColumn": 49,
+                        "endOffset": 4656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 45,
+                    "endOffset": 4702
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4661,
+                        "endColumn": 45,
+                        "endOffset": 4702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4707,
+                    "endColumn": 37,
+                    "endOffset": 4740
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4707,
+                        "endColumn": 37,
+                        "endOffset": 4740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4745,
+                    "endColumn": 36,
+                    "endOffset": 4777
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4745,
+                        "endColumn": 36,
+                        "endOffset": 4777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4782,
+                    "endColumn": 65,
+                    "endOffset": 4843
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4782,
+                        "endColumn": 65,
+                        "endOffset": 4843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4848,
+                    "endColumn": 70,
+                    "endOffset": 4914
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4848,
+                        "endColumn": 70,
+                        "endOffset": 4914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4919,
+                    "endColumn": 37,
+                    "endOffset": 4952
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4919,
+                        "endColumn": 37,
+                        "endOffset": 4952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4957,
+                    "endColumn": 76,
+                    "endOffset": 5029
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 4957,
+                        "endColumn": 76,
+                        "endOffset": 5029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5034,
+                    "endColumn": 89,
+                    "endOffset": 5119
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5034,
+                        "endColumn": 89,
+                        "endOffset": 5119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5124,
+                    "endColumn": 51,
+                    "endOffset": 5171
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5124,
+                        "endColumn": 51,
+                        "endOffset": 5171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5176,
+                    "endColumn": 53,
+                    "endOffset": 5225
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5176,
+                        "endColumn": 53,
+                        "endOffset": 5225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5230,
+                    "endColumn": 69,
+                    "endOffset": 5295
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5230,
+                        "endColumn": 69,
+                        "endOffset": 5295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5300,
+                    "endColumn": 40,
+                    "endOffset": 5336
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5300,
+                        "endColumn": 40,
+                        "endOffset": 5336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5341,
+                    "endColumn": 41,
+                    "endOffset": 5378
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5341,
+                        "endColumn": 41,
+                        "endOffset": 5378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5383,
+                    "endColumn": 83,
+                    "endOffset": 5462
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5383,
+                        "endColumn": 83,
+                        "endOffset": 5462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5467,
+                    "endColumn": 49,
+                    "endOffset": 5512
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5467,
+                        "endColumn": 49,
+                        "endOffset": 5512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5517,
+                    "endColumn": 66,
+                    "endOffset": 5579
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 5517,
+                        "endColumn": 66,
+                        "endOffset": 5579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5584,
+                    "endColumn": 41,
+                    "endOffset": 5621
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 5584,
+                        "endColumn": 41,
+                        "endOffset": 5621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5626,
+                    "endColumn": 63,
+                    "endOffset": 5685
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5626,
+                        "endColumn": 63,
+                        "endOffset": 5685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5690,
+                    "endColumn": 38,
+                    "endOffset": 5724
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 5690,
+                        "endColumn": 38,
+                        "endOffset": 5724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5729,
+                    "endColumn": 37,
+                    "endOffset": 5762
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 5729,
+                        "endColumn": 37,
+                        "endOffset": 5762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5767,
+                    "endColumn": 41,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 5767,
+                        "endColumn": 41,
+                        "endOffset": 5804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endColumn": 45,
+                    "endOffset": 5850
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 5809,
+                        "endColumn": 45,
+                        "endOffset": 5850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5855,
+                    "endColumn": 57,
+                    "endOffset": 5908
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 5855,
+                        "endColumn": 57,
+                        "endOffset": 5908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5913,
+                    "endColumn": 37,
+                    "endOffset": 5946
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 5913,
+                        "endColumn": 37,
+                        "endOffset": 5946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5951,
+                    "endColumn": 33,
+                    "endOffset": 5980
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 5951,
+                        "endColumn": 33,
+                        "endOffset": 5980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5985,
+                    "endColumn": 49,
+                    "endOffset": 6030
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 5985,
+                        "endColumn": 49,
+                        "endOffset": 6030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 6035,
+                    "endColumn": 62,
+                    "endOffset": 6093
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6035,
+                        "endColumn": 62,
+                        "endOffset": 6093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6098,
+                    "endColumn": 48,
+                    "endOffset": 6142
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 6098,
+                        "endColumn": 48,
+                        "endOffset": 6142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6147,
+                    "endColumn": 70,
+                    "endOffset": 6213
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6147,
+                        "endColumn": 70,
+                        "endOffset": 6213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6218,
+                    "endColumn": 37,
+                    "endOffset": 6251
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 6218,
+                        "endColumn": 37,
+                        "endOffset": 6251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6256,
+                    "endColumn": 51,
+                    "endOffset": 6303
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 6256,
+                        "endColumn": 51,
+                        "endOffset": 6303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6308,
+                    "endColumn": 41,
+                    "endOffset": 6345
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 6308,
+                        "endColumn": 41,
+                        "endOffset": 6345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6350,
+                    "endColumn": 49,
+                    "endOffset": 6395
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6350,
+                        "endColumn": 49,
+                        "endOffset": 6395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6400,
+                    "endColumn": 42,
+                    "endOffset": 6438
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 6400,
+                        "endColumn": 42,
+                        "endOffset": 6438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6443,
+                    "endColumn": 90,
+                    "endOffset": 6529
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 6443,
+                        "endColumn": 90,
+                        "endOffset": 6529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6534,
+                    "endColumn": 39,
+                    "endOffset": 6569
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 6534,
+                        "endColumn": 39,
+                        "endOffset": 6569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6574,
+                    "endColumn": 52,
+                    "endOffset": 6622
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 6574,
+                        "endColumn": 52,
+                        "endOffset": 6622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6627,
+                    "endColumn": 39,
+                    "endOffset": 6662
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 6627,
+                        "endColumn": 39,
+                        "endOffset": 6662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 6667,
+                    "endColumn": 45,
+                    "endOffset": 6708
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 6667,
+                        "endColumn": 45,
+                        "endOffset": 6708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6713,
+                    "endColumn": 45,
+                    "endOffset": 6754
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 6713,
+                        "endColumn": 45,
+                        "endOffset": 6754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6759,
+                    "endColumn": 47,
+                    "endOffset": 6802
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 6759,
+                        "endColumn": 47,
+                        "endOffset": 6802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6807,
+                    "endColumn": 53,
+                    "endOffset": 6856
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 6807,
+                        "endColumn": 53,
+                        "endOffset": 6856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6861,
+                    "endColumn": 65,
+                    "endOffset": 6922
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 6861,
+                        "endColumn": 65,
+                        "endOffset": 6922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6927,
+                    "endColumn": 71,
+                    "endOffset": 6994
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 6927,
+                        "endColumn": 71,
+                        "endOffset": 6994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 6999,
+                    "endColumn": 41,
+                    "endOffset": 7036
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 6999,
+                        "endColumn": 41,
+                        "endOffset": 7036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 7041,
+                    "endColumn": 41,
+                    "endOffset": 7078
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 7041,
+                        "endColumn": 41,
+                        "endOffset": 7078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7083,
+                    "endColumn": 43,
+                    "endOffset": 7122
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 7083,
+                        "endColumn": 43,
+                        "endOffset": 7122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 7127,
+                    "endColumn": 51,
+                    "endOffset": 7174
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 7127,
+                        "endColumn": 51,
+                        "endOffset": 7174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7179,
+                    "endColumn": 65,
+                    "endOffset": 7240
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 7179,
+                        "endColumn": 65,
+                        "endOffset": 7240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7245,
+                    "endColumn": 88,
+                    "endOffset": 7329
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 7245,
+                        "endColumn": 88,
+                        "endOffset": 7329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7334,
+                    "endColumn": 43,
+                    "endOffset": 7373
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 7334,
+                        "endColumn": 43,
+                        "endOffset": 7373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 7378,
+                    "endColumn": 37,
+                    "endOffset": 7411
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 7378,
+                        "endColumn": 37,
+                        "endOffset": 7411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 7416,
+                    "endColumn": 38,
+                    "endOffset": 7450
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 7416,
+                        "endColumn": 38,
+                        "endOffset": 7450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 7455,
+                    "endColumn": 43,
+                    "endOffset": 7494
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 7455,
+                        "endColumn": 43,
+                        "endOffset": 7494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7499,
+                    "endColumn": 88,
+                    "endOffset": 7583
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 7499,
+                        "endColumn": 88,
+                        "endOffset": 7583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 7588,
+                    "endColumn": 38,
+                    "endOffset": 7622
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 7588,
+                        "endColumn": 38,
+                        "endOffset": 7622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 7627,
+                    "endColumn": 41,
+                    "endOffset": 7664
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 7627,
+                        "endColumn": 41,
+                        "endOffset": 7664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 7669,
+                    "endColumn": 55,
+                    "endOffset": 7720
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 7669,
+                        "endColumn": 55,
+                        "endOffset": 7720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7725,
+                    "endColumn": 65,
+                    "endOffset": 7786
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 7725,
+                        "endColumn": 65,
+                        "endOffset": 7786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7791,
+                    "endColumn": 75,
+                    "endOffset": 7862
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 7791,
+                        "endColumn": 75,
+                        "endOffset": 7862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7867,
+                    "endColumn": 39,
+                    "endOffset": 7902
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 7867,
+                        "endColumn": 39,
+                        "endOffset": 7902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7907,
+                    "endColumn": 72,
+                    "endOffset": 7975
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 7907,
+                        "endColumn": 72,
+                        "endOffset": 7975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 7980,
+                    "endColumn": 44,
+                    "endOffset": 8020
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 7980,
+                        "endColumn": 44,
+                        "endOffset": 8020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 8025,
+                    "endColumn": 51,
+                    "endOffset": 8072
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 8025,
+                        "endColumn": 51,
+                        "endOffset": 8072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 8077,
+                    "endColumn": 61,
+                    "endOffset": 8134
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 8077,
+                        "endColumn": 61,
+                        "endOffset": 8134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 8139,
+                    "endColumn": 37,
+                    "endOffset": 8172
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 8139,
+                        "endColumn": 37,
+                        "endOffset": 8172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 8177,
+                    "endColumn": 68,
+                    "endOffset": 8241
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 8177,
+                        "endColumn": 68,
+                        "endOffset": 8241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 8246,
+                    "endColumn": 61,
+                    "endOffset": 8303
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 8246,
+                        "endColumn": 61,
+                        "endOffset": 8303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 8308,
+                    "endColumn": 37,
+                    "endOffset": 8341
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 8308,
+                        "endColumn": 37,
+                        "endOffset": 8341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 8346,
+                    "endColumn": 77,
+                    "endOffset": 8419
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 8346,
+                        "endColumn": 77,
+                        "endOffset": 8419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 8424,
+                    "endColumn": 37,
+                    "endOffset": 8457
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 8424,
+                        "endColumn": 37,
+                        "endOffset": 8457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 8462,
+                    "endColumn": 42,
+                    "endOffset": 8500
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 8462,
+                        "endColumn": 42,
+                        "endOffset": 8500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 8505,
+                    "endColumn": 47,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 8505,
+                        "endColumn": 47,
+                        "endOffset": 8548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endColumn": 44,
+                    "endOffset": 8593
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 8553,
+                        "endColumn": 44,
+                        "endOffset": 8593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 8598,
+                    "endColumn": 53,
+                    "endOffset": 8647
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 8598,
+                        "endColumn": 53,
+                        "endOffset": 8647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8652,
+                    "endColumn": 59,
+                    "endOffset": 8707
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 8652,
+                        "endColumn": 59,
+                        "endOffset": 8707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 8712,
+                    "endColumn": 39,
+                    "endOffset": 8747
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 8712,
+                        "endColumn": 39,
+                        "endOffset": 8747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 8752,
+                    "endColumn": 51,
+                    "endOffset": 8799
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 8752,
+                        "endColumn": 51,
+                        "endOffset": 8799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8804,
+                    "endColumn": 49,
+                    "endOffset": 8849
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 8804,
+                        "endColumn": 49,
+                        "endOffset": 8849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 8854,
+                    "endColumn": 54,
+                    "endOffset": 8904
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 8854,
+                        "endColumn": 54,
+                        "endOffset": 8904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 8909,
+                    "endColumn": 56,
+                    "endOffset": 8961
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 8909,
+                        "endColumn": 56,
+                        "endOffset": 8961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8966,
+                    "endColumn": 55,
+                    "endOffset": 9017
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 8966,
+                        "endColumn": 55,
+                        "endOffset": 9017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 9022,
+                    "endColumn": 57,
+                    "endOffset": 9075
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 9022,
+                        "endColumn": 57,
+                        "endOffset": 9075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 9080,
+                    "endColumn": 37,
+                    "endOffset": 9113
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 9080,
+                        "endColumn": 37,
+                        "endOffset": 9113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 9118,
+                    "endColumn": 36,
+                    "endOffset": 9150
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 9118,
+                        "endColumn": 36,
+                        "endOffset": 9150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 9155,
+                    "endColumn": 60,
+                    "endOffset": 9211
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 9155,
+                        "endColumn": 60,
+                        "endOffset": 9211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 9216,
+                    "endColumn": 92,
+                    "endOffset": 9304
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 9216,
+                        "endColumn": 92,
+                        "endOffset": 9304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 9309,
+                    "endColumn": 39,
+                    "endOffset": 9344
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 9309,
+                        "endColumn": 39,
+                        "endOffset": 9344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 9349,
+                    "endColumn": 62,
+                    "endOffset": 9407
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 9349,
+                        "endColumn": 62,
+                        "endOffset": 9407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 9412,
+                    "endColumn": 55,
+                    "endOffset": 9463
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 9412,
+                        "endColumn": 55,
+                        "endOffset": 9463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 9468,
+                    "endColumn": 59,
+                    "endOffset": 9523
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 9468,
+                        "endColumn": 59,
+                        "endOffset": 9523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 9528,
+                    "endColumn": 93,
+                    "endOffset": 9617
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 9528,
+                        "endColumn": 93,
+                        "endOffset": 9617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 9622,
+                    "endColumn": 65,
+                    "endOffset": 9683
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 9622,
+                        "endColumn": 65,
+                        "endOffset": 9683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9688,
+                    "endColumn": 69,
+                    "endOffset": 9753
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 9688,
+                        "endColumn": 69,
+                        "endOffset": 9753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9758,
+                    "endColumn": 36,
+                    "endOffset": 9790
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 9758,
+                        "endColumn": 36,
+                        "endOffset": 9790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9795,
+                    "endColumn": 62,
+                    "endOffset": 9853
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 9795,
+                        "endColumn": 62,
+                        "endOffset": 9853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9858,
+                    "endColumn": 53,
+                    "endOffset": 9907
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/values-iw-rIL/values-iw-rIL.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 9858,
+                        "endColumn": 53,
+                        "endOffset": 9907
+                    }
+                }
+            }
+        ]
+    }
+]

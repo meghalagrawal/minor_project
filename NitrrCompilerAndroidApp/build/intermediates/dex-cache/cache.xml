@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c419d89f4bb2be349abf684e9f17789e7888b9c1">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ba4ba532fd76d5d9eb16a3f71c1a2b3cb208a4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/libraries/sharedCode/build/intermediates/bundles/default/libs/markdownview-1.2.jar"
         jumboMode="true"
         optimize="true"
@@ -92,6 +101,15 @@
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_3153db9c7d84f686410a878018d3acc53b44a8ce.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8df359954819ec763501c0d2e1909078e4981e3a/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/557edd918fd41f9260963583ebf5a61a43a6b423/commons-lang3-3.7.jar"
         jumboMode="false"
@@ -99,6 +117,15 @@
         revision="25.0.0"
         sha1="557edd918fd41f9260963583ebf5a61a43a6b423">
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/commons-lang3-3.7_c455245656adee8a02e5db0067b4dc6be1afadaa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/.android/build-cache/4cfb62768e44b916ce0f9a601655ce02dd4754a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5f97ff33d838393c21cd3ef28c65a43c422ae5d">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e1ff9f3e4686ae10afa3ae19a73750b3bb09c0d/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -117,6 +144,15 @@
         revision="25.0.0"
         sha1="d5ee4b7829f6ec48400e678cc969176f455cb14c">
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_7a671f67cc9e044c317eb20ecc079b7aee5f9b44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/.android/build-cache/7cc65121a2be4a4a54ae5001c285d4232b394a47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5ee4b7829f6ec48400e678cc969176f455cb14c">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a671f67cc9e044c317eb20ecc079b7aee5f9b44/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -173,6 +209,15 @@
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_bf4fc98d4e932cf703a6cc9917d2ef6fe460efb9.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/default/libs/juniversalchardet-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87675a9ecd5304c687d86ce2ed20616f189823ad">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/8/juniversalchardet-1.0.3_025c8be1b4d3f90496e7ac43203586092245bff7/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
         jumboMode="false"
@@ -200,6 +245,15 @@
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_94761d75629938b7da3dcf314699f11ee1fd89fb.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/default/libs/markdownview-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99339c10104c73e038bec74a47136bde2a0f826d">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/8/markdownview-1.2_e1cc0594eb4b493b73d5527fbaeb568030af342f/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/meghalagrawal/.android/build-cache/429eb159a016b69cd197d53cc48a7659eb424575/output/jars/classes.jar"
         jumboMode="false"
@@ -216,6 +270,15 @@
         revision="25.0.0"
         sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/classes_d785d921d0678c96e077dbf99d5fff6661f18b06.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/.android/build-cache/429eb159a016b69cd197d53cc48a7659eb424575/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ed069a339f56b2f9f52bd986dfcb1cb508a2fa">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deba50eff5f5839541652cb23e645fb9bf177eb6/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -236,6 +299,15 @@
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app/build/intermediates/pre-dexed/debug/gson-2.7_ef20a151592ef3c5c0213814f2ba3435eb1e4da2.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/.android/build-cache/50bda0e05e901496c6f419e0ca2c0237994f4cc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d785d921d0678c96e077dbf99d5fff6661f18b06/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/meghalagrawal/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8/rxjava-1.2.0.jar"
         jumboMode="false"
@@ -252,6 +324,15 @@
         revision="25.0.0"
         sha1="93e82c2ab8ab235e302e06cbad03162a6aa877ff">
         <dex dex="/Users/meghalagrawal/AndroidStudioProjects/minor project/CodeCompilerApp/app-pro/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0316452c00c9b4b9eb9cc302f03dd20b08706a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meghalagrawal/.android/build-cache/6b81ff567057e66d426f2b141100c3720e01bcab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3139ff1d06a42e92f67932d2cd5b40db3f81e06/classes.dex" />
     </item>
     <item
         is-multidex="false"

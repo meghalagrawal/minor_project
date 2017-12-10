@@ -21,7 +21,7 @@
 
 
 
-<sharedcode.turboeditor.views.CustomDrawerLayout
+<nitrr.meghal.views.CustomDrawerLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@id/drawer_layout"
     android:layout_width="match_parent"
@@ -52,7 +52,7 @@
             android:id="@id/text_editor"
             android:visibility="gone">
 
-            <sharedcode.turboeditor.views.GoodScrollView
+            <nitrr.meghal.views.GoodScrollView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scrollbars="vertical"
@@ -69,7 +69,7 @@
                     android:background="@null">
 
                     <view
-                        class="sharedcode.turboeditor.activity.MainActivity$Editor"
+                        class="nitrr.meghal.activity.MainActivity$Editor"
                         android:id="@id/editor"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -82,7 +82,7 @@
                         android:text=""
                         android:textIsSelectable="true" />
                 </HorizontalScrollView>
-    </sharedcode.turboeditor.views.GoodScrollView>
+    </nitrr.meghal.views.GoodScrollView>
 
             <com.faizmalkani.floatingactionbutton.FloatingActionButton
                 android:id="@+id/fabNext"
@@ -112,10 +112,10 @@
             android:layout_gravity="bottom"
             android:fillViewport="false"
             android:id="@+id/parent_accessory_view">
-            <sharedcode.turboeditor.util.AccessoryView
+            <nitrr.meghal.util.AccessoryView
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:id="@+id/accessoryView"></sharedcode.turboeditor.util.AccessoryView>
+                android:id="@+id/accessoryView"></nitrr.meghal.util.AccessoryView>
         </HorizontalScrollView>
         </FrameLayout>
     </LinearLayout>
@@ -359,9 +359,9 @@
 
     <fragment android:layout_width="@dimen/navigation_drawer_width"
         android:layout_height="match_parent"
-        android:name="sharedcode.turboeditor.preferences.SettingsFragment"
+        android:name="nitrr.meghal.helper.preferences.SettingsFragment"
         android:id="@id/drawer_settings"
         android:layout_gravity="end"/>
 
 
-</sharedcode.turboeditor.views.CustomDrawerLayout>
+</nitrr.meghal.views.CustomDrawerLayout>

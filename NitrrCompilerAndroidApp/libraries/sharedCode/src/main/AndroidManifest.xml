@@ -18,7 +18,7 @@
   ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="sharedcode.turboeditor" >
+    package="nitrr.meghal" >
 
     <uses-permission android:name="android.permission.INTERNET" />
 

@@ -84,4 +84,5 @@
     <string name="use_storage_access_framework">Use the "Storage Access Framework"</string>
     <string name="compile">Compile</string>
     <string name="compiler">Compiler</string>
+    <string name="language">Language</string>
 </resources>

@@ -39,7 +39,7 @@
         android:hardwareAccelerated="true"
         android:largeHeap="true"
         android:supportsRtl="true"
-        android:name="sharedcode.turboeditor.application.MyApp"
+        android:name="nitrr.meghal.application.MyApp"
         >
 
         <!-- android:alwaysRetainTaskState="true" -->
@@ -118,7 +118,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="sharedcode.turboeditor.activity.SelectFileActivity"
+            android:name="nitrr.meghal.activity.SelectFileActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/open_a_file"
             android:exported="true"
@@ -154,7 +154,7 @@
             android:name="com.sec.android.multiwindow.MINIMUM_SIZE_H"
             android:value="598.0dip" />
 
-        <activity android:name="sharedcode.turboeditor.activity.MarkdownActivity" />
+        <activity android:name="nitrr.meghal.activity.MarkdownActivity" />
 
     </application>
 

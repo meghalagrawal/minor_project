@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/fragment_editor.xml",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/fragment_editor.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/popup_new_file.xml",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/popup_new_file.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/fragment_editor_search.xml",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/fragment_editor_search.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/activity_select_file.xml",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/activity_select_file.xml"
+    }
+]

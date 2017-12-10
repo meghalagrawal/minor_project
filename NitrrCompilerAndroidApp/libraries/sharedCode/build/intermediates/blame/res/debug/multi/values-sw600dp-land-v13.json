@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/values-sw600dp-land-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 55,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 56,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/values-sw600dp-land-v13/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 56,
+                        "endOffset": 337
+                    }
+                }
+            }
+        ]
+    }
+]

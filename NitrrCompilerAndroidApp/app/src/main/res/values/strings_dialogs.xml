@@ -28,14 +28,13 @@
         <b>%1$s</b>&nbsp;<font color="#888888">v%2$s</font>
     ]]></string>
     <string name="about_message"><![CDATA[
+        NITRR Compiler is a project for online android compiler, Currently it supports the following languages - C, C++, Java Script
+
+        It is build in top of
+        <a href="http://github.com/vmihalachi/turbo-editor">Open source Turbo Editor</a>
+
         Turbo Editor is a free and <a href="http://github.com/vmihalachi/turbo-editor">open source</a> app.
-        Copyright 2013-2014 <a href="https://plus.google.com/+VladMihalachi">Vlad Mihalachi</a>. All Rights Reserved.<br/>
-        <br/>
-        Many thanks to all who
-        <a href="http://crowdin.net/project/turbo-client">helped with translations</a> or
-        donated to me.<br/>
-        <br/>
-        If you want to send feedback here is the <a href="http://forum.xda-developers.com/android/apps-games/app-turbo-editor-text-editor-t2832016">XDA thread</a>
+
     ]]></string>
 
 </resources>
