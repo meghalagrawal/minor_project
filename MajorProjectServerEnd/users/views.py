@@ -26,6 +26,7 @@ def login(request):
 			response[keys.KEY_RESPONSE_SUCCESS] = False
 			response[keys.KEY_RESPONSE_MESSAGE] = "Invalid Credential. Please try again."
 			print(str(e))
+		return JsonResponse(response)
 	else:
 		response[keys.KEY_RESPONSE_SUCCESS] = False
 		response[keys.KEY_RESPONSE_MESSAGE] = "Illegal Request!"
