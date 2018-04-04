@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

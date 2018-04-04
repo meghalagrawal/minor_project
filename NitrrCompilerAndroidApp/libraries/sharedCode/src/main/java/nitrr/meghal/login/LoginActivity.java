@@ -3,7 +3,6 @@ package nitrr.meghal.login;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
@@ -18,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 
 import nitrr.meghal.R;
 import nitrr.meghal.Urls;
-import nitrr.meghal.classes.ClassListActivity;
+import nitrr.meghal.classes.view.ClassListActivity;
 import nitrr.meghal.helper.SharedPrefs;
 import nitrr.meghal.login.api.LoginApi;
 import nitrr.meghal.login.data.LoginData;

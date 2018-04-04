@@ -2,5 +2,9 @@
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/raw/changelog.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/raw/changelog.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/raw/changelog.xml",
+        "source": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/raw/changelog.xml"
     }
 ]

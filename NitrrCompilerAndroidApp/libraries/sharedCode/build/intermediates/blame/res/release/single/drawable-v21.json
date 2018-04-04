@@ -4,6 +4,14 @@
         "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/drawable-v21/avd_show_password.xml"
     },
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/ramya/.android/build-cache/f977c0391afc530a6a72013ccd21ba38aa3d618d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
@@ -16,12 +24,36 @@
         "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/drawable-v21/design_password_eye.xml"
     },
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/ramya/.android/build-cache/08a22f9b9fc2d2293557ab16b303b2b2062aefa9/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/ramya/.android/build-cache/08a22f9b9fc2d2293557ab16b303b2b2062aefa9/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/ramya/.android/build-cache/08a22f9b9fc2d2293557ab16b303b2b2062aefa9/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/ramya/.android/build-cache/08a22f9b9fc2d2293557ab16b303b2b2062aefa9/output/res/drawable-v21/design_password_eye.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.github.gabrielemariotti.changeloglib:library-1.5.2">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/3d55df9bdb471f3ae755867adfaa75356fd7e5f8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3d55df9bdb471f3ae755867adfaa75356fd7e5f8/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

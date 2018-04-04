@@ -28,12 +28,12 @@ public final class R {
         public static final int listPreferredItemHeightSmall = 0x7f0a00a0;
     }
     public static final class id {
-        public static final int chg_headerDate = 0x7f1000e9;
-        public static final int chg_headerVersion = 0x7f1000e8;
-        public static final int chg_row = 0x7f1000e4;
-        public static final int chg_rowheader = 0x7f1000e7;
-        public static final int chg_text = 0x7f1000e6;
-        public static final int chg_textbullet = 0x7f1000e5;
+        public static final int chg_headerDate = 0x7f1000ec;
+        public static final int chg_headerVersion = 0x7f1000eb;
+        public static final int chg_row = 0x7f1000e7;
+        public static final int chg_rowheader = 0x7f1000ea;
+        public static final int chg_text = 0x7f1000e9;
+        public static final int chg_textbullet = 0x7f1000e8;
     }
     public static final class integer {
         public static final int font_textStyle_material_item = 0x7f0d0007;
@@ -54,7 +54,7 @@ public final class R {
         public static final int changelog_row_bulletpoint = 0x7f0900b9;
         public static final int changelog_row_prefix_bug = 0x7f0900ba;
         public static final int changelog_row_prefix_improvement = 0x7f0900bb;
-        public static final int font_fontFamily_material_item = 0x7f0900e6;
+        public static final int font_fontFamily_material_item = 0x7f0900e7;
     }
     public static final class styleable {
         public static final int[] ChangeLogListView = { 0x7f0100e9, 0x7f0100ea, 0x7f0100eb, 0x7f0100ec };

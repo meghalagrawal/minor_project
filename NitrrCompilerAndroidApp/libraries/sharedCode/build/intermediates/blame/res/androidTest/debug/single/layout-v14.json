@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrow_material_layout.xml",
+        "source": "/home/ramya/.android/build-cache/3d55df9bdb471f3ae755867adfaa75356fd7e5f8/output/res/layout-v14/changelogrow_material_layout.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrowheader_layout.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/layout-v14/changelogrowheader_layout.xml"
     },
@@ -14,5 +18,17 @@
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrow_material_layout.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/layout-v14/changelogrow_material_layout.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrow_layout.xml",
+        "source": "/home/ramya/.android/build-cache/3d55df9bdb471f3ae755867adfaa75356fd7e5f8/output/res/layout-v14/changelogrow_layout.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrowheader_layout.xml",
+        "source": "/home/ramya/.android/build-cache/3d55df9bdb471f3ae755867adfaa75356fd7e5f8/output/res/layout-v14/changelogrowheader_layout.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrowheader_material_layout.xml",
+        "source": "/home/ramya/.android/build-cache/3d55df9bdb471f3ae755867adfaa75356fd7e5f8/output/res/layout-v14/changelogrowheader_material_layout.xml"
     }
 ]

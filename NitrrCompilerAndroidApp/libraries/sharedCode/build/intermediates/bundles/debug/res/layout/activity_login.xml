@@ -2,10 +2,10 @@
 
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
     <android.support.design.widget.AppBarLayout
@@ -16,9 +16,9 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="56dp"
+            android:background="@color/colorPrimaryDark"
             app:title="@string/login"
-            app:titleTextColor="@color/white"
-            android:background="@color/colorPrimaryDark" />
+            app:titleTextColor="@color/white" />
     </android.support.design.widget.AppBarLayout>
 
     <LinearLayout

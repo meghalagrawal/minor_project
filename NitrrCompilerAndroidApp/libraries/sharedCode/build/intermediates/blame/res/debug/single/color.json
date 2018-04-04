@@ -1,15 +1,23 @@
 [
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/ramya/.android/build-cache/08a22f9b9fc2d2293557ab16b303b2b2062aefa9/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
@@ -32,12 +40,88 @@
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/ramya/.android/build-cache/08a22f9b9fc2d2293557ab16b303b2b2062aefa9/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_tint_spinner.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/switch_thumb_material_light.xml"
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
@@ -52,14 +136,6 @@
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_tint_btn_checkable.xml"
     },
@@ -68,19 +144,27 @@
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_tint_switch_track.xml"
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/color/design_error.xml"
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color/abc_tint_btn_checkable.xml"
     }
 ]

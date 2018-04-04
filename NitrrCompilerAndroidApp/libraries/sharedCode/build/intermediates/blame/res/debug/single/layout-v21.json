@@ -12,7 +12,23 @@
         "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout-v21/notification_action.xml"
     },
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ramya/.android/build-cache/f977c0391afc530a6a72013ccd21ba38aa3d618d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ramya/.android/build-cache/f977c0391afc530a6a72013ccd21ba38aa3d618d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ramya/.android/build-cache/f977c0391afc530a6a72013ccd21ba38aa3d618d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ramya/.android/build-cache/f977c0391afc530a6a72013ccd21ba38aa3d618d/output/res/layout-v21/notification_action.xml"
     }
 ]

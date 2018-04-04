@@ -22,7 +22,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application>
-        <activity android:name=".classes.ClassListActivity"></activity>
+        <activity android:name=".classes.view.ClassListActivity"></activity>
     </application>
 
 </manifest>

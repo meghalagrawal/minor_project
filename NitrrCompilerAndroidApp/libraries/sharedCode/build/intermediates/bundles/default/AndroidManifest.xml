@@ -29,7 +29,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application>
-        <activity android:name="nitrr.meghal.classes.ClassListActivity" />
+        <activity android:name="nitrr.meghal.classes.view.ClassListActivity" />
     </application>
 
 </manifest>

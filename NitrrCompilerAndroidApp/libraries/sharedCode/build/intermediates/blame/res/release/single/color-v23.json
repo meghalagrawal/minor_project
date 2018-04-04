@@ -12,8 +12,36 @@
         "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/color-v23/design_tint_password_toggle.xml"
     },
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/ramya/.android/build-cache/08a22f9b9fc2d2293557ab16b303b2b2062aefa9/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
@@ -36,7 +64,19 @@
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ramya/AndroidStudioProjects/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ramya/.android/build-cache/225cb721e055ff73a54212aa466173472a9b3c51/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     }
 ]
