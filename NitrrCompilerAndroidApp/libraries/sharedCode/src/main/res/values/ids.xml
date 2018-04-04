@@ -64,6 +64,7 @@
     <item type="id" name="drawer_files"/>
     <item type="id" name="drawer_settings"/>
     <item type="id" name="button_remove_from_list"/>
+    <item type="id" name="stdin_input"/>
 
     <item type="id" name="text_editor"/>
     <item type="id" name="no_file_opened_messagge"/>

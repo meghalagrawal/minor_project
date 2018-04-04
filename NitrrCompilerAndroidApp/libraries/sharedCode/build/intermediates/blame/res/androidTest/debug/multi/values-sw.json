@@ -6,18 +6,18 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 102,
-                    "endOffset": 153
+                    "endOffset": 203
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 105,
                         "endColumn": 102,
-                        "endOffset": 389
+                        "endOffset": 203
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 158,
+                    "startOffset": 208,
                     "endColumn": 97,
-                    "endOffset": 251
+                    "endOffset": 301
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 394,
+                        "startOffset": 208,
                         "endColumn": 97,
-                        "endOffset": 487
+                        "endOffset": 301
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 256,
+                    "startOffset": 306,
                     "endColumn": 107,
-                    "endOffset": 359
+                    "endOffset": 409
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 492,
+                        "startOffset": 306,
                         "endColumn": 107,
-                        "endOffset": 595
+                        "endOffset": 409
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 364,
+                    "startOffset": 414,
                     "endColumn": 89,
-                    "endOffset": 449
+                    "endOffset": 499
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 600,
+                        "startOffset": 414,
                         "endColumn": 89,
-                        "endOffset": 685
+                        "endOffset": 499
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 454,
+                    "startOffset": 504,
                     "endColumn": 104,
-                    "endOffset": 554
+                    "endOffset": 604
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 690,
+                        "startOffset": 504,
                         "endColumn": 104,
-                        "endOffset": 790
+                        "endOffset": 604
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 559,
+                    "startOffset": 609,
                     "endColumn": 116,
-                    "endOffset": 671
+                    "endOffset": 721
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 795,
+                        "startOffset": 609,
                         "endColumn": 116,
-                        "endOffset": 907
+                        "endOffset": 721
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 676,
-                    "endColumn": 100,
-                    "endOffset": 772
+                    "startOffset": 726,
+                    "endColumn": 81,
+                    "endOffset": 803
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 912,
-                        "endColumn": 100,
-                        "endOffset": 1008
+                        "startOffset": 726,
+                        "endColumn": 81,
+                        "endOffset": 803
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 777,
-                    "endColumn": 108,
-                    "endOffset": 881
+                    "startOffset": 808,
+                    "endColumn": 82,
+                    "endOffset": 886
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1013,
-                        "endColumn": 108,
-                        "endOffset": 1117
+                        "startOffset": 808,
+                        "endColumn": 82,
+                        "endOffset": 886
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 886,
-                    "endColumn": 98,
-                    "endOffset": 980
+                    "startOffset": 891,
+                    "endColumn": 81,
+                    "endOffset": 968
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1122,
-                        "endColumn": 98,
-                        "endOffset": 1216
+                        "startOffset": 891,
+                        "endColumn": 81,
+                        "endOffset": 968
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 985,
-                    "endColumn": 106,
-                    "endOffset": 1087
+                    "startOffset": 973,
+                    "endColumn": 100,
+                    "endOffset": 1069
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1221,
-                        "endColumn": 106,
-                        "endOffset": 1323
+                        "startOffset": 973,
+                        "endColumn": 100,
+                        "endOffset": 1069
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1092,
+                    "startOffset": 1074,
                     "endColumn": 108,
-                    "endOffset": 1196
+                    "endOffset": 1178
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1328,
+                        "startOffset": 1074,
                         "endColumn": 108,
-                        "endOffset": 1432
+                        "endOffset": 1178
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1201,
-                    "endColumn": 104,
-                    "endOffset": 1301
+                    "startOffset": 1183,
+                    "endColumn": 98,
+                    "endOffset": 1277
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1437,
-                        "endColumn": 104,
-                        "endOffset": 1537
+                        "startOffset": 1183,
+                        "endColumn": 98,
+                        "endOffset": 1277
                     }
                 }
             },
@@ -234,18 +234,132 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1306,
-                    "endColumn": 118,
-                    "endOffset": 1420
+                    "startOffset": 1282,
+                    "endColumn": 106,
+                    "endOffset": 1384
                 },
                 "from": {
-                    "file": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/values-sw/values-sw.xml",
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 106,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 108,
+                    "endOffset": 1493
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 108,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1498,
+                    "endColumn": 104,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1542,
-                        "endColumn": 118,
-                        "endOffset": 1656
+                        "startOffset": 1498,
+                        "endColumn": 104,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 161,
+                    "endOffset": 1760
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 161,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1765,
+                    "endColumn": 96,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 96,
+                        "endOffset": 1857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endColumn": 81,
+                    "endOffset": 1939
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1862,
+                        "endColumn": 81,
+                        "endOffset": 1939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1944,
+                    "endColumn": 100,
+                    "endOffset": 2040
+                },
+                "from": {
+                    "file": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
                     }
                 }
             }

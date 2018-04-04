@@ -61,7 +61,7 @@
     <string name="codifica">Encoding</string>
     <string name="condividi">Share</string>
     <string name="info">Info</string>
-    <string name="nome_app_turbo_editor">Compiler</string>
+    <string name="nome_app_turbo_editor">Nitrr Compiler</string>
     <string name="preferenze">Preferences</string>
     <string name="salva">Save</string>
     <string name="save_as">Save as</string>
@@ -83,4 +83,6 @@
     <string name="file_cannot_be_renamed">The file cannot be renamed</string>
     <string name="use_storage_access_framework">Use the "Storage Access Framework"</string>
     <string name="nitrr_compiler">Nitrr Compiler</string>
+    <string name="enter_standard_input_here">Enter Standard Input here!</string>
+    <string name="login">Login</string>
 </resources>

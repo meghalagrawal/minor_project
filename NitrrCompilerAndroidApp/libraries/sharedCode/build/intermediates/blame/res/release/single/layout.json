@@ -1,11 +1,15 @@
 [
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/changelogrow_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/layout/changelogrow_layout.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/item_file_list.xml",
@@ -16,16 +20,24 @@
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/activity_licenses.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_simple_dropdown_hint.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_simple_dropdown_hint.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog_fragment_file_info.xml",
@@ -36,48 +48,68 @@
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/toolbar.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_template_lines.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_select_dialog_material.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_list_menu_item_radio.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_expanded_menu_layout.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/item_drawer_list.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/item_drawer_list.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/changelogrow_material_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/layout/changelogrow_material_layout.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_layout_snackbar.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_action_mode_close_item_material.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/fragment_reader_listview.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/fragment_reader_listview.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_navigation_menu.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_template_part_chronometer.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/select_dialog_multichoice_material.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_action_bar_title_item.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/item_two_lines.xml",
@@ -89,19 +121,19 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_list_menu_item_icon.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_media_cancel_action.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/activity_home.xml",
@@ -109,51 +141,79 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_action_mode_bar.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/dialog.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/select_dialog_singlechoice_material.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_popup_menu_item_layout.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_screen_simple.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_action_menu_item_layout.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_list_menu_item_layout.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog_skeleton.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/dialog_skeleton.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_alert_dialog_material.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_media_action.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_media_action.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/tooltip.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/tooltip.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/activity_select_file.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/activity_select_file.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_activity_chooser_view.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/demo_changelog_fragment_dialogstandard.xml",
@@ -161,23 +221,27 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_dialog_title_material.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/fragment_settings.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/fragment_settings.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/select_dialog_item_material.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/activity_login.xml",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/changelogrowheader_material_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/layout/changelogrowheader_material_layout.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_template_part_time.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog_encoding_list.xml",
@@ -185,31 +249,43 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_screen_toolbar.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_search_view.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_search_view.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_layout_tab_icon.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog_fragment_new_file_details.xml",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/dialog_fragment_new_file_details.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_screen_content_include.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/changelogrowheader_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/8ee9ada0f4d79b9f84d4b0add57906c159746a44/output/res/layout/changelogrowheader_layout.xml"
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_action_menu_layout.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_media.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_template_media.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/item_single_choice.xml",
@@ -217,7 +293,7 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_action_bar_up_container.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog_fragment_find_text.xml",
@@ -225,7 +301,11 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/meghalagrawal/.android/build-cache/2cf5d4f57e6c02aaea47e9ca6c67c7ae87a9b79d/output/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog_fragment_edittext.xml",
@@ -233,7 +313,7 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_template_big_media_narrow.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/dialog_theme_list.xml",
@@ -241,6 +321,6 @@
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
-        "source": "/Users/meghalagrawal/.android/build-cache/e00639f14940ebcfec643b4994b97a936d89ce55/output/res/layout/notification_template_big_media.xml"
+        "source": "/Users/meghalagrawal/.android/build-cache/3002d77e9f29299acd3d24434d2dde698bb59e01/output/res/layout/notification_template_big_media.xml"
     }
 ]

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright (C) 2014 Vlad Mihalachi
   ~
   ~ This file is part of Turbo Editor.
@@ -83,6 +82,10 @@
     <string name="file_cannot_be_renamed">The file cannot be renamed</string>
     <string name="use_storage_access_framework">Use the "Storage Access Framework"</string>
     <string name="compile">Compile</string>
-    <string name="compiler">Compiler</string>
+    <string name="compiler">NITRR Compiler</string>
     <string name="language">Language</string>
+    <string name="nitrr_compiler">Nitrr Compiler</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forget PAssword</string>
+    <string name="sign_up">Sign Up</string>
 </resources>

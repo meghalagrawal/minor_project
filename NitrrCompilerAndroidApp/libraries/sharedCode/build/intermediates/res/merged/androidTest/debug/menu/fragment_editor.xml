@@ -68,7 +68,6 @@
         android:id="@id/im_view_it_on_browser"
         app:showAsAction="never"
         android:title="@string/view_it_on_the_web"
-        android:visible="false"
         />
     <item
         android:id="@id/im_view_markdown"
@@ -90,6 +89,8 @@
         app:showAsAction="never"
         android:title="@string/compile"
         />
+
+
     <item
         android:id="@id/im_info"
         app:showAsAction="never"

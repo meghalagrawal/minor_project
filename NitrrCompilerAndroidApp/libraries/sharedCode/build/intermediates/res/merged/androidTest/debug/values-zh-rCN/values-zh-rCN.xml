@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
     <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
     <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
     <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
     <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
     <string name="about_action">关于</string>
     <string name="about_message">Turbo Editor 是一款免费并且&lt;a href="http://github.com/vmihalachi/turbo-editor"> 开源&lt;/a> 的应用。
 Copyright 2013-2014 &lt;a href="https://plus.google.com/+VladMihalachi">Vlad Mihalachi&lt;/a>. All Rights Reserved.&lt;br/>
@@ -142,6 +146,7 @@ Copyright 2013-2014 &lt;a href="https://plus.google.com/+VladMihalachi">Vlad Mih
     <string name="save_as">另存为</string>
     <string name="save_changes">你想要将所做的更改保存到文件 %s 吗？</string>
     <string name="scuro">暗的</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
     <string name="seleziona">选择</string>
     <string name="seleziona_account">选择账户</string>
     <string name="send_error_reports">发送错误报告</string>
@@ -156,6 +161,7 @@ Copyright 2013-2014 &lt;a href="https://plus.google.com/+VladMihalachi">Vlad Mih
     <string name="something_failed">失败</string>
     <string name="sort">排序</string>
     <string name="split_text_if_too_long">长文本拆分</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sync">同步</string>
     <string name="tema_app">应用主题</string>
     <string name="testo_indietro">撤消</string>

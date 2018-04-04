@@ -39,6 +39,10 @@
         <item>Floating Action Button</item>
     </string-array>
     <color name="actionbar_background">#212121</color>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF5900</color>
+    <color name="colorPrimary">#0267C1</color>
+    <color name="colorPrimaryDark">#17428C</color>
     <color name="divider">#e5e5e5</color>
     <color name="divider_inverted">#ff2a2a2a</color>
     <color name="donation_normal">#b6cc45</color>
@@ -72,6 +76,7 @@
     <color name="syntax_variable">#ff009688</color>
     <color name="textColor">#ffffffff</color>
     <color name="textColorInverted">#ff212121</color>
+    <color name="white">#FFFFFF</color>
     <color name="window_background">#212121</color>
     <color name="window_background_light">#ffffff</color>
     <declare-styleable name="Theme"><attr format="reference" name="textAppearanceDialogTitle"/><attr format="reference" name="textAppearanceDialogMessage"/><attr format="reference" name="textAppearanceDialogInfo"/></declare-styleable>
@@ -87,8 +92,16 @@
     <dimen name="item_file_list_height">72dp</dimen>
     <dimen name="line_dimension">1dp</dimen>
     <dimen name="list_horizontal_margin">0dp</dimen>
+    <dimen name="margin_extra_small">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_very_small">2dp</dimen>
     <dimen name="minimum_padding">2dp</dimen>
     <dimen name="navigation_drawer_width">300dp</dimen>
+    <dimen name="padding_large">6dp</dimen>
+    <dimen name="padding_small">2dp</dimen>
+    <dimen name="padding_very_large">8dp</dimen>
+    <dimen name="textSizeSmall">8dp</dimen>
+    <dimen name="text_size_large">18dp</dimen>
     <dimen name="text_size_mega_title">25sp</dimen>
     <dimen name="text_size_subtitle">14sp</dimen>
     <dimen name="text_size_title">16sp</dimen>
@@ -144,6 +157,7 @@
     <item name="no_file_opened_messagge" type="id"/>
     <item name="regex_check" type="id"/>
     <item name="replace_check" type="id"/>
+    <item name="stdin_input" type="id"/>
     <item name="switch_accessory_view" type="id"/>
     <item name="switch_auto_save" type="id"/>
     <item name="switch_ignore_backbutton" type="id"/>
@@ -194,7 +208,7 @@
     <string name="close">Close</string>
     <string name="codifica">Encoding</string>
     <string name="compile">Compile</string>
-    <string name="compiler">Compiler</string>
+    <string name="compiler">NITRR Compiler</string>
     <string name="condividi">Share</string>
     <string name="connection_name">Connection Name</string>
     <string name="copy_url">Copy URL</string>
@@ -241,6 +255,7 @@
     <string name="find">Find</string>
     <string name="folder">Folder</string>
     <string name="font_size">Font size</string>
+    <string name="forgot_password">Forget PAssword</string>
     <string name="goto_line">Go to Line…</string>
     <string name="goto_page">Go to Page…</string>
     <string name="home">Home</string>
@@ -250,11 +265,13 @@
     <string name="info">Info</string>
     <string name="is_the_working_folder">This is the working folder</string>
     <string name="keyboard_suggestions_and_swipe">Keyboard suggestions and Swipe</string>
+    <string name="language">Language</string>
     <string name="light_theme">Light Theme</string>
     <string name="line_numbers">Line Numbers</string>
     <string name="local_folder_to_sync">Local folder to sync</string>
     <string name="locale">Local</string>
     <string name="log_in">Logging in…</string>
+    <string name="login">Login</string>
     <string name="long_click_for_more_options">Long click for more options</string>
     <string name="match_case">Match case</string>
     <string name="menu_syntax_highlight">Syntax highlight</string>
@@ -266,6 +283,7 @@
     <string name="new_file">New file</string>
     <string name="new_local_file">New local file</string>
     <string name="next">Next</string>
+    <string name="nitrr_compiler">Nitrr Compiler</string>
     <string name="no">No</string>
     <string name="nome_app">Turbo Client</string>
     <string name="nome_app_turbo_editor">Turbo Editor</string>
@@ -306,6 +324,7 @@
     <string name="share">Share</string>
     <string name="share_accounts">Backup and share the accounts</string>
     <string name="sicuro">Are you sure?</string>
+    <string name="sign_up">Sign Up</string>
     <string name="size">Size</string>
     <string name="skip_same_file">Do not transfer same file</string>
     <string name="something_failed">Something failed</string>

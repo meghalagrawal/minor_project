@@ -3,8 +3,8 @@
     package="nitrr.meghal.test" >
 
     <uses-sdk
-        android:minSdkVersion="11"
-        android:targetSdkVersion="22" />
+        android:minSdkVersion="14"
+        android:targetSdkVersion="27" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
@@ -17,6 +17,8 @@
 
     <application android:allowBackup="true" >
         <uses-library android:name="android.test.runner" />
+
+        <activity android:name="nitrr.meghal.login.LoginActivity" />
     </application>
 
 </manifest>

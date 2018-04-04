@@ -24,7 +24,7 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.view.MenuItemCompat;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
@@ -59,7 +59,7 @@ import nitrr.meghal.util.AlphanumComparator;
 import nitrr.meghal.util.Build;
 import nitrr.meghal.util.ThemeUtils;
 
-public class SelectFileActivity extends ActionBarActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemClickListener, EditTextDialog.EditDialogListener {
+public class SelectFileActivity extends AppCompatActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemClickListener, EditTextDialog.EditDialogListener {
     private String currentFolder;
     private ListView listView;
     private boolean wantAFile = true;

@@ -36,7 +36,7 @@ public class CompilerPresenterImpl implements CompilerPresenter {
 				}
 
 
-				compilerView.showOutput("Output: "+compilerResponse.getOutput()+"\n\n"+"Compilation Time:"+compilerResponse.getTime()+"\n\nError :"+error);
+				compilerView.showOutput("Output: "+compilerResponse.getOutput()+"\n\n"+"Compilation Time: "+compilerResponse.getTime()+"\n\nError: "+error);
 //				compilerView.showRunTime(compilerResponse.getTime());
 //				compilerView.showError(compilerResponse.getErrors());
 			}

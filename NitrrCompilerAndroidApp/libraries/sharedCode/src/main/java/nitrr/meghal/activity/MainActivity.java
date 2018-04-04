@@ -41,9 +41,9 @@ import android.provider.DocumentsContract;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.view.MenuItemCompat;
-import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AlertDialog;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.ShareActionProvider;
 import android.support.v7.widget.Toolbar;
 import android.text.Editable;
@@ -81,6 +81,7 @@ import org.apache.commons.lang3.ArrayUtils;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -132,7 +133,7 @@ import nitrr.meghal.views.CustomDrawerLayout;
 import nitrr.meghal.views.DialogHelper;
 import nitrr.meghal.views.GoodScrollView;
 
-public abstract class MainActivity extends ActionBarActivity implements IHomeActivity, FindTextDialog
+public abstract class MainActivity extends AppCompatActivity implements IHomeActivity, FindTextDialog
         .SearchDialogInterface, GoodScrollView.ScrollInterface, PageSystem.PageSystemInterface,
         PageSystemButtons.PageButtonsInterface, NumberPickerDialog.INumberPickerDialog, SaveFileDialog.ISaveDialog,
         AdapterView.OnItemClickListener, AdapterDrawer.Callbacks, AccessoryView.IAccessoryView, EditTextDialog.EditDialogListener,
@@ -153,14 +154,6 @@ public abstract class MainActivity extends ActionBarActivity implements IHomeAct
             ID_REDO = R.id.im_redo,
             CHARS_TO_COLOR = 2500;
 
-	//languages
-
-	private static final String SELECT_LANGUAGE = "Select Programming Language" ;
-	private static final String PYTHON = "python" ;
-	private static final String C = "C" ;
-	private static final String CPP = "C++" ;
-	private static final String JAVA = "JAVA" ;
-	private static final String PERL = "PERL" ;
 
 
 	private final Handler updateHandler = new Handler();
@@ -209,6 +202,7 @@ public abstract class MainActivity extends ActionBarActivity implements IHomeAct
 	private CompilerPresenter compilerPresenter;
     private ProgressDialog progressDialog;
     private static int LANGUAGE_ID=7;
+    private EditText stdin;
 
     //endregion
 
@@ -239,6 +233,8 @@ public abstract class MainActivity extends ActionBarActivity implements IHomeAct
         // parse the intent
 
 		parseIntent(getIntent());
+
+//        stdin = (EditText)findViewById(R.id.stdin_input);
 		compilerPresenter = new CompilerPresenterImpl(this,new RetrofitCompilerHelper());
 
         progressDialog = new ProgressDialog(this);
@@ -691,6 +687,7 @@ public abstract class MainActivity extends ActionBarActivity implements IHomeAct
             startActivity(browserIntent);
         }else if (i == R.id.im_compile) {
 //			Toast.makeText(this,mEditor.getText().toString(),Toast.LENGTH_SHORT).show();
+
 			compilerPresenter.compileCode(LANGUAGE_ID,mEditor.getText().toString(),"");
 		}
         else if (i == R.id.im_info) {
@@ -1565,7 +1562,12 @@ public abstract class MainActivity extends ActionBarActivity implements IHomeAct
     public void onEdittextDialogEnded(String result, String hint, EditTextDialog.Actions action) {
 
         if (Device.hasKitKatApi() && TextUtils.isEmpty(greatUri.getFilePath())) {
-            Uri newUri = DocumentsContract.renameDocument(getContentResolver(), greatUri.getUri(), result);
+            Uri newUri = null;
+            try {
+                newUri = DocumentsContract.renameDocument(getContentResolver(), greatUri.getUri(), result);
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            }
             // if everything is ok
             if (newUri != null) {
 

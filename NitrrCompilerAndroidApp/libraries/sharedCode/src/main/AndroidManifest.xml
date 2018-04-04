@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright (C) 2014 Vlad Mihalachi
   ~
   ~ This file is part of Turbo Editor.
@@ -16,11 +15,12 @@
   ~
   ~ You should have received a copy of the GNU General Public License
   ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
+-->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nitrr.meghal" >
+    package="nitrr.meghal">
 
     <uses-permission android:name="android.permission.INTERNET" />
+
 
 
 </manifest>

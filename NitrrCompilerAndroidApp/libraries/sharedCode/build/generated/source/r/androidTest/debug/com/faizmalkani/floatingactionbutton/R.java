@@ -7,4 +7,21 @@
 package com.faizmalkani.floatingactionbutton;
 
 public final class R {
+    public static final class attr {
+        public static final int colour = 0x7f01011a;
+        public static final int drawable = 0x7f010119;
+        public static final int shadowColor = 0x7f01011e;
+        public static final int shadowDx = 0x7f01011c;
+        public static final int shadowDy = 0x7f01011d;
+        public static final int shadowRadius = 0x7f01011b;
+    }
+    public static final class styleable {
+        public static final int[] FloatingActionButton = { 0x7f010048, 0x7f010114, 0x7f010115, 0x7f010116, 0x7f010117, 0x7f010118, 0x7f010119, 0x7f01011a, 0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e, 0x7f01019c, 0x7f01019d };
+        public static final int FloatingActionButton_colour = 7;
+        public static final int FloatingActionButton_drawable = 6;
+        public static final int FloatingActionButton_shadowColor = 11;
+        public static final int FloatingActionButton_shadowDx = 9;
+        public static final int FloatingActionButton_shadowDy = 10;
+        public static final int FloatingActionButton_shadowRadius = 8;
+    }
 }
