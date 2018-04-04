@@ -19,7 +19,7 @@
 
 <resources>
 
-    <style name="AppThemeBaseDark" parent="Theme.AppCompat.Light">
+    <style name="AppThemeBaseDark" parent="Theme.AppCompat.NoActionBar">
         <item name="windowActionModeOverlay">true</item>
         <item name="actionModeStyle">@style/LStyled.ActionMode</item>
         <!-- Dialog -->
@@ -40,7 +40,7 @@
         <item name="colorAccent">@color/accent_material_dark</item>
     </style>
 
-    <style name="AppThemeBaseLight" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppThemeBaseLight" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="windowActionModeOverlay">true</item>
         <item name="actionModeStyle">@style/LStyled.ActionMode</item>
         <!-- Dialog -->

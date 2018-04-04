@@ -28,21 +28,21 @@ public final class R {
         public static int listPreferredItemHeightSmall = 0x7f0a00a0;
     }
     public static final class id {
-        public static int chg_headerDate = 0x7f1000e9;
-        public static int chg_headerVersion = 0x7f1000e8;
-        public static int chg_row = 0x7f1000e4;
-        public static int chg_rowheader = 0x7f1000e7;
-        public static int chg_text = 0x7f1000e6;
-        public static int chg_textbullet = 0x7f1000e5;
+        public static int chg_headerDate = 0x7f1000ec;
+        public static int chg_headerVersion = 0x7f1000eb;
+        public static int chg_row = 0x7f1000e7;
+        public static int chg_rowheader = 0x7f1000ea;
+        public static int chg_text = 0x7f1000e9;
+        public static int chg_textbullet = 0x7f1000e8;
     }
     public static final class integer {
         public static int font_textStyle_material_item = 0x7f0d0007;
     }
     public static final class layout {
-        public static int changelogrow_layout = 0x7f04001e;
-        public static int changelogrow_material_layout = 0x7f04001f;
-        public static int changelogrowheader_layout = 0x7f040020;
-        public static int changelogrowheader_material_layout = 0x7f040021;
+        public static int changelogrow_layout = 0x7f04001f;
+        public static int changelogrow_material_layout = 0x7f040020;
+        public static int changelogrowheader_layout = 0x7f040021;
+        public static int changelogrowheader_material_layout = 0x7f040022;
     }
     public static final class raw {
         public static int changelog = 0x7f080000;
@@ -54,7 +54,7 @@ public final class R {
         public static int changelog_row_bulletpoint = 0x7f0900b9;
         public static int changelog_row_prefix_bug = 0x7f0900ba;
         public static int changelog_row_prefix_improvement = 0x7f0900bb;
-        public static int font_fontFamily_material_item = 0x7f0900e6;
+        public static int font_fontFamily_material_item = 0x7f0900e7;
     }
     public static final class styleable {
         public static int[] ChangeLogListView = { 0x7f0100e9, 0x7f0100ea, 0x7f0100eb, 0x7f0100ec };

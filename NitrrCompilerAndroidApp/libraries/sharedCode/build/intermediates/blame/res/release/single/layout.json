@@ -200,6 +200,10 @@
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/activity_select_file.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/activity_class_list.xml",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/activity_class_list.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/b0402896b564a6e6d37e53b81acf48193fd824dc/output/res/layout/notification_action_tombstone.xml"
     },

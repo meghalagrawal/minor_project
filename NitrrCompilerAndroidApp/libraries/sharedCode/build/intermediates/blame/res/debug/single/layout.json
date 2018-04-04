@@ -208,6 +208,10 @@
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/layout/activity_class_list.xml",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/res/layout/activity_class_list.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/meghalagrawal/.android/build-cache/3b16be846cb6ce9cb53a092fb1596c4d876160c8/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },

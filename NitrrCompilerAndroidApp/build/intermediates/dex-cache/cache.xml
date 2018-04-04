@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
-        sha1="3b76be8d4b77c183b3d052bbbe113a77aa7c9289">
+        sha1="0c1970d8121cef8380a252a68ee07f31bf8332e2">
         <dex dex="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ba4ba532fd76d5d9eb16a3f71c1a2b3cb208a4d/classes.dex" />
     </item>
     <item

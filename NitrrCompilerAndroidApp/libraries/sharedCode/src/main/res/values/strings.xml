@@ -88,4 +88,6 @@
     <string name="login">Login</string>
     <string name="forgot_password">Forget PAssword</string>
     <string name="sign_up">Sign Up</string>
+    <string name="classes">Classes</string>
+    <string name="join_new_class">Join New Class</string>
 </resources>

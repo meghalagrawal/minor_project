@@ -2,6 +2,7 @@ package nitrr.meghal.login;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -17,6 +18,8 @@ import java.util.concurrent.TimeUnit;
 
 import nitrr.meghal.R;
 import nitrr.meghal.Urls;
+import nitrr.meghal.classes.ClassListActivity;
+import nitrr.meghal.helper.SharedPrefs;
 import nitrr.meghal.login.api.LoginApi;
 import nitrr.meghal.login.data.LoginData;
 import okhttp3.OkHttpClient;
@@ -33,6 +36,7 @@ public class LoginActivity extends Activity {
     EditText email, password;
     Button login;
     private ProgressDialog progressDialog;
+    private SharedPrefs sharedPrefs;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,6 +51,14 @@ public class LoginActivity extends Activity {
         progressDialog.setTitle("Connecting to servers . .");
         progressDialog.setMessage("Logging In . .");
 
+        sharedPrefs = new SharedPrefs(this);
+
+        if (sharedPrefs.getAccessToken() != null) {
+            Intent intent = new Intent(LoginActivity.this, ClassListActivity.class);
+
+            startActivity(intent);
+            finish();
+        }
 
         login.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -75,8 +87,14 @@ public class LoginActivity extends Activity {
                     @Override
                     public void onResponse(Call<LoginData> call, Response<LoginData> response) {
                         if (response.body().isSuccess()) {
-                            // Intent to next page
+
                             Toast.makeText(LoginActivity.this, "Login Successful", Toast.LENGTH_SHORT).show();
+                            sharedPrefs.setAccessToken(response.body().getAccess_token());
+
+                            Intent intent = new Intent(LoginActivity.this, ClassListActivity.class);
+                            startActivity(intent);
+                            finish();
+
                         } else {
                             showMessage(response.body().getMessage());
                         }

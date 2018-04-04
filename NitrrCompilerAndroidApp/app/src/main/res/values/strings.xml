@@ -85,4 +85,5 @@
     <string name="nitrr_compiler">Nitrr Compiler</string>
     <string name="enter_standard_input_here">Enter Standard Input here!</string>
     <string name="login">Login</string>
+    <string name="classes">Classes</string>
 </resources>
