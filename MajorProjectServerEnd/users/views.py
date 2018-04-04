@@ -4,6 +4,8 @@ from keys import KEY_RESPONSE_SUCCESS,KEY_RESPONSE_MESSAGE,KEY_JWT_ACCESS_TOKEN,
 import keys
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
+from users.models import UserData
+import jwt
 
 
 @csrf_exempt
@@ -18,7 +20,7 @@ def login(request):
 				response[keys.KEY_RESPONSE_SUCCESS] = True
 				response[keys.KEY_RESPONSE_MESSAGE] = "Successful"
 				access_token = jwt.encode({keys.KEY_JWT_ACCESS_TOKEN: email}, keys.KEY_ACCESS_TOKEN_ENCRYPTION,algorithm='HS256')
-				response[keys.KEY_RESPONSE_ACCESS_TOKEN] = access_token
+				response["access_token"] = access_token
 			else:
 				response[keys.KEY_RESPONSE_SUCCESS] = False
 				response[keys.KEY_RESPONSE_MESSAGE] = "Email and password does not match"
