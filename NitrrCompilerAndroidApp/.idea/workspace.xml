@@ -37,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/login/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="78" column="110" lean-forward="false" selection-start-line="78" selection-start-column="110" selection-end-line="78" selection-end-column="110" />
+            <state relative-caret-position="507">
+              <caret line="79" column="32" lean-forward="false" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1510#3498#0" expanded="true" />
@@ -82,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Urls.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Urls.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/Urls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+            <state relative-caret-position="60">
+              <caret line="4" column="66" lean-forward="false" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -5482,9 +5482,9 @@
         <option value="$PROJECT_DIR$/libraries/sharedCode/src/main/res/layout/activity_login.xml" />
         <option value="$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/login/OnLoginSuccessful.java" />
         <option value="$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/login/data/LoginData.java" />
-        <option value="$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/Urls.java" />
         <option value="$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/login/api/LoginApi.java" />
         <option value="$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/login/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/Urls.java" />
       </list>
     </option>
   </component>
@@ -6039,7 +6039,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823167762" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823550272" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -6087,7 +6087,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823167762" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823550272" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -6270,7 +6270,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823167762" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823550273" />
       </method>
     </configuration>
     <configuration default="false" name="app-pro" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
@@ -6319,7 +6319,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823167762" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522823550273" />
       </method>
     </configuration>
     <list size="2">
@@ -6360,7 +6360,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2008547" sideWeight="0.5041841" order="2" side_tool="true" content_ui="tabs" />
@@ -6882,14 +6881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/Urls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/login/api/LoginApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -6902,8 +6893,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/login/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="78" column="110" lean-forward="false" selection-start-line="78" selection-start-column="110" selection-end-line="78" selection-end-column="110" />
+        <state relative-caret-position="507">
+          <caret line="79" column="32" lean-forward="false" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1510#3498#0" expanded="true" />
@@ -6911,6 +6902,14 @@
             <element signature="e#3545#3546#0" expanded="true" />
             <element signature="e#3617#3618#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/sharedCode/src/main/java/nitrr/meghal/Urls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="66" lean-forward="false" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>

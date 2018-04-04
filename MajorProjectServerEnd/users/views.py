@@ -3,9 +3,10 @@ from keys import KEY_RESPONSE_SUCCESS,KEY_RESPONSE_MESSAGE,KEY_JWT_ACCESS_TOKEN,
 # Create your views here.
 import keys
 from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
 
 
-
+@csrf_exempt
 def login(request):
 	response = {}
 	if request.method == 'POST':
