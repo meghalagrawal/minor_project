@@ -8,20 +8,28 @@ package com.faizmalkani.floatingactionbutton;
 
 public final class R {
     public static final class attr {
-        public static int colour = 0x7f01011a;
-        public static int drawable = 0x7f010119;
-        public static int shadowColor = 0x7f01011e;
-        public static int shadowDx = 0x7f01011c;
-        public static int shadowDy = 0x7f01011d;
-        public static int shadowRadius = 0x7f01011b;
+        public static int colour = 0x7f040067;
+        public static int drawable = 0x7f040085;
+        public static int shadowColor = 0x7f040136;
+        public static int shadowDx = 0x7f040137;
+        public static int shadowDy = 0x7f040138;
+        public static int shadowRadius = 0x7f040139;
     }
     public static final class styleable {
-        public static int[] FloatingActionButton = { 0x7f010048, 0x7f010114, 0x7f010115, 0x7f010116, 0x7f010117, 0x7f010118, 0x7f010119, 0x7f01011a, 0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e, 0x7f01019c, 0x7f01019d };
-        public static int FloatingActionButton_colour = 7;
-        public static int FloatingActionButton_drawable = 6;
-        public static int FloatingActionButton_shadowColor = 11;
-        public static int FloatingActionButton_shadowDx = 9;
-        public static int FloatingActionButton_shadowDy = 10;
-        public static int FloatingActionButton_shadowRadius = 8;
+        public static int[] FloatingActionButton = { 0x7f040035, 0x7f040036, 0x7f04003d, 0x7f040067, 0x7f040085, 0x7f04008d, 0x7f040099, 0x7f040121, 0x7f04012b, 0x7f040136, 0x7f040137, 0x7f040138, 0x7f040139, 0x7f040193 };
+        public static int FloatingActionButton_backgroundTint = 0;
+        public static int FloatingActionButton_backgroundTintMode = 1;
+        public static int FloatingActionButton_borderWidth = 2;
+        public static int FloatingActionButton_colour = 3;
+        public static int FloatingActionButton_drawable = 4;
+        public static int FloatingActionButton_elevation = 5;
+        public static int FloatingActionButton_fabSize = 6;
+        public static int FloatingActionButton_pressedTranslationZ = 7;
+        public static int FloatingActionButton_rippleColor = 8;
+        public static int FloatingActionButton_shadowColor = 9;
+        public static int FloatingActionButton_shadowDx = 10;
+        public static int FloatingActionButton_shadowDy = 11;
+        public static int FloatingActionButton_shadowRadius = 12;
+        public static int FloatingActionButton_useCompatPadding = 13;
     }
 }
