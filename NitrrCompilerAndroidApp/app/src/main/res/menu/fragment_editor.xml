@@ -112,4 +112,11 @@
         android:title="@string/donation_action"
         android:visible="false"
         />
+
+    <item
+        android:id="@id/im_submit"
+        android:title="@string/submit"
+        app:showAsAction="never"
+
+        />
 </menu>

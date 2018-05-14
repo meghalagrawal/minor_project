@@ -20,8 +20,8 @@ from django.conf.urls.static import static
 from onboarding.views import splash_screen,welcome
 from users.views import login
 from classes.views import classes
-from assignments.views import assignments
-from assignments.views import compiler
+from assignments.views import assignments,submissions
+from assignments.views import compiler,submit_assignment
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
@@ -31,8 +31,11 @@ urlpatterns = [
     url(r'^classes/list/$', classes),
     url(r'^classes/add/$', classes),
     url(r'^assignments/list/$', assignments),
-    url(r'^submissions/list/$', assignments),
+    url(r'^submissions/list/$', submissions),
     url(r'^compiler/$', compiler),
+    url(r'^submit_assignment/$', submit_assignment),
+
+
 
 
 ]

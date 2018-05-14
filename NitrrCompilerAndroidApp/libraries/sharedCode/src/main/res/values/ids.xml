@@ -55,6 +55,8 @@
     <item type="id" name="im_next_page"/>
     <item type="id" name="im_prev_page"/>
     <item type="id" name="im_donate"/>
+    <item type="id" name="im_submit"/>
+
     <!-- layout item ids -->
     <item type="id" name="drawer_layout"/>
     <item type="id" name="editor"/>

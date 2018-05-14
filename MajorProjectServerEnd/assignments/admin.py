@@ -10,7 +10,7 @@ class AssignmentDataAdmin(admin.ModelAdmin):
 admin.site.register(AssignmentData, AssignmentDataAdmin)
 
 class AssignmentSubmissionDataAdmin(admin.ModelAdmin):
-    list_display = []
+    list_display = ["assignment_instance","user_instance","time_taken"]
     # search_fields = ["title"]
 
 

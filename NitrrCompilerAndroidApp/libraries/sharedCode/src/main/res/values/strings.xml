@@ -93,4 +93,5 @@
     <string name="assignments">Assignments</string>
     <string name="class_title">Class Title</string>
     <string name="class_description">Class Description</string>
+    <string name="submit">Submit</string>
 </resources>
