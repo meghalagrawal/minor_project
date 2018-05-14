@@ -1,5 +1,7 @@
 package nitrr.meghal.compiler.model;
 
+import nitrr.meghal.compiler.SubmitCallback;
+import nitrr.meghal.compiler.data.SubmitResponse;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Call;
@@ -20,6 +22,7 @@ import nitrr.meghal.compiler.data.CompilerResponse;
 public class RetrofitCompilerHelper implements CompilerHelper {
 
 	private Call<CompilerResponse> call;
+	private Call<SubmitResponse> submitCall;
 
 	@Override
 	public void compileCode(int language, String code, String stdin, final CompilerCallback compilerCallback) {
@@ -28,8 +31,7 @@ public class RetrofitCompilerHelper implements CompilerHelper {
 		OkHttpClient client = new OkHttpClient.Builder().addInterceptor(interceptor).build();
 		Retrofit retrofit =new Retrofit.Builder().client(client).addConverterFactory(GsonConverterFactory.create()).baseUrl(Urls.BASE_URL).build();
 		final CompilerApi compilerApi =retrofit.create(CompilerApi.class);
-		CompilerRequest compilerRequest = new CompilerRequest(stdin,language,code);
-		call = compilerApi.compileCode(compilerRequest);
+		call = compilerApi.compileCode(stdin,code,language);
 		call.enqueue(new Callback<CompilerResponse>() {
 			@Override
 			public void onResponse(Call<CompilerResponse> call, Response<CompilerResponse> response) {
@@ -39,6 +41,28 @@ public class RetrofitCompilerHelper implements CompilerHelper {
 			@Override
 			public void onFailure(Call<CompilerResponse> call, Throwable t) {
 				compilerCallback.onFailure();
+				t.printStackTrace();
+			}
+		});
+	}
+
+	@Override
+	public void submitCode(String access_token, int language, String code, String stdin, int assignment_id, final SubmitCallback submitCallback) {
+		HttpLoggingInterceptor interceptor = new HttpLoggingInterceptor();
+		interceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
+		OkHttpClient client = new OkHttpClient.Builder().addInterceptor(interceptor).build();
+		Retrofit retrofit =new Retrofit.Builder().client(client).addConverterFactory(GsonConverterFactory.create()).baseUrl(Urls.BASE_URL).build();
+		final CompilerApi compilerApi =retrofit.create(CompilerApi.class);
+		submitCall = compilerApi.submitCode(access_token,stdin,code,language,assignment_id);
+		submitCall.enqueue(new Callback<SubmitResponse>() {
+			@Override
+			public void onResponse(Call<SubmitResponse> call, Response<SubmitResponse> response) {
+				submitCallback.onSuccess(response.body());
+			}
+
+			@Override
+			public void onFailure(Call<SubmitResponse> call, Throwable t) {
+				submitCallback.onFailure();
 				t.printStackTrace();
 			}
 		});

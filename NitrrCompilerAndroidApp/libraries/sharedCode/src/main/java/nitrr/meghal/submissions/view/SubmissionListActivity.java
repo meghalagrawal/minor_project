@@ -44,7 +44,7 @@ public class SubmissionListActivity extends AppCompatActivity {
     private ProgressDialog progressDialog;
     private SharedPrefs sharedPrefs;
     private SubmissionListAdapter submissionListAdapter;
-    private int class_id;
+    private int assignment_id;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,7 +52,7 @@ public class SubmissionListActivity extends AppCompatActivity {
         setContentView(R.layout.activity_submission_list);
         Intent iin= getIntent();
         Bundle b = iin.getExtras();
-        class_id= b.getInt("class_id");
+        assignment_id = b.getInt("assignment_id");
 
         toolbar = findViewById(R.id.toolbar);
         joinNewClass = findViewById(R.id.joinClass);
@@ -72,13 +72,16 @@ public class SubmissionListActivity extends AppCompatActivity {
 
         progressDialog.setTitle("Connecting to servers . .");
         progressDialog.setMessage("Checking for the class . .");
-//        joinNewClass.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
+        joinNewClass.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
 //                showAddClassDialog();
-//
-//            }
-//        });
+                Intent intent = new Intent(Intent.ACTION_MAIN);
+                intent.setClassName("com.maskyn.fileeditor","com.maskyn.fileeditor.HomeActivity");
+                intent.putExtra("assignment_id", assignment_id);
+                startActivity(intent);
+            }
+        });
         showClassesList();
     }
 
@@ -167,7 +170,7 @@ public class SubmissionListActivity extends AppCompatActivity {
                 .build();
         SubmissionsApi submissionsApi = retrofit.create(SubmissionsApi.class);
 
-        Call<SubmissionListData> call = submissionsApi.requestSubmissionList(sharedPrefs.getAccessToken(),class_id);
+        Call<SubmissionListData> call = submissionsApi.requestSubmissionList(sharedPrefs.getAccessToken(), assignment_id);
 
         call.enqueue(new Callback<SubmissionListData>() {
             @Override

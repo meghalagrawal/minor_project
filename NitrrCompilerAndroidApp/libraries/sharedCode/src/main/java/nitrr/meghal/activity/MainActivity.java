@@ -107,6 +107,7 @@ import nitrr.meghal.dialogfragment.FindTextDialog;
 import nitrr.meghal.dialogfragment.NewFileDetailsDialog;
 import nitrr.meghal.dialogfragment.NumberPickerDialog;
 import nitrr.meghal.dialogfragment.SaveFileDialog;
+import nitrr.meghal.helper.SharedPrefs;
 import nitrr.meghal.helper.preferences.PreferenceChangeType;
 import nitrr.meghal.helper.preferences.PreferenceHelper;
 import nitrr.meghal.helper.utils.io.FileReader;
@@ -193,7 +194,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
     private static String currentEncoding = "UTF-16";
     private Toolbar toolbar;
 	private ArrayAdapter<String> language_array_adapter;
-
+    int assignment_id = 1;
     /*
     Navigation Drawer
      */
@@ -203,7 +204,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
     private ProgressDialog progressDialog;
     private static int LANGUAGE_ID=7;
     private EditText stdin;
-
+    SharedPrefs sharedp;
     //endregion
 
     //region Activity facts
@@ -214,6 +215,9 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         ThemeUtils.setWindowsBackground(this);
         // super!!
         super.onCreate(savedInstanceState);
+        Intent iin= getIntent();
+        Bundle b = iin.getExtras();
+        assignment_id = b.getInt("assignment_id");
         // setup the layout
         setContentView(R.layout.activity_home);
         toolbar = (Toolbar) findViewById(R.id.my_awesome_toolbar);
@@ -221,6 +225,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         // setup the navigation drawer
         setupNavigationDrawer();
         // reset text editor
+        sharedp = new SharedPrefs(this);
         setupTextEditor();
         hideTextEditor();
         /* First Time we open this activity */
@@ -622,6 +627,10 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         if (imDonate != null)
             if (ProCheckUtils.isPro(this, false))
                 imDonate.setVisible(false);
+        MenuItem imSubmit = menu.findItem(R.id.im_submit);
+        if (imSubmit != null)
+            if (ProCheckUtils.isPro(this, false))
+                imSubmit.setVisible(false);
 
         return true;
     }
@@ -692,13 +701,19 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
 		}
         else if (i == R.id.im_info) {
             FileInfoDialog.newInstance(greatUri.getUri()).show(getFragmentManager().beginTransaction(), "dialog");
-        } else if (i == R.id.im_donate) {
+        }
+        else if (i == R.id.im_donate) {
             final String appPackageName = "com.maskyn.fileeditorpro";
             try {
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
             } catch (android.content.ActivityNotFoundException anfe) {
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + appPackageName)));
             }
+        }
+        else if (i == R.id.im_submit) {
+//            Toast.makeText(this,"Hello Meghal",Toast.LENGTH_SHORT).show();
+            compilerPresenter.submitCode(sharedp.getAccessToken(),LANGUAGE_ID,mEditor.getText().toString(),"",assignment_id);
+//            compilerPresenter.compileCode(LANGUAGE_ID,mEditor.getText().toString(),"");
         }
         return super.onOptionsItemSelected(item);
     }

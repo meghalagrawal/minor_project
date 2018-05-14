@@ -50,7 +50,7 @@ public class AssignmentListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
             public void onClick(View v) {
                 if (context instanceof AssignmentsActivity) {
                     Intent intent = new Intent(context, SubmissionListActivity.class);
-                    intent.putExtra("class_id", assignmentDetails.getAssignment_id());
+                    intent.putExtra("assignment_id", assignmentDetails.getAssignment_id());
 
                     ((AssignmentsActivity)context).startActivity(intent);
 

@@ -103,4 +103,10 @@
         android:visible="false"
 
         />
+    <item
+        android:id="@id/im_submit"
+        app:showAsAction="never"
+        android:title="@string/submit"
+
+        />
 </menu>

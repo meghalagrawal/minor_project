@@ -147,6 +147,7 @@
     <item name="im_select_folder" type="id"/>
     <item name="im_set_as_working_folder" type="id"/>
     <item name="im_share" type="id"/>
+    <item name="im_submit" type="id"/>
     <item name="im_syntax_highlight" type="id"/>
     <item name="im_text_size" type="id"/>
     <item name="im_undo" type="id"/>
@@ -336,6 +337,7 @@
     <string name="sort">Sort</string>
     <string name="split_text_if_too_long">Split the text if too long</string>
     <string name="submissions">Submissions</string>
+    <string name="submit">Submit</string>
     <string name="sync">Sync</string>
     <string name="tema_app">App theme</string>
     <string name="testo_indietro">Undo</string>
@@ -365,39 +367,41 @@
     <style name="AppThemeBaseDark" parent="Theme.AppCompat.NoActionBar">
         <item name="windowActionModeOverlay">true</item>
         <item name="actionModeStyle">@style/LStyled.ActionMode</item>
-        
+        <!-- Dialog -->
         <item name="textAppearanceDialogTitle">@style/TextAppearance.Dialog.Title</item>
         <item name="textAppearanceDialogMessage">@style/TextAppearance.Dialog.Message</item>
         <item name="textAppearanceDialogInfo">@style/TextAppearance.Dialog.Info</item>
 
         <item name="android:windowBackground">@color/window_background</item>
 
-        
+        <!-- colorPrimary is used for the default action bar background -->
         <item name="colorPrimary">@color/actionbar_background</item>
 
-        
+        <!-- colorPrimaryDark is used for the status bar -->
         <item name="colorPrimaryDark">@color/actionbar_background</item>
 
-        
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
         <item name="colorAccent">@color/accent_material_dark</item>
     </style>
     <style name="AppThemeBaseLight" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="windowActionModeOverlay">true</item>
         <item name="actionModeStyle">@style/LStyled.ActionMode</item>
-        
+        <!-- Dialog -->
         <item name="textAppearanceDialogTitle">@style/TextAppearance.Dialog.Title</item>
         <item name="textAppearanceDialogMessage">@style/TextAppearance.Dialog.Message</item>
         <item name="textAppearanceDialogInfo">@style/TextAppearance.Dialog.Info</item>
 
         <item name="android:windowBackground">@color/window_background_light</item>
 
-        
+        <!-- colorPrimary is used for the default action bar background -->
         <item name="colorPrimary">@color/actionbar_background</item>
 
-        
+        <!-- colorPrimaryDark is used for the status bar -->
         <item name="colorPrimaryDark">@color/actionbar_background</item>
 
-        
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
         <item name="colorAccent">@color/accent_material_dark</item>
     </style>
     <style name="AppThemeEditorDark" parent="AppThemeBaseDark">
