@@ -20,8 +20,8 @@
         android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
 
-        <activity android:name="nitrr.meghal.classes.ClassListActivity" />
         <activity android:name="nitrr.meghal.assignments.AssignmentActivity" />
+        <activity android:name="nitrr.meghal.classes.view.ClassListActivity" />
     </application>
 
 </manifest>

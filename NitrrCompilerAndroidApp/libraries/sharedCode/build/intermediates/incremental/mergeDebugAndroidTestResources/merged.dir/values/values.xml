@@ -976,6 +976,7 @@
     <string name="aggiungi_account">New account</string>
     <string name="app_version_new">v%s</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="assignments">Assignments</string>
     <string name="attiva">Active</string>
     <string name="auto">Auto</string>
     <string name="auto_save">Auto save</string>
@@ -998,6 +999,8 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="chiaro">Light</string>
     <string name="chiave_privata">Private Key</string>
+    <string name="class_description">Class Description</string>
+    <string name="class_title">Class Title</string>
     <string name="classes">Classes</string>
     <string name="close">Close</string>
     <string name="codifica">Encoding</string>

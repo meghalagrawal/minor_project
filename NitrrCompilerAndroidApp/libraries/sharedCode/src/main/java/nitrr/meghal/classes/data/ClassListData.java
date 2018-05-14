@@ -1,5 +1,7 @@
 package nitrr.meghal.classes.data;
 
+import java.util.List;
+
 /**
  * Created by meghalagrawal on 04/04/18.
  */
@@ -7,9 +9,9 @@ package nitrr.meghal.classes.data;
 public class ClassListData {
     private boolean success;
     private String message;
-    private ClassData class_list;
+    private List<ClassData> class_list;
 
-    public ClassListData(boolean success, String message, ClassData class_list) {
+    public ClassListData(boolean success, String message, List<ClassData> class_list) {
         this.success = success;
         this.message = message;
         this.class_list = class_list;
@@ -23,7 +25,7 @@ public class ClassListData {
         return message;
     }
 
-    public ClassData getClass_list() {
+    public List<ClassData> getClass_list() {
         return class_list;
     }
 }

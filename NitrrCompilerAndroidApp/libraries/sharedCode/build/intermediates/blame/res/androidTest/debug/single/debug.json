@@ -244,6 +244,10 @@
         "source": "/Users/meghalagrawal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/445e0b7f89cf1cc631d8d19c6f1bd6f3/res/color/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout_class_list_item.xml.flat",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/packaged_res/debug/layout/class_list_item.xml"
+    },
+    {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_custom_big.xml.flat",
         "source": "/Users/meghalagrawal/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/cd28b6e7ed994e6a0019d6ae17058f9a/res/layout-v21/notification_template_custom_big.xml"
     },
@@ -1222,6 +1226,10 @@
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_action_undo.png.flat",
         "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_action_undo.png"
+    },
+    {
+        "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout_class_add_dialog.xml.flat",
+        "source": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/packaged_res/debug/layout/class_add_dialog.xml"
     },
     {
         "merged": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_action_overflow.png.flat",

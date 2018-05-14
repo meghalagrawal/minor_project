@@ -48,13 +48,13 @@ public final class R {
         public static final int changelog = 0x7f0e0000;
     }
     public static final class string {
-        public static final int changelog_header_version = 0x7f0f0033;
-        public static final int changelog_internal_error_internet_connection = 0x7f0f0034;
-        public static final int changelog_internal_error_parsing = 0x7f0f0035;
-        public static final int changelog_row_bulletpoint = 0x7f0f0036;
-        public static final int changelog_row_prefix_bug = 0x7f0f0037;
-        public static final int changelog_row_prefix_improvement = 0x7f0f0038;
-        public static final int font_fontFamily_material_item = 0x7f0f006f;
+        public static final int changelog_header_version = 0x7f0f0034;
+        public static final int changelog_internal_error_internet_connection = 0x7f0f0035;
+        public static final int changelog_internal_error_parsing = 0x7f0f0036;
+        public static final int changelog_row_bulletpoint = 0x7f0f0037;
+        public static final int changelog_row_prefix_bug = 0x7f0f0038;
+        public static final int changelog_row_prefix_improvement = 0x7f0f0039;
+        public static final int font_fontFamily_material_item = 0x7f0f0072;
     }
     public static final class styleable {
         public static final int[] ChangeLogListView = { 0x7f040051, 0x7f040052, 0x7f04012b, 0x7f04012c };
