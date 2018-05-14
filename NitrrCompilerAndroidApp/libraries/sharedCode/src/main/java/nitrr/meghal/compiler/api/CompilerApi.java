@@ -2,6 +2,8 @@ package nitrr.meghal.compiler.api;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
+import retrofit2.http.Field;
+import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.POST;
 import nitrr.meghal.Urls;
 import nitrr.meghal.compiler.data.CompilerRequest;
@@ -12,7 +14,8 @@ import nitrr.meghal.compiler.data.CompilerResponse;
  */
 
 public interface CompilerApi {
-	@POST(Urls.SUB_URL_COMPILER)
-	Call<CompilerResponse>
-	compileCode(@Body CompilerRequest compilerRequest);
+    @FormUrlEncoded
+    @POST(Urls.SUB_URL_COMPILER)
+    Call<CompilerResponse>
+    compileCode(@Field("stdin") String stdin, @Field("code") String code, @Field("language") int language);
 }

@@ -28,8 +28,7 @@ public class RetrofitCompilerHelper implements CompilerHelper {
 		OkHttpClient client = new OkHttpClient.Builder().addInterceptor(interceptor).build();
 		Retrofit retrofit =new Retrofit.Builder().client(client).addConverterFactory(GsonConverterFactory.create()).baseUrl(Urls.BASE_URL).build();
 		final CompilerApi compilerApi =retrofit.create(CompilerApi.class);
-		CompilerRequest compilerRequest = new CompilerRequest(stdin,language,code);
-		call = compilerApi.compileCode(compilerRequest);
+		call = compilerApi.compileCode(stdin,code,language);
 		call.enqueue(new Callback<CompilerResponse>() {
 			@Override
 			public void onResponse(Call<CompilerResponse> call, Response<CompilerResponse> response) {
