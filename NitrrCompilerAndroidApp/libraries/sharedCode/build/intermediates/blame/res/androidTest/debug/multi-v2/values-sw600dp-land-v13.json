@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "outputFile": "/home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/meghalagrawal/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/c5d7a14cba67b66168fd48e499a67c4e/res/values-sw600dp-land-v13/values.xml",
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/3659d20f68d967e9667a2feefff39d4e/res/values-sw600dp-land-v13/values.xml",
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "4,4",

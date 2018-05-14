@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lo/values-lo.xml",
+            "outputFile": "/home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
-                    "source": "/Users/meghalagrawal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/445e0b7f89cf1cc631d8d19c6f1bd6f3/res/values-lo/values-lo.xml",
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3ecc9d628becead6fd772bb32d8c7075/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/meghalagrawal/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/cd28b6e7ed994e6a0019d6ae17058f9a/res/values-lo/values-lo.xml",
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6ab47e3d3a6fa69001937537b0f4fa17/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

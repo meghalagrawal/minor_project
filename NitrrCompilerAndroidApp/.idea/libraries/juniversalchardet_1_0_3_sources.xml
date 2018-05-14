@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="juniversalchardet-1.0.3-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/sharedCode/libs/juniversalchardet-1.0.3-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

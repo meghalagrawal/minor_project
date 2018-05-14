@@ -1,51 +1,47 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
+ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
 	package
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:70-92
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:70-92
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-15:12
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:1-14:12
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:11-69
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:3:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:7:5-13:19
-activity#nitrr.meghal.assignments.AssignmentActivity
-ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:8:9-77
-	android:name
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:8:19-65
+ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:7:5-12:19
 activity#nitrr.meghal.classes.view.ClassListActivity
-ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:9:9-77
+ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:8:9-77
 	android:name
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:9:19-65
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml:8:19-65
 uses-sdk
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-		ADDED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
-		INJECTED from /Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		ADDED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml
+		INJECTED from /home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/src/main/AndroidManifest.xml

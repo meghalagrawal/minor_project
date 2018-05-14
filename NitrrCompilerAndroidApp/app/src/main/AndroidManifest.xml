@@ -128,6 +128,8 @@
         </activity>
 
         <activity android:name="nitrr.meghal.classes.view.ClassListActivity"/>
+        <activity android:name="nitrr.meghal.assignments.view.AssignmentsActivity"/>
+        <activity android:name="nitrr.meghal.submissions.view.SubmissionListActivity"/>
         <!--<activity android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>-->
         <meta-data android:name="com.crashlytics.ApiKey" android:value="672ab7531ce1e2e83c2ec6d84e8e94f2fa692c2a"/>
