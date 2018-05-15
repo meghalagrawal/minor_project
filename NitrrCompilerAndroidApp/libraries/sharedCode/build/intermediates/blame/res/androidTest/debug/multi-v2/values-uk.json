@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-uk/values-uk.xml",
+            "map": [
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3ecc9d628becead6fd772bb32d8c7075/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,317,423,509,617,735,814,894,975,1081,1188,1286,1394,1500,1609,1779,1879",
+                        "endColumns": "109,101,105,85,107,117,78,79,80,105,106,97,107,105,108,169,99,80",
+                        "endOffsets": "210,312,418,504,612,730,809,889,970,1076,1183,1281,1389,1495,1604,1774,1874,1955"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,317,423,509,617,735,814,894,975,1081,1188,1286,1394,1500,1609,1779,2370",
+                        "endColumns": "109,101,105,85,107,117,78,79,80,105,106,97,107,105,108,169,99,80",
+                        "endOffsets": "210,312,418,504,612,730,809,889,970,1076,1183,1281,1389,1495,1604,1774,1874,2446"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6ab47e3d3a6fa69001937537b0f4fa17/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "2451",
+                        "endColumns": "100",
+                        "endOffsets": "2547"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/3659d20f68d967e9667a2feefff39d4e/res/values-uk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "220,283,421,505,566,635",
+                        "endColumns": "62,137,83,60,68,75",
+                        "endOffsets": "278,416,500,561,630,706"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1879,1942,2080,2164,2225,2294",
+                        "endColumns": "62,137,83,60,68,75",
+                        "endOffsets": "1937,2075,2159,2220,2289,2365"
+                    }
+                }
+            ]
+        }
+    ]
+}

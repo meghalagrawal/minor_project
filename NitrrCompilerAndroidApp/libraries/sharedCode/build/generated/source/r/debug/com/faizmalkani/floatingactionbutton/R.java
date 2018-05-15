@@ -8,15 +8,15 @@ package com.faizmalkani.floatingactionbutton;
 
 public final class R {
     public static final class attr {
-        public static int colour = 0x7f040067;
-        public static int drawable = 0x7f040085;
-        public static int shadowColor = 0x7f040136;
-        public static int shadowDx = 0x7f040137;
-        public static int shadowDy = 0x7f040138;
-        public static int shadowRadius = 0x7f040139;
+        public static int colour = 0x7f04006a;
+        public static int drawable = 0x7f04008a;
+        public static int shadowColor = 0x7f040143;
+        public static int shadowDx = 0x7f040144;
+        public static int shadowDy = 0x7f040145;
+        public static int shadowRadius = 0x7f040146;
     }
     public static final class styleable {
-        public static int[] FloatingActionButton = { 0x7f040035, 0x7f040036, 0x7f04003d, 0x7f040067, 0x7f040085, 0x7f04008d, 0x7f040099, 0x7f040121, 0x7f04012b, 0x7f040136, 0x7f040137, 0x7f040138, 0x7f040139, 0x7f040193 };
+        public static int[] FloatingActionButton = { 0x7f040035, 0x7f040036, 0x7f04003f, 0x7f04006a, 0x7f04008a, 0x7f040092, 0x7f04009f, 0x7f04012e, 0x7f040138, 0x7f040143, 0x7f040144, 0x7f040145, 0x7f040146, 0x7f0401a0 };
         public static int FloatingActionButton_backgroundTint = 0;
         public static int FloatingActionButton_backgroundTintMode = 1;
         public static int FloatingActionButton_borderWidth = 2;

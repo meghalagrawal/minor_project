@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ujjwal/Desktop/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/library-1.5.2.aar/3659d20f68d967e9667a2feefff39d4e/res/values-sw600dp-land-v13/values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "229,285",
+                        "endColumns": "55,56",
+                        "endOffsets": "280,337"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,111",
+                        "endColumns": "55,56",
+                        "endOffsets": "106,163"
+                    }
+                }
+            ]
+        }
+    ]
+}

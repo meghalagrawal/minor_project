@@ -14,6 +14,7 @@
         <activity android:name="nitrr.meghal.classes.view.ClassListActivity" />
         <!-- <activity android:name=".activity.MainActivity"></activity> -->
 
+        <activity android:name="nitrr.meghal.AboutUsActivity" />
     </application>
 
 </manifest>
