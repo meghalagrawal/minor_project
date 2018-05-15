@@ -14,15 +14,17 @@
         android:background="@color/colorPrimaryDark">
 
         <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:title="@string/classes"
+            app:title="@string/home"
             app:titleTextColor="@color/white" />
 
     </android.support.design.widget.AppBarLayout>
 
     <Button
         android:id="@+id/joinClass"
+        android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/join_new_class" />
@@ -53,12 +55,14 @@
         <Button
             android:id="@+id/compiler"
             android:layout_width="match_parent"
+            android:visibility="gone"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Compiler" />
 
         <Button
             android:id="@+id/logout"
+            android:visibility="gone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"

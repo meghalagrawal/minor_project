@@ -35,13 +35,15 @@ public class SubmissionListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
 
 
     @Override
-    public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
+    public void onBindViewHolder(RecyclerView.ViewHolder holder, final int position) {
 
         final SubmissionDetails submissionDetails = submissionDetailsList.get(position);
 
-        ClassListViewHolder classListViewHolder = (ClassListViewHolder) holder;
+        final ClassListViewHolder classListViewHolder = (ClassListViewHolder) holder;
         classListViewHolder.classTitle.setText(submissionDetails.getTime_taken()+" seconds");
         classListViewHolder.classDescription.setText(submissionDetails.getResponse());
+        classListViewHolder.created_time.setText(submissionDetails.getCreated());
+        classListViewHolder.submissionNo.setText((position+1)+"");
         classListViewHolder.classListLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -70,16 +72,19 @@ public class SubmissionListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
     }
 
     class ClassListViewHolder extends RecyclerView.ViewHolder {
-
+        TextView submissionNo;
         TextView classTitle;
         TextView classDescription;
         LinearLayout classListLayout;
+        TextView created_time;
 
         public ClassListViewHolder(View itemView) {
             super(itemView);
             classTitle = itemView.findViewById(R.id.classTitle);
             classDescription = itemView.findViewById(R.id.classDescription);
             classListLayout = itemView.findViewById(R.id.classListLayout);
+            submissionNo = itemView.findViewById(R.id.submissionNo);
+            created_time = itemView.findViewById(R.id.created_time);
 
 
         }

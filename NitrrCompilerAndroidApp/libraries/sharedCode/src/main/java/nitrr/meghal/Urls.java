@@ -3,6 +3,7 @@ package nitrr.meghal;
 
 public class Urls {
 
+//    public static final String BASE_URL = "http://172.16.68.88:9090/";
     public static final String BASE_URL = "http://192.168.0.100:8000/";
 
     public static final String SUB_URL_COMPILER = "compiler/";

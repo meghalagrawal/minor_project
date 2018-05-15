@@ -39,10 +39,10 @@ public final class R {
         public static int font_textStyle_material_item = 0x7f0d0008;
     }
     public static final class layout {
-        public static int changelogrow_layout = 0x7f0f0023;
-        public static int changelogrow_material_layout = 0x7f0f0024;
-        public static int changelogrowheader_layout = 0x7f0f0025;
-        public static int changelogrowheader_material_layout = 0x7f0f0026;
+        public static int changelogrow_layout = 0x7f0f0024;
+        public static int changelogrow_material_layout = 0x7f0f0025;
+        public static int changelogrowheader_layout = 0x7f0f0026;
+        public static int changelogrowheader_material_layout = 0x7f0f0027;
     }
     public static final class raw {
         public static int changelog = 0x7f140001;
@@ -54,7 +54,7 @@ public final class R {
         public static int changelog_row_bulletpoint = 0x7f150039;
         public static int changelog_row_prefix_bug = 0x7f15003a;
         public static int changelog_row_prefix_improvement = 0x7f15003b;
-        public static int font_fontFamily_material_item = 0x7f150075;
+        public static int font_fontFamily_material_item = 0x7f150076;
     }
     public static final class styleable {
         public static int[] ChangeLogListView = { 0x7f040052, 0x7f040053, 0x7f04012c, 0x7f04012d };
