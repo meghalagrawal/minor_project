@@ -31,7 +31,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class LoginActivity extends Activity {
 
-    Toolbar toolbar;
+//    Toolbar toolbar;
     EditText email, password;
     Button login;
     private ProgressDialog progressDialog;
@@ -41,7 +41,7 @@ public class LoginActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        toolbar = findViewById(R.id.toolbar);
+//        toolbar = findViewById(R.id.toolbar);
         email = findViewById(R.id.email);
         password = findViewById(R.id.password);
         login = findViewById(R.id.button_login);

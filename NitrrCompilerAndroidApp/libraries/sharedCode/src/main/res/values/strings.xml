@@ -86,7 +86,7 @@
     <string name="language">Language</string>
     <string name="nitrr_compiler">Nitrr Compiler</string>
     <string name="login">Login</string>
-    <string name="forgot_password">Forget PAssword</string>
+    <string name="forgot_password">Forget Password?</string>
     <string name="sign_up">Sign Up</string>
     <string name="classes">Joined Classes</string>
     <string name="join_new_class">Join New Class</string>
@@ -95,4 +95,6 @@
     <string name="class_description">Class Description</string>
     <string name="submissions">Submissions</string>
     <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="Login">Login</string>
 </resources>

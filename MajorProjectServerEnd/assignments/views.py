@@ -4,7 +4,7 @@ from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
 from users.models import UserData
 from classes.models import ClassData
-from assignments.models import AssignmentData, AssignmentSubmissionData
+from assignments.models import AssignmentData, AssignmentSubmissionData, AssignmentTestCaseData
 import requests
 from django.http import JsonResponse
 import keys
@@ -115,16 +115,30 @@ def submit_assignment(request):
 		try:
 			response = requests.post(url, data=payload)
 			response = json.loads(response.content)
+
+			try:
+				passed = 0
+				failed = 0
+				test_case_list = AssignmentTestCaseData.objects.filter(assignment_instance = assignment_instance)
+				for test_case in test_case_list:
+					test_payload = {'stdin':test_case.case_input,"language":language,"code":code}
+					response = requests.post(url, data=test_payload)
+					response = json.loads(response.content)
+					if str(response["output"])==str(test_case.case_output):
+						passed = passed+1
+						print("Passed")
+					else:
+						failed = failed +1
+						print("Failed")
+
+				response_json["message"]="Successfully saved! \n\nPassed Cases: " +str(passed)+"/"+str(passed+failed)+" \n\nFailed Cases: "+str(failed)+"/"+str(passed+failed)
+
+			except Exception as e:
+				print(str(e))
+
+
 			AssignmentSubmissionData.objects.create(user_instance = user_instance,assignment_instance = assignment_instance, submitted_code = code, time_taken = response["time"],response = response)
-			# print(response.content)
 			response_json["success"]=True
-			if response["output"]=="1\n":
-				response_json["message"]="Successfully saved!"
-			else:
-				response_json["message"]="Successfully saved! But the code has some syntax errors! \n\n"+response["errors"]
-
-
-
 
 		except Exception as e:
 			print(str(e))

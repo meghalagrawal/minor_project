@@ -178,6 +178,7 @@
     <item name="text_to_find" type="id"/>
     <item name="text_to_replace" type="id"/>
     <item name="vertical_scroll" type="id"/>
+    <string name="Login">Login</string>
     <string name="about_action">About</string>
     <string name="about_message"><![CDATA[
         NITRR Compiler is a project for online android compiler, Currently it supports the following languages - C, C++, Java Script
@@ -249,6 +250,7 @@
     <string name="download">Download</string>
     <string name="download_completato">Download completed</string>
     <string name="duplicate">Duplicate</string>
+    <string name="email">Email</string>
     <string name="enable_autoencoding">Auto-Encoding</string>
     <string name="err_cant_open_the_file">Cannot open the file</string>
     <string name="err_occured">An error occurred</string>
@@ -263,7 +265,7 @@
     <string name="find">Find</string>
     <string name="folder">Folder</string>
     <string name="font_size">Font size</string>
-    <string name="forgot_password">Forget PAssword</string>
+    <string name="forgot_password">Forget Password?</string>
     <string name="goto_line">Go to Line…</string>
     <string name="goto_page">Go to Page…</string>
     <string name="home">Home</string>

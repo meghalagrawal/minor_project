@@ -28,12 +28,12 @@ public final class R {
         public static int listPreferredItemHeightSmall = 0x7f080097;
     }
     public static final class id {
-        public static int chg_headerDate = 0x7f0c0025;
-        public static int chg_headerVersion = 0x7f0c0026;
-        public static int chg_row = 0x7f0c0027;
-        public static int chg_rowheader = 0x7f0c0028;
-        public static int chg_text = 0x7f0c0029;
-        public static int chg_textbullet = 0x7f0c002a;
+        public static int chg_headerDate = 0x7f0c0027;
+        public static int chg_headerVersion = 0x7f0c0028;
+        public static int chg_row = 0x7f0c0029;
+        public static int chg_rowheader = 0x7f0c002a;
+        public static int chg_text = 0x7f0c002b;
+        public static int chg_textbullet = 0x7f0c002c;
     }
     public static final class integer {
         public static int font_textStyle_material_item = 0x7f0d0008;
@@ -48,13 +48,13 @@ public final class R {
         public static int changelog = 0x7f140001;
     }
     public static final class string {
-        public static int changelog_header_version = 0x7f150035;
-        public static int changelog_internal_error_internet_connection = 0x7f150036;
-        public static int changelog_internal_error_parsing = 0x7f150037;
-        public static int changelog_row_bulletpoint = 0x7f150038;
-        public static int changelog_row_prefix_bug = 0x7f150039;
-        public static int changelog_row_prefix_improvement = 0x7f15003a;
-        public static int font_fontFamily_material_item = 0x7f150073;
+        public static int changelog_header_version = 0x7f150036;
+        public static int changelog_internal_error_internet_connection = 0x7f150037;
+        public static int changelog_internal_error_parsing = 0x7f150038;
+        public static int changelog_row_bulletpoint = 0x7f150039;
+        public static int changelog_row_prefix_bug = 0x7f15003a;
+        public static int changelog_row_prefix_improvement = 0x7f15003b;
+        public static int font_fontFamily_material_item = 0x7f150075;
     }
     public static final class styleable {
         public static int[] ChangeLogListView = { 0x7f040052, 0x7f040053, 0x7f04012c, 0x7f04012d };

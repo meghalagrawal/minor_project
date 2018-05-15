@@ -145,6 +145,7 @@
     <color name="actionbar_background">#212121</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
+    <color name="background_gray">#EAEAEA</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="black">#000000</color>
@@ -165,7 +166,7 @@
     <color name="chglib_material_color_text_1">#de000000</color>
     <color name="chglib_material_color_text_2">#8a000000</color>
     <color name="chglib_material_color_text_3">#60000000</color>
-    <color name="colorAccent">#ff80cbc4</color>
+    <color name="colorAccent">#F0544F</color>
     <color name="colorPrimary">#212121</color>
     <color name="colorPrimaryDark">#212121</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
@@ -783,6 +784,7 @@
     <dimen name="listPreferredItemHeightSmall">48dp</dimen>
     <dimen name="list_horizontal_margin">0dp</dimen>
     <dimen name="margin_extra_small">2dp</dimen>
+    <dimen name="margin_medium">4dp</dimen>
     <dimen name="margin_small">4dp</dimen>
     <dimen name="margin_very_small">2dp</dimen>
     <dimen name="minimum_padding">2dp</dimen>
@@ -803,6 +805,7 @@
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
     <dimen name="padding_large">6dp</dimen>
+    <dimen name="padding_medium">4dp</dimen>
     <dimen name="padding_small">2dp</dimen>
     <dimen name="padding_very_large">8dp</dimen>
     <dimen name="textSizeSmall">8dp</dimen>
@@ -1002,7 +1005,7 @@
     <string name="chiave_privata">Private Key</string>
     <string name="class_description">Class Description</string>
     <string name="class_title">Class Title</string>
-    <string name="classes">Classes</string>
+    <string name="classes">Joined Classes</string>
     <string name="close">Close</string>
     <string name="codifica">Encoding</string>
     <string name="compile">Compile</string>
@@ -1185,14 +1188,14 @@
         <item name="android:windowBackground">@color/window_background</item>
 
         <!-- colorPrimary is used for the default action bar background -->
-        <item name="colorPrimary">@color/actionbar_background</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
 
         <!-- colorPrimaryDark is used for the status bar -->
-        <item name="colorPrimaryDark">@color/actionbar_background</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
 
         <!-- colorAccent is used as the default value for colorControlActivated
              which is used to tint widgets -->
-        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="AppThemeBaseLight" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="windowActionModeOverlay">true</item>

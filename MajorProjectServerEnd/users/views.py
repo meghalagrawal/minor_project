@@ -33,3 +33,34 @@ def login(request):
 		response[keys.KEY_RESPONSE_SUCCESS] = False
 		response[keys.KEY_RESPONSE_MESSAGE] = "Illegal Request!"
 		return JsonResponse(response)
+
+@csrf_exempt
+def signup(request):
+	response = {}
+	if request.method == 'POST':
+		try:
+			name = request.POST.get("name")
+			email = request.POST.get("email")
+			password = request.POST.get("password")
+			user_instance = UserData.objects.filter(email=email)
+			if user_instance.exists():
+				response[keys.KEY_RESPONSE_SUCCESS] = False
+				response[keys.KEY_RESPONSE_MESSAGE] = "This email is already associated with another user!"
+
+				
+			else:
+				UserData.objects.create(email=email,password=password,name = name)
+				response[keys.KEY_RESPONSE_SUCCESS] = True
+				response[keys.KEY_RESPONSE_MESSAGE] = "Successfully Signed up!"
+				access_token = jwt.encode({keys.KEY_JWT_ACCESS_TOKEN: email}, keys.KEY_ACCESS_TOKEN_ENCRYPTION,algorithm='HS256')
+				response["access_token"] = access_token
+
+		except Exception as e:
+			response[keys.KEY_RESPONSE_SUCCESS] = False
+			response[keys.KEY_RESPONSE_MESSAGE] = "Something went wrong! "+str(e)
+			print(str(e))
+		return JsonResponse(response)
+	else:
+		response[keys.KEY_RESPONSE_SUCCESS] = False
+		response[keys.KEY_RESPONSE_MESSAGE] = "Illegal Request!"
+		return JsonResponse(response)

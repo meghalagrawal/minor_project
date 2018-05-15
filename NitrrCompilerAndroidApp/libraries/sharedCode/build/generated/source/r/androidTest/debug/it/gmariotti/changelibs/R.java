@@ -14,11 +14,11 @@ public final class R {
         public static final int rowLayoutId = 0x7f04012c;
     }
     public static final class color {
-        public static final int chglib_background_default_divider_color = 0x7f06002c;
-        public static final int chglib_material_background_default_divider_color = 0x7f06002d;
-        public static final int chglib_material_color_text_1 = 0x7f06002e;
-        public static final int chglib_material_color_text_2 = 0x7f06002f;
-        public static final int chglib_material_color_text_3 = 0x7f060030;
+        public static final int chglib_background_default_divider_color = 0x7f06002d;
+        public static final int chglib_material_background_default_divider_color = 0x7f06002e;
+        public static final int chglib_material_color_text_1 = 0x7f06002f;
+        public static final int chglib_material_color_text_2 = 0x7f060030;
+        public static final int chglib_material_color_text_3 = 0x7f060031;
     }
     public static final class dimen {
         public static final int chglib_material_keyline1 = 0x7f070050;

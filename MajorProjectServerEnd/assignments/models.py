@@ -28,6 +28,15 @@ class AssignmentSubmissionData(models.Model):
 	submitted_code = models.TextField()
 	time_taken = models.FloatField(default=0)
 	response = models.TextField()
+	passed_cases = models.IntegerField()
+	failed_cases = models.IntegerField()
 	created = models.DateTimeField(auto_now=False, auto_now_add=True)
 	modified = models.DateTimeField(auto_now=True, auto_now_add=False)
 
+
+class AssignmentTestCaseData(models.Model):
+	assignment_instance = models.ForeignKey(AssignmentData)
+	case_input = models.TextField()
+	case_output = models.TextField()
+	created = models.DateTimeField(auto_now=False, auto_now_add=True)
+	modified = models.DateTimeField(auto_now=True, auto_now_add=False)

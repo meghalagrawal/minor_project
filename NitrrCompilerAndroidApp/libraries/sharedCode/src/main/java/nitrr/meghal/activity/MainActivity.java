@@ -134,6 +134,8 @@ import nitrr.meghal.views.CustomDrawerLayout;
 import nitrr.meghal.views.DialogHelper;
 import nitrr.meghal.views.GoodScrollView;
 
+import static android.support.v4.view.MenuItemCompat.getActionView;
+
 public abstract class MainActivity extends AppCompatActivity implements IHomeActivity, FindTextDialog
         .SearchDialogInterface, GoodScrollView.ScrollInterface, PageSystem.PageSystemInterface,
         PageSystemButtons.PageButtonsInterface, NumberPickerDialog.INumberPickerDialog, SaveFileDialog.ISaveDialog,
@@ -483,7 +485,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
 
             getMenuInflater().inflate(R.menu.fragment_editor, menu);
             MenuItem item = menu.findItem(R.id.language_spinner);
-            Spinner spinner = (Spinner) MenuItemCompat.getActionView(item); // get the spinner
+            Spinner spinner = (Spinner) getActionView(item); // get the spinner
 
             spinner.setAdapter(adapter);
 //            spinner.setOnItemSelectedListener(onItemSelectedListener);

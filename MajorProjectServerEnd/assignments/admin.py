@@ -1,5 +1,5 @@
 from django.contrib import admin
-from assignments.models import AssignmentData, AssignmentSubmissionData
+from assignments.models import AssignmentData, AssignmentSubmissionData, AssignmentTestCaseData
 
 # Register your models here.
 class AssignmentDataAdmin(admin.ModelAdmin):
@@ -15,3 +15,10 @@ class AssignmentSubmissionDataAdmin(admin.ModelAdmin):
 
 
 admin.site.register(AssignmentSubmissionData, AssignmentSubmissionDataAdmin)
+
+class AssignmentTestCaseDataAdmin(admin.ModelAdmin):
+    list_display = ["assignment_instance","case_input","case_output"]
+    # search_fields = ["title"]
+
+
+admin.site.register(AssignmentTestCaseData, AssignmentTestCaseDataAdmin)
