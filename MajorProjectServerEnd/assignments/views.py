@@ -9,6 +9,7 @@ import requests
 from django.http import JsonResponse
 import keys
 import jwt
+import json
 
 
 @csrf_exempt
@@ -23,15 +24,17 @@ def assignments(request):
 			user_instance = UserData.objects.get(email=email)
 			class_instance = ClassData.objects.get(id=class_id)
 			assignment_list_instance = AssignmentData.objects.filter(class_instance=class_instance)
+
 			assignment_list=[]
-			for assignment in assignment_list_instance:
-				assignment_json={}
-				assignment_json["assignment_id"]=assignment.id
-				assignment_json["title"]=assignment.title
-				assignment_json["description"]=assignment.description
-				assignment_json["due_date"]=assignment.due_date
-				assignment_json["time_limit"]=assignment.time_limit
-				assignment_list.append(assignment_json)
+			if assignment_list_instance:
+				for assignment in assignment_list_instance:
+					assignment_json={}
+					assignment_json["assignment_id"]=assignment.id
+					assignment_json["title"]=assignment.title
+					assignment_json["description"]=assignment.description
+					assignment_json["due_date"]=assignment.due_date
+					assignment_json["time_limit"]=assignment.time_limit
+					assignment_list.append(assignment_json)
 			response_json["success"]=True
 			response_json["message"]="Successful"
 			response_json["assignment_list"]=assignment_list
@@ -57,14 +60,15 @@ def submissions(request):
 			assignment_instance = AssignmentData.objects.get(id=assignment_id)
 			submission_list_instance = AssignmentSubmissionData.objects.filter(assignment_instance=assignment_instance)
 			submission_list=[]
-			for submission in submission_list_instance:
-				submission_json={}
-				submission_json["submission_id"]=submission.id
-				submission_json["time_taken"]=submission.time_taken
-				submission_json["response"]=submission.response
-				submission_json["created"]=str(submission.created)
+			if submission_list_instance:
+				for submission in submission_list_instance:
+					submission_json={}
+					submission_json["submission_id"]=submission.id
+					submission_json["time_taken"]=submission.time_taken
+					submission_json["response"]=submission.response
+					submission_json["created"]=str(submission.created)
 
-				submission_list.append(submission_json)
+					submission_list.append(submission_json)
 			response_json["success"]=True
 			response_json["message"]="Successful"
 			response_json["submission_list"]=submission_list
@@ -111,10 +115,16 @@ def submit_assignment(request):
 		try:
 			response = requests.post(url, data=payload)
 			response = json.loads(response.content)
-			AssignmentSubmissionData.objects.create(user_instance = user_instance,assignment_instance = assignment_instance, submitted_code = code, time_taken = response.time,response = response)
-			print(response.content)
+			AssignmentSubmissionData.objects.create(user_instance = user_instance,assignment_instance = assignment_instance, submitted_code = code, time_taken = response["time"],response = response)
+			# print(response.content)
 			response_json["success"]=True
-			response_json["message"]="Successfully saved!"
+			if response["output"]=="1\n":
+				response_json["message"]="Successfully saved!"
+			else:
+				response_json["message"]="Successfully saved! But the code has some syntax errors! \n\n"+response["errors"]
+
+
+
 
 		except Exception as e:
 			print(str(e))

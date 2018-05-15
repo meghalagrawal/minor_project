@@ -222,11 +222,12 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         setupNavigationDrawer();
         // reset text editor
         setupTextEditor();
-        hideTextEditor();
+        showTextEditor();
+//        hideTextEditor();
         /* First Time we open this activity */
         if (savedInstanceState == null) {
             // Open
-            mDrawerLayout.openDrawer(Gravity.START);
+//            mDrawerLayout.openDrawer(Gravity.START);
             // Set the default title
             getSupportActionBar().setTitle(getString(R.string.nome_app_turbo_editor));
         }

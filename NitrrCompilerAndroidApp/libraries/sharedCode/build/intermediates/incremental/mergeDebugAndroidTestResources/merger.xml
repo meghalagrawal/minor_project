@@ -2381,7 +2381,7 @@ Copyright 2013-2014 <a href="https://plus.google.com/+VladMihalachi">Vlad Mihala
     </style><style name="TextAppearance.Dialog.Title" parent="android:TextAppearance.Holo.Large">
         <item name="android:fontFamily" ns2:targetApi="jelly_bean">sans-serif-condensed</item>
         <item name="android:textSize">24sp</item>
-    </style></file><file path="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/packaged_res/debug/values-sl-rSI/values-sl-rSI.xml" qualifiers="sl-rSI"><string name="about_action">About</string><string name="about_message"><![CDATA[
+    </style><item name="im_submit" type="id"/><string name="submit">Submit</string></file><file path="/Users/meghalagrawal/minor_project/NitrrCompilerAndroidApp/libraries/sharedCode/build/intermediates/packaged_res/debug/values-sl-rSI/values-sl-rSI.xml" qualifiers="sl-rSI"><string name="about_action">About</string><string name="about_message"><![CDATA[
         Turbo Editor is a free and <a href="http://github.com/vmihalachi/turbo-editor">open source</a> app.
         Copyright 2013-2014 <a href="https://plus.google.com/+VladMihalachi">Vlad Mihalachi</a>. All Rights Reserved.<br/>
         <br/>

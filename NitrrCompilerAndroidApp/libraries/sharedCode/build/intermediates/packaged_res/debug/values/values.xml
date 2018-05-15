@@ -40,9 +40,9 @@
     </string-array>
     <color name="actionbar_background">#212121</color>
     <color name="black">#000000</color>
-    <color name="colorAccent">#FF5900</color>
-    <color name="colorPrimary">#0267C1</color>
-    <color name="colorPrimaryDark">#17428C</color>
+    <color name="colorAccent">#ff80cbc4</color>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#212121</color>
     <color name="divider">#e5e5e5</color>
     <color name="divider_inverted">#ff2a2a2a</color>
     <color name="donation_normal">#b6cc45</color>
