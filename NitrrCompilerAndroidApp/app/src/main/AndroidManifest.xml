@@ -115,7 +115,6 @@
         <activity android:name="nitrr.meghal.activity.MarkdownActivity" />
 
         <activity android:name="nitrr.meghal.login.LoginActivity"
-            android:theme="@style/AppThemeBaseLight"
 
             >
 

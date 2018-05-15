@@ -3,17 +3,24 @@ package nitrr.meghal.classes.view;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.support.annotation.NonNull;
+import android.support.design.widget.NavigationView;
+import android.support.v4.view.GravityCompat;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
+import android.widget.Toolbar;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -37,12 +44,11 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class ClassListActivity extends AppCompatActivity {
+public class ClassListActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
-    private android.support.v7.widget.Toolbar toolbar;
     private Button joinNewClass;
     private RecyclerView recyclerView;
-
+    private android.support.v7.widget.Toolbar toolbar;
     private ProgressBar progressBar;
     private ProgressDialog progressDialog;
     private SharedPrefs sharedPrefs;
@@ -53,13 +59,22 @@ public class ClassListActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_class_list);
-        toolbar = findViewById(R.id.toolbar);
+        setContentView(R.layout.activity_drawer);
         joinNewClass = findViewById(R.id.joinClass);
         recyclerView = findViewById(R.id.recyclerView);
         progressBar = findViewById(R.id.progressBar);
         compiler = findViewById(R.id.compiler);
         logout = findViewById(R.id.logout);
+        toolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle( this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+        toggle.getDrawerArrowDrawable().setColor(getResources().getColor(R.color.window_background_light));
+        drawer.addDrawerListener(toggle);
+        toggle.syncState();
+        final NavigationView navigationView = findViewById(R.id.nav_view);
+        navigationView.setNavigationItemSelectedListener(this);
 
         sharedPrefs = new SharedPrefs(this);
         progressDialog = new ProgressDialog(this);
@@ -229,4 +244,23 @@ public class ClassListActivity extends AppCompatActivity {
     }
 
 
+    @Override
+    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+        int id = item.getItemId();
+
+        if (id == R.id.home) {
+            showAddClassDialog();
+        }else if (id == R.id.contact_us){
+            Toast.makeText(this,"Feature under development",Toast.LENGTH_SHORT).show();
+        }else {
+            sharedPrefs.setAccessToken("NONE");
+            Intent intent = new Intent(ClassListActivity.this, LoginActivity.class);
+            startActivity(intent);
+            finish();
+        }
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drawer.closeDrawer(GravityCompat.START);
+        return true;
+//        return false;
+    }
 }

@@ -138,7 +138,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         .SearchDialogInterface, GoodScrollView.ScrollInterface, PageSystem.PageSystemInterface,
         PageSystemButtons.PageButtonsInterface, NumberPickerDialog.INumberPickerDialog, SaveFileDialog.ISaveDialog,
         AdapterView.OnItemClickListener, AdapterDrawer.Callbacks, AccessoryView.IAccessoryView, EditTextDialog.EditDialogListener,
-		CompilerView {
+        CompilerView {
 
     //region VARIABLES
     private static final int READ_REQUEST_CODE = 42,
@@ -156,8 +156,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
             CHARS_TO_COLOR = 2500;
 
 
-
-	private final Handler updateHandler = new Handler();
+    private final Handler updateHandler = new Handler();
     private final Runnable colorRunnable_duringEditing =
             new Runnable() {
                 @Override
@@ -193,16 +192,16 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
     private PageSystemButtons pageSystemButtons;
     private static String currentEncoding = "UTF-16";
     private Toolbar toolbar;
-	private ArrayAdapter<String> language_array_adapter;
-    int assignment_id = 1;
+    private ArrayAdapter<String> language_array_adapter;
+    int assignment_id = -1;
     /*
     Navigation Drawer
      */
     private AdapterDrawer arrayAdapter;
     private LinkedList<GreatUri> greatUris;
-	private CompilerPresenter compilerPresenter;
+    private CompilerPresenter compilerPresenter;
     private ProgressDialog progressDialog;
-    private static int LANGUAGE_ID=7;
+    private static int LANGUAGE_ID = 7;
     private EditText stdin;
     SharedPrefs sharedp;
     //endregion
@@ -215,9 +214,12 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         ThemeUtils.setWindowsBackground(this);
         // super!!
         super.onCreate(savedInstanceState);
-        Intent iin= getIntent();
-        Bundle b = iin.getExtras();
-        assignment_id = b.getInt("assignment_id");
+        if (getIntent().getExtras() != null) {
+            Intent iin = getIntent();
+            Bundle b = iin.getExtras();
+            assert b != null;
+            assignment_id = b.getInt("assignment_id");
+        }
         // setup the layout
         setContentView(R.layout.activity_home);
         toolbar = (Toolbar) findViewById(R.id.my_awesome_toolbar);
@@ -227,20 +229,21 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         // reset text editor
         sharedp = new SharedPrefs(this);
         setupTextEditor();
-        hideTextEditor();
+        showTextEditor();
+//        hideTextEditor();
         /* First Time we open this activity */
         if (savedInstanceState == null) {
             // Open
-            mDrawerLayout.openDrawer(Gravity.START);
+//            mDrawerLayout.openDrawer(Gravity.START);
             // Set the default title
             getSupportActionBar().setTitle(getString(R.string.nome_app_turbo_editor));
         }
         // parse the intent
 
-		parseIntent(getIntent());
+        parseIntent(getIntent());
 
 //        stdin = (EditText)findViewById(R.id.stdin_input);
-		compilerPresenter = new CompilerPresenterImpl(this,new RetrofitCompilerHelper());
+        compilerPresenter = new CompilerPresenterImpl(this, new RetrofitCompilerHelper());
 
         progressDialog = new ProgressDialog(this);
         progressDialog.setIndeterminate(false);
@@ -261,8 +264,8 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         mDrawerToggle.syncState();
     }
 
-	@Override
-	public void showOutput(String message) {
+    @Override
+    public void showOutput(String message) {
         final AlertDialog ad = new AlertDialog.Builder(this)
                 .create();
         final Context context = this;
@@ -276,35 +279,35 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                 ad.cancel();
             }
         });
-        ad.setOnShowListener( new DialogInterface.OnShowListener() {
+        ad.setOnShowListener(new DialogInterface.OnShowListener() {
             @Override
             public void onShow(DialogInterface arg0) {
                 ad.getButton(AlertDialog.BUTTON_POSITIVE).setTextColor(Color.BLACK);
             }
         });
         ad.show();
-	}
+    }
 
-	@Override
-	public void showRunTime(float time) {
-		Toast.makeText(this,time+"",Toast.LENGTH_LONG).show();
+    @Override
+    public void showRunTime(float time) {
+        Toast.makeText(this, time + "", Toast.LENGTH_LONG).show();
 
-	}
+    }
 
-	@Override
-	public void showError(String errors) {
-		Toast.makeText(this,errors,Toast.LENGTH_SHORT).show();
+    @Override
+    public void showError(String errors) {
+        Toast.makeText(this, errors, Toast.LENGTH_SHORT).show();
 
-	}
+    }
 
     @Override
     public void showLoader(boolean show) {
 
-        if(show){
+        if (show) {
 
             progressDialog.show();
 
-        }else{
+        } else {
             progressDialog.hide();
         }
 
@@ -431,7 +434,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                 final Uri data = intent.getData();
                 final GreatUri newUri = new GreatUri(data, AccessStorageApi.getPath(this, data), AccessStorageApi.getName(this, data));
 
-               // grantUriPermission(getPackageName(), data, Intent.FLAG_GRANT_READ_URI_PERMISSION);
+                // grantUriPermission(getPackageName(), data, Intent.FLAG_GRANT_READ_URI_PERMISSION);
                 final int takeFlags = intent.getFlags()
                         & (Intent.FLAG_GRANT_READ_URI_PERMISSION
                         | Intent.FLAG_GRANT_WRITE_URI_PERMISSION);
@@ -471,15 +474,12 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        if (fileOpened && searchResult != null)
-        {
+        if (fileOpened && searchResult != null) {
             getMenuInflater().inflate(R.menu.fragment_editor_search, menu);
-        }
-        else if (fileOpened)
-        {
+        } else if (fileOpened) {
 
             ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
-                    android.R.layout.simple_spinner_item,getLanguageList());
+                    android.R.layout.simple_spinner_item, getLanguageList());
 
             getMenuInflater().inflate(R.menu.fragment_editor, menu);
             MenuItem item = menu.findItem(R.id.language_spinner);
@@ -487,10 +487,8 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
 
             spinner.setAdapter(adapter);
 //            spinner.setOnItemSelectedListener(onItemSelectedListener);
-            spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener()
-            {
-                public void onItemSelected(AdapterView<?> parent, View view, int position, long id)
-                {
+            spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+                public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                     String selectedItem = parent.getItemAtPosition(position).toString();
 //
                     setLanguageCode(selectedItem);
@@ -498,8 +496,8 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
 //                    Toast.makeText(MainActivity.this, "Spinner Item clicked. "+selectedItem, Toast.LENGTH_SHORT).show();
 
                 } // to close the onItemSelected
-                public void onNothingSelected(AdapterView<?> parent)
-                {
+
+                public void onNothingSelected(AdapterView<?> parent) {
 
                 }
             });
@@ -507,9 +505,9 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         return super.onCreateOptionsMenu(menu);
     }
 
-    private ArrayList<String > getLanguageList(){
+    private ArrayList<String> getLanguageList() {
 
-        ArrayList<String> list=new ArrayList<>();
+        ArrayList<String> list = new ArrayList<>();
 
 
         list.add(Constants.C_LANGUAGE);
@@ -533,35 +531,32 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         return list;
     }
 
-    private void setLanguageCode(String languageName){
+    private void setLanguageCode(String languageName) {
 
         HashMap languageMap = new HashMap();
 
-        languageMap.put(Constants.C_LANGUAGE,7);
-        languageMap.put(Constants.C_PLUS_PLUA,7);
-        languageMap.put(Constants.JAVA,8);
-        languageMap.put(Constants.PYTHON,0);
-        languageMap.put(Constants.PHP,3);
-        languageMap.put(Constants.JAVASCRIPT,4);
-        languageMap.put(Constants.MYSQL,13);
-        languageMap.put(Constants.BASH,11);
-        languageMap.put(Constants.C_HASH,10);
-        languageMap.put(Constants.CLOJURE,2);
-        languageMap.put(Constants.VB_NET,9);
-        languageMap.put(Constants.SCALA,5);
-        languageMap.put(Constants.RUBY,1);
-        languageMap.put(Constants.PERL,14);
-        languageMap.put(Constants.OBJECTIVE_C,12);
-        languageMap.put(Constants.RUST,15);
-        languageMap.put(Constants.GO,6);
+        languageMap.put(Constants.C_LANGUAGE, 7);
+        languageMap.put(Constants.C_PLUS_PLUA, 7);
+        languageMap.put(Constants.JAVA, 8);
+        languageMap.put(Constants.PYTHON, 0);
+        languageMap.put(Constants.PHP, 3);
+        languageMap.put(Constants.JAVASCRIPT, 4);
+        languageMap.put(Constants.MYSQL, 13);
+        languageMap.put(Constants.BASH, 11);
+        languageMap.put(Constants.C_HASH, 10);
+        languageMap.put(Constants.CLOJURE, 2);
+        languageMap.put(Constants.VB_NET, 9);
+        languageMap.put(Constants.SCALA, 5);
+        languageMap.put(Constants.RUBY, 1);
+        languageMap.put(Constants.PERL, 14);
+        languageMap.put(Constants.OBJECTIVE_C, 12);
+        languageMap.put(Constants.RUST, 15);
+        languageMap.put(Constants.GO, 6);
 
 
-        LANGUAGE_ID =  Integer.parseInt(languageMap.get(languageName).toString());
+        LANGUAGE_ID = Integer.parseInt(languageMap.get(languageName).toString());
 
 //        Toast.makeText(this,"Language id is "+ String.valueOf(LANGUAGE_ID), Toast.LENGTH_SHORT).show();
-
-
-
 
 
     }
@@ -645,7 +640,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         } else if (i == R.id.im_save_normaly) {
             saveTheFile(false);
 
-        }  else if (i == R.id.im_save_as) {
+        } else if (i == R.id.im_save_as) {
             saveTheFile(true);
 
         } else if (i == R.id.im_rename) {
@@ -694,25 +689,22 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
             Intent browserIntent = new Intent(MainActivity.this, MarkdownActivity.class);
             browserIntent.putExtra("text", pageSystem.getAllText(mEditor.getText().toString()));
             startActivity(browserIntent);
-        }else if (i == R.id.im_compile) {
+        } else if (i == R.id.im_compile) {
 //			Toast.makeText(this,mEditor.getText().toString(),Toast.LENGTH_SHORT).show();
 
-			compilerPresenter.compileCode(LANGUAGE_ID,mEditor.getText().toString(),"");
-		}
-        else if (i == R.id.im_info) {
+            compilerPresenter.compileCode(LANGUAGE_ID, mEditor.getText().toString(), "");
+        } else if (i == R.id.im_info) {
             FileInfoDialog.newInstance(greatUri.getUri()).show(getFragmentManager().beginTransaction(), "dialog");
-        }
-        else if (i == R.id.im_donate) {
+        } else if (i == R.id.im_donate) {
             final String appPackageName = "com.maskyn.fileeditorpro";
             try {
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
             } catch (android.content.ActivityNotFoundException anfe) {
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + appPackageName)));
             }
-        }
-        else if (i == R.id.im_submit) {
+        } else if (i == R.id.im_submit) {
 //            Toast.makeText(this,"Hello Meghal",Toast.LENGTH_SHORT).show();
-            compilerPresenter.submitCode(sharedp.getAccessToken(),LANGUAGE_ID,mEditor.getText().toString(),"",assignment_id);
+            compilerPresenter.submitCode(sharedp.getAccessToken(), LANGUAGE_ID, mEditor.getText().toString(), "", assignment_id);
 //            compilerPresenter.compileCode(LANGUAGE_ID,mEditor.getText().toString(),"");
         }
         return super.onOptionsItemSelected(item);
@@ -950,8 +942,8 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                 || Intent.ACTION_PICK.equals(action)
                 && type != null) {
             // Post event
-           //newFileToOpen(new File(intent
-           //        .getData().getPath()), "");
+            //newFileToOpen(new File(intent
+            //        .getData().getPath()), "");
             Uri uri = intent.getData();
             GreatUri newUri = new GreatUri(uri, AccessStorageApi.getPath(this, uri), AccessStorageApi.getName(this, uri));
             newFileToOpen(newUri, "");
@@ -1001,13 +993,13 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         updateHandler.postDelayed(colorRunnable_duringEditing, SYNTAX_DELAY_MILLIS_LONG);
     }
 
-    private void refreshList(){
+    private void refreshList() {
         refreshList(null, false, false);
     }
 
     private void refreshList(@Nullable GreatUri thisUri, boolean add, boolean delete) {
         int max_recent_files = 15;
-        if(add)
+        if (add)
             max_recent_files--;
 
         // File paths saved in preferences
@@ -1020,7 +1012,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         StringBuilder sb = new StringBuilder();
 
         // for cycle to convert paths to names
-        for(int i = 0; i < savedPaths.length; i++){
+        for (int i = 0; i < savedPaths.length; i++) {
             Uri particularUri = Uri.parse(savedPaths[i]);
             String name = AccessStorageApi.getName(this, particularUri);
             // Check that the file exist
@@ -1046,7 +1038,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
             //}
         }
         // if is not null, empty, we have to add something and we dont already have this uri
-        if(thisUri != null && !thisUri.getUri().equals(Uri.EMPTY) && add && !ArrayUtils.contains(savedPaths, thisUri.getUri().toString())) {
+        if (thisUri != null && !thisUri.getUri().equals(Uri.EMPTY) && add && !ArrayUtils.contains(savedPaths, thisUri.getUri().toString())) {
             sb.append(thisUri.getUri().toString()).append(",");
             greatUris.addFirst(thisUri);
         }
@@ -1112,7 +1104,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                             isRootRequired = !newUri.isReadable();
                             // if we cannot read the file, root permission required
                             if (isRootRequired) {
-                               readUri(newUri.getUri(), filePath, true);
+                                readUri(newUri.getUri(), filePath, true);
                             }
                             // if we can read the file associated with the uri
                             else {
@@ -1167,13 +1159,13 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                     }
 
                     InputStream inputStream = getContentResolver().openInputStream(uri);
-                    if(inputStream != null) {
+                    if (inputStream != null) {
                         buffer = new BufferedReader(new InputStreamReader(inputStream, encoding));
                     }
                 }
 
                 if (buffer != null) {
-                    while((line = buffer.readLine()) != null) {
+                    while ((line = buffer.readLine()) != null) {
                         stringBuilder.append(line);
                         stringBuilder.append("\n");
                     }
@@ -1207,7 +1199,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                     else
                         getSupportActionBar().setTitle(fileName);
 
-                    if(greatUri != null) {
+                    if (greatUri != null) {
                         refreshList(greatUri, true, false);
                     }
                 }
@@ -1353,7 +1345,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         }
     }
 
-   void aFileWasSelected(GreatUri uri) {
+    void aFileWasSelected(GreatUri uri) {
         arrayAdapter.selectPosition(uri);
     }
 
@@ -1365,7 +1357,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
     //region Calls from the layout
     public void OpenFile(View view) {
 
-        if (Device.hasKitKatApi()  && PreferenceHelper.getUseStorageAccessFramework(this)) {
+        if (Device.hasKitKatApi() && PreferenceHelper.getUseStorageAccessFramework(this)) {
             // ACTION_OPEN_DOCUMENT is the intent to choose a file via the system's file
             // browser.
             Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT);
@@ -1555,7 +1547,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
     @Override
     public void userDoesntWantToSave(boolean openNewFile, GreatUri newUri) {
         mEditor.fileSaved();
-        if(openNewFile)
+        if (openNewFile)
             newFileToOpen(newUri, "");
         else
             cannotOpenFile();
@@ -1599,8 +1591,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                         savedAFile(greatUri, true);
                     }
                 }).execute();
-            }
-            else {
+            } else {
                 Toast.makeText(this, R.string.file_cannot_be_renamed, Toast.LENGTH_SHORT).show();
             }
         } else {
@@ -1622,8 +1613,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                         savedAFile(greatUri, true);
                     }
                 }).execute();
-            }
-            else {
+            } else {
                 Toast.makeText(this, R.string.file_cannot_be_renamed, Toast.LENGTH_SHORT).show();
             }
         }
@@ -1791,7 +1781,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
                         0);
             }
             // add a padding from bottom
-            verticalScroll.setPadding(0,0,0,EditTextPadding.getPaddingBottom(context));
+            verticalScroll.setPadding(0, 0, 0, EditTextPadding.getPaddingBottom(context));
         }
 
         //region OVERRIDES
@@ -2056,8 +2046,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
             if (PreferenceHelper.getSyntaxHighlight(getContext())) {
                 setText(highlight(textToUpdate == null ? getEditableText() : Editable.Factory
                         .getInstance().newEditable(textToUpdate), textToUpdate != null));
-            }
-            else {
+            } else {
                 setText(textToUpdate == null ? getEditableText() : textToUpdate);
             }
 
@@ -2100,7 +2089,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
 
             if (!newText && editorHeight > 0) {
                 firstVisibleIndex = getLayout().getLineStart(lineUtils.getFirstVisibleLine(verticalScroll, editorHeight, lineCount));
-                lastVisibleIndex = getLayout().getLineEnd(lineUtils.getLastVisibleLine(verticalScroll, editorHeight, lineCount, deviceHeight)-1);
+                lastVisibleIndex = getLayout().getLineEnd(lineUtils.getLastVisibleLine(verticalScroll, editorHeight, lineCount, deviceHeight) - 1);
             } else {
                 firstVisibleIndex = 0;
                 lastVisibleIndex = CHARS_TO_COLOR;
