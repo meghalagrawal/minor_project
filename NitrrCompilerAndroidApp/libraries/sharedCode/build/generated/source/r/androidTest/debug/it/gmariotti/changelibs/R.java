@@ -39,10 +39,10 @@ public final class R {
         public static final int font_textStyle_material_item = 0x7f0a0007;
     }
     public static final class layout {
-        public static final int changelogrow_layout = 0x7f0b0020;
-        public static final int changelogrow_material_layout = 0x7f0b0021;
-        public static final int changelogrowheader_layout = 0x7f0b0022;
-        public static final int changelogrowheader_material_layout = 0x7f0b0023;
+        public static final int changelogrow_layout = 0x7f0b0022;
+        public static final int changelogrow_material_layout = 0x7f0b0023;
+        public static final int changelogrowheader_layout = 0x7f0b0024;
+        public static final int changelogrowheader_material_layout = 0x7f0b0025;
     }
     public static final class raw {
         public static final int changelog = 0x7f0e0000;

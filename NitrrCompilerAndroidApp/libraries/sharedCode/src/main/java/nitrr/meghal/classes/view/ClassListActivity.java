@@ -39,7 +39,6 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ClassListActivity extends AppCompatActivity {
 
-    private android.support.v7.widget.Toolbar toolbar;
     private Button joinNewClass;
     private RecyclerView recyclerView;
 
@@ -54,7 +53,6 @@ public class ClassListActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_class_list);
-        toolbar = findViewById(R.id.toolbar);
         joinNewClass = findViewById(R.id.joinClass);
         recyclerView = findViewById(R.id.recyclerView);
         progressBar = findViewById(R.id.progressBar);

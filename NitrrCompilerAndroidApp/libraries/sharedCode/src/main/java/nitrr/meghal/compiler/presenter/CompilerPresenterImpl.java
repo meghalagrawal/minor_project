@@ -1,7 +1,9 @@
 package nitrr.meghal.compiler.presenter;
 
 import nitrr.meghal.compiler.CompilerCallback;
+import nitrr.meghal.compiler.SubmitCallback;
 import nitrr.meghal.compiler.data.CompilerResponse;
+import nitrr.meghal.compiler.data.SubmitResponse;
 import nitrr.meghal.compiler.model.CompilerHelper;
 import nitrr.meghal.compiler.view.CompilerView;
 
@@ -46,8 +48,27 @@ public class CompilerPresenterImpl implements CompilerPresenter {
 			{
 				compilerView.showError("Unable to connect to server. . . .");
 				compilerView.showLoader(false);
+			}
+		});
+	}
 
+	@Override
+	public void submitCode(String access_token, int language, String code, String stdin, int assignment_id) {
+		compilerView.showLoader(true);
+		compilerHelper.submitCode(access_token,language,code,stdin,assignment_id, new SubmitCallback() {
+			@Override
+			public void onSuccess(SubmitResponse submitResponse) {
+				compilerView.showOutput(submitResponse.getMessage());
+//				compilerView.showRunTime(compilerResponse.getTime());
+//				compilerView.showError(compilerResponse.getErrors());
+                compilerView.showLoader(false);
 
+			}
+
+			@Override
+			public void onFailure() {
+				compilerView.showError("Unable to connect to server. . . .");
+				compilerView.showLoader(false);
 			}
 		});
 	}

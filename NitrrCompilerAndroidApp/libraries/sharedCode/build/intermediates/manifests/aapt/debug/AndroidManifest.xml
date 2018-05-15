@@ -11,7 +11,6 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application>
-        <activity android:name="nitrr.meghal.assignments.AssignmentActivity" />
         <activity android:name="nitrr.meghal.classes.view.ClassListActivity" />
         <!-- <activity android:name=".activity.MainActivity"></activity> -->
 

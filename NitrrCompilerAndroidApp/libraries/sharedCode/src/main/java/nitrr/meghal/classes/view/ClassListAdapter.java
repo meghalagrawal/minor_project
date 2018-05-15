@@ -2,6 +2,7 @@ package nitrr.meghal.classes.view;
 
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -17,6 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import nitrr.meghal.R;
+import nitrr.meghal.assignments.view.AssignmentsActivity;
 import nitrr.meghal.classes.data.ClassData;
 import nitrr.meghal.classes.view.ClassListActivity;
 
@@ -51,8 +53,12 @@ public class ClassListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
             @Override
             public void onClick(View v) {
                 if (context instanceof ClassListActivity) {
+                    Intent intent = new Intent(context, AssignmentsActivity.class);
+                    intent.putExtra("class_id", classData.getClass_id());
 
-                    Toast.makeText(context, "Class Clicked:" + classData.getTitle(), Toast.LENGTH_SHORT).show();
+                    ((ClassListActivity)context).startActivity(intent);
+
+//                    Toast.makeText(context, "Class Clicked:" + classData.getTitle(), Toast.LENGTH_SHORT).show();
                 }
 
             }

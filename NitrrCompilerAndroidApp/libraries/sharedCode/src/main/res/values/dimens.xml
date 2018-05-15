@@ -48,4 +48,6 @@
     <dimen name="margin_very_small">2dp</dimen>
     <dimen name="textSizeSmall">8dp</dimen>
     <dimen name="padding_small">2dp</dimen>
+    <dimen name="padding_medium">4dp</dimen>
+    <dimen name="margin_medium">4dp</dimen>
 </resources>

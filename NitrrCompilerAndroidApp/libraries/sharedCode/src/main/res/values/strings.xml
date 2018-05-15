@@ -88,10 +88,11 @@
     <string name="login">Login</string>
     <string name="forgot_password">Forget PAssword</string>
     <string name="sign_up">Sign Up</string>
-    <string name="classes">Classes</string>
+    <string name="classes">Joined Classes</string>
     <string name="join_new_class">Join New Class</string>
     <string name="assignments">Assignments</string>
     <string name="class_title">Class Title</string>
     <string name="class_description">Class Description</string>
+    <string name="submissions">Submissions</string>
     <string name="submit">Submit</string>
 </resources>

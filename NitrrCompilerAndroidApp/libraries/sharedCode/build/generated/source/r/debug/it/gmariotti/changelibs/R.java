@@ -14,11 +14,11 @@ public final class R {
         public static int rowLayoutId = 0x7f04012d;
     }
     public static final class color {
-        public static int chglib_background_default_divider_color = 0x7f06002d;
-        public static int chglib_material_background_default_divider_color = 0x7f06002e;
-        public static int chglib_material_color_text_1 = 0x7f06002f;
-        public static int chglib_material_color_text_2 = 0x7f060030;
-        public static int chglib_material_color_text_3 = 0x7f060031;
+        public static int chglib_background_default_divider_color = 0x7f06002e;
+        public static int chglib_material_background_default_divider_color = 0x7f06002f;
+        public static int chglib_material_color_text_1 = 0x7f060030;
+        public static int chglib_material_color_text_2 = 0x7f060031;
+        public static int chglib_material_color_text_3 = 0x7f060032;
     }
     public static final class dimen {
         public static int chglib_material_keyline1 = 0x7f080051;
@@ -39,10 +39,10 @@ public final class R {
         public static int font_textStyle_material_item = 0x7f0d0008;
     }
     public static final class layout {
-        public static int changelogrow_layout = 0x7f0f0021;
-        public static int changelogrow_material_layout = 0x7f0f0022;
-        public static int changelogrowheader_layout = 0x7f0f0023;
-        public static int changelogrowheader_material_layout = 0x7f0f0024;
+        public static int changelogrow_layout = 0x7f0f0023;
+        public static int changelogrow_material_layout = 0x7f0f0024;
+        public static int changelogrowheader_layout = 0x7f0f0025;
+        public static int changelogrowheader_material_layout = 0x7f0f0026;
     }
     public static final class raw {
         public static int changelog = 0x7f140001;
