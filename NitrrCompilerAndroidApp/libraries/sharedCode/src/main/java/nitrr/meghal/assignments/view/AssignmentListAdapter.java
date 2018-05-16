@@ -45,12 +45,16 @@ public class AssignmentListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
         ClassListViewHolder classListViewHolder = (ClassListViewHolder) holder;
         classListViewHolder.classTitle.setText(assignmentDetails.getTitle());
         classListViewHolder.classDescription.setText(assignmentDetails.getDescription());
+        classListViewHolder.dueDate.setText(assignmentDetails.getDue_date());
         classListViewHolder.classListLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if (context instanceof AssignmentsActivity) {
                     Intent intent = new Intent(context, SubmissionListActivity.class);
                     intent.putExtra("assignment_id", assignmentDetails.getAssignment_id());
+                    intent.putExtra("assignment_title", assignmentDetails.getTitle());
+                    intent.putExtra("assignment_description", assignmentDetails.getDescription());
+                    intent.putExtra("assignment_due_date", assignmentDetails.getDue_date());
 
                     ((AssignmentsActivity)context).startActivity(intent);
 
@@ -75,6 +79,7 @@ public class AssignmentListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
     class ClassListViewHolder extends RecyclerView.ViewHolder {
 
         TextView classTitle;
+        TextView dueDate;
         TextView classDescription;
         LinearLayout classListLayout;
 
@@ -83,6 +88,7 @@ public class AssignmentListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
             classTitle = itemView.findViewById(R.id.classTitle);
             classDescription = itemView.findViewById(R.id.classDescription);
             classListLayout = itemView.findViewById(R.id.classListLayout);
+            dueDate = itemView.findViewById(R.id.due_date);
 
 
         }

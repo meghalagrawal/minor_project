@@ -8,10 +8,10 @@ package it.gmariotti.changelibs;
 
 public final class R {
     public static final class attr {
-        public static int changeLogFileResourceId = 0x7f040052;
-        public static int changeLogFileResourceUrl = 0x7f040053;
-        public static int rowHeaderLayoutId = 0x7f04012c;
-        public static int rowLayoutId = 0x7f04012d;
+        public static int changeLogFileResourceId = 0x7f040055;
+        public static int changeLogFileResourceUrl = 0x7f040056;
+        public static int rowHeaderLayoutId = 0x7f040139;
+        public static int rowLayoutId = 0x7f04013a;
     }
     public static final class color {
         public static int chglib_background_default_divider_color = 0x7f06002e;
@@ -28,36 +28,36 @@ public final class R {
         public static int listPreferredItemHeightSmall = 0x7f080097;
     }
     public static final class id {
-        public static int chg_headerDate = 0x7f0c0027;
-        public static int chg_headerVersion = 0x7f0c0028;
-        public static int chg_row = 0x7f0c0029;
-        public static int chg_rowheader = 0x7f0c002a;
-        public static int chg_text = 0x7f0c002b;
-        public static int chg_textbullet = 0x7f0c002c;
+        public static int chg_headerDate = 0x7f0c0028;
+        public static int chg_headerVersion = 0x7f0c0029;
+        public static int chg_row = 0x7f0c002a;
+        public static int chg_rowheader = 0x7f0c002b;
+        public static int chg_text = 0x7f0c002c;
+        public static int chg_textbullet = 0x7f0c002d;
     }
     public static final class integer {
         public static int font_textStyle_material_item = 0x7f0d0008;
     }
     public static final class layout {
-        public static int changelogrow_layout = 0x7f0f0024;
-        public static int changelogrow_material_layout = 0x7f0f0025;
-        public static int changelogrowheader_layout = 0x7f0f0026;
-        public static int changelogrowheader_material_layout = 0x7f0f0027;
+        public static int changelogrow_layout = 0x7f0f0026;
+        public static int changelogrow_material_layout = 0x7f0f0027;
+        public static int changelogrowheader_layout = 0x7f0f0028;
+        public static int changelogrowheader_material_layout = 0x7f0f0029;
     }
     public static final class raw {
         public static int changelog = 0x7f140001;
     }
     public static final class string {
-        public static int changelog_header_version = 0x7f150036;
-        public static int changelog_internal_error_internet_connection = 0x7f150037;
-        public static int changelog_internal_error_parsing = 0x7f150038;
-        public static int changelog_row_bulletpoint = 0x7f150039;
-        public static int changelog_row_prefix_bug = 0x7f15003a;
-        public static int changelog_row_prefix_improvement = 0x7f15003b;
-        public static int font_fontFamily_material_item = 0x7f150076;
+        public static int changelog_header_version = 0x7f150038;
+        public static int changelog_internal_error_internet_connection = 0x7f150039;
+        public static int changelog_internal_error_parsing = 0x7f15003a;
+        public static int changelog_row_bulletpoint = 0x7f15003b;
+        public static int changelog_row_prefix_bug = 0x7f15003c;
+        public static int changelog_row_prefix_improvement = 0x7f15003d;
+        public static int font_fontFamily_material_item = 0x7f150078;
     }
     public static final class styleable {
-        public static int[] ChangeLogListView = { 0x7f040052, 0x7f040053, 0x7f04012c, 0x7f04012d };
+        public static int[] ChangeLogListView = { 0x7f040055, 0x7f040056, 0x7f040139, 0x7f04013a };
         public static int ChangeLogListView_changeLogFileResourceId = 0;
         public static int ChangeLogListView_changeLogFileResourceUrl = 1;
         public static int ChangeLogListView_rowHeaderLayoutId = 2;

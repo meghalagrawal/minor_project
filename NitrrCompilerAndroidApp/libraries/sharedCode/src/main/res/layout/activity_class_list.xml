@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/background_gray"
     tools:context=".classes.view.ClassListActivity">
 
     <android.support.design.widget.AppBarLayout
@@ -17,7 +18,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:title="@string/home"
+            app:title="Home - List of Classes"
             app:titleTextColor="@color/white" />
 
     </android.support.design.widget.AppBarLayout>
@@ -41,6 +42,8 @@
             android:visibility="gone" />
 
         <android.support.v7.widget.RecyclerView
+            android:padding="@dimen/padding_medium"
+            android:layout_margin="@dimen/margin_medium"
             android:id="@+id/recyclerView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

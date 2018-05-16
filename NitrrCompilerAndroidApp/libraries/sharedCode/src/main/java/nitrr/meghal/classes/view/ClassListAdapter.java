@@ -55,6 +55,8 @@ public class ClassListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
                 if (context instanceof ClassListActivity) {
                     Intent intent = new Intent(context, AssignmentsActivity.class);
                     intent.putExtra("class_id", classData.getClass_id());
+                    intent.putExtra("class_name", classData.getTitle());
+                    intent.putExtra("class_description", classData.getDescription());
 
                     ((ClassListActivity)context).startActivity(intent);
 

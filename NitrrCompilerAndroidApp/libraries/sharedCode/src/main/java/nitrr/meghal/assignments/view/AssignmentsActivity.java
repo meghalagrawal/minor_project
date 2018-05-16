@@ -13,6 +13,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
@@ -48,6 +49,8 @@ public class AssignmentsActivity extends AppCompatActivity {
     private SharedPrefs sharedPrefs;
     private AssignmentListAdapter assignmentListAdapter;
     private int class_id;
+    private String class_name,class_description;
+    private TextView classTitle, classDescription;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,11 +59,27 @@ public class AssignmentsActivity extends AppCompatActivity {
         Intent iin= getIntent();
         Bundle b = iin.getExtras();
         class_id= b.getInt("class_id");
+        class_name= b.getString("class_name");
+        class_description= b.getString("class_description");
+
+
 
         toolbar = findViewById(R.id.toolbar);
         joinNewClass = findViewById(R.id.joinClass);
         recyclerView = findViewById(R.id.recyclerView);
         progressBar = findViewById(R.id.progressBar);
+        classTitle = findViewById(R.id.class_title);
+        classDescription = findViewById(R.id.class_description);
+
+        classTitle.setText(class_name);
+        classDescription.setText(class_description);
+
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
 
         sharedPrefs = new SharedPrefs(this);
         progressDialog = new ProgressDialog(this);

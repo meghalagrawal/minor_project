@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="nitrr.meghal">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nitrr.meghal">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application>
-        <activity android:name=".classes.view.ClassListActivity"></activity>
-        <!--<activity android:name=".activity.MainActivity"></activity>-->
+        <activity android:name=".classes.view.ClassListActivity" />
+        <!-- <activity android:name=".activity.MainActivity"></activity> -->
 
-
+        <activity android:name=".AboutUsActivity"></activity>
     </application>
 
 </manifest>

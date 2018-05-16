@@ -216,12 +216,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         ThemeUtils.setWindowsBackground(this);
         // super!!
         super.onCreate(savedInstanceState);
-        if (getIntent().getExtras() != null) {
-            Intent iin = getIntent();
-            Bundle b = iin.getExtras();
-            assert b != null;
-            assignment_id = b.getInt("assignment_id");
-        }
+
         // setup the layout
         setContentView(R.layout.activity_home);
         toolbar = (Toolbar) findViewById(R.id.my_awesome_toolbar);
@@ -243,6 +238,15 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         // parse the intent
 
         parseIntent(getIntent());
+        if (getIntent().getExtras() != null) {
+            Intent iin = getIntent();
+            Bundle b = iin.getExtras();
+            assert b != null;
+            assignment_id = b.getInt("assignment_id");
+//            stdin.setVisibility(View.GONE);
+        }else{
+//            stdin.setVisibility(View.VISIBLE);
+        }
 
 //        stdin = (EditText)findViewById(R.id.stdin_input);
         compilerPresenter = new CompilerPresenterImpl(this, new RetrofitCompilerHelper());
@@ -694,7 +698,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         } else if (i == R.id.im_compile) {
 //			Toast.makeText(this,mEditor.getText().toString(),Toast.LENGTH_SHORT).show();
 
-            compilerPresenter.compileCode(LANGUAGE_ID, mEditor.getText().toString(), "");
+            compilerPresenter.compileCode(LANGUAGE_ID, mEditor.getText().toString(), stdin.getText().toString());
         } else if (i == R.id.im_info) {
             FileInfoDialog.newInstance(greatUri.getUri()).show(getFragmentManager().beginTransaction(), "dialog");
         } else if (i == R.id.im_donate) {
@@ -706,7 +710,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
             }
         } else if (i == R.id.im_submit) {
 //            Toast.makeText(this,"Hello Meghal",Toast.LENGTH_SHORT).show();
-            compilerPresenter.submitCode(sharedp.getAccessToken(), LANGUAGE_ID, mEditor.getText().toString(), "", assignment_id);
+            compilerPresenter.submitCode(sharedp.getAccessToken(), LANGUAGE_ID, mEditor.getText().toString(), stdin.getText().toString(), assignment_id);
 //            compilerPresenter.compileCode(LANGUAGE_ID,mEditor.getText().toString(),"");
         }
         return super.onOptionsItemSelected(item);

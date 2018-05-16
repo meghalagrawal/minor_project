@@ -94,6 +94,7 @@
     <dimen name="line_dimension">1dp</dimen>
     <dimen name="list_horizontal_margin">0dp</dimen>
     <dimen name="margin_extra_small">2dp</dimen>
+    <dimen name="margin_large">8dp</dimen>
     <dimen name="margin_medium">4dp</dimen>
     <dimen name="margin_small">4dp</dimen>
     <dimen name="margin_very_small">2dp</dimen>
@@ -105,6 +106,7 @@
     <dimen name="padding_very_large">8dp</dimen>
     <dimen name="textSizeSmall">8dp</dimen>
     <dimen name="text_size_large">18dp</dimen>
+    <dimen name="text_size_medium">14dp</dimen>
     <dimen name="text_size_mega_title">25sp</dimen>
     <dimen name="text_size_subtitle">14sp</dimen>
     <dimen name="text_size_title">16sp</dimen>
@@ -192,7 +194,9 @@
     <string name="about_title" translatable="false"><![CDATA[
         <b>%1$s</b>&nbsp;<font color="#888888">v%2$s</font>
     ]]></string>
+    <string name="about_us">About App</string>
     <string name="accessory_view">Accessory view</string>
+    <string name="admin_cse_nntrr_ac_in">admin@cse.nntrr.ac.in</string>
     <string name="advanced">Advanced</string>
     <string name="aggiungi_account">New account</string>
     <string name="app_version_new">v%s</string>
@@ -220,7 +224,7 @@
     <string name="compiler">NITRR Compiler</string>
     <string name="condividi">Share</string>
     <string name="connection_name">Connection Name</string>
-    <string name="contact_us">About Us</string>
+    <string name="contact_us">About App</string>
     <string name="copy_url">Copy URL</string>
     <string name="crea_cartella_locale">New local folder</string>
     <string name="crea_cartella_remota">New remote folder</string>
@@ -348,6 +352,7 @@
     <string name="submissions">Submissions</string>
     <string name="submit">Submit</string>
     <string name="sync">Sync</string>
+    <string name="tagLine">Submit lab assignments on the go!</string>
     <string name="tema_app">App theme</string>
     <string name="testo_indietro">Undo</string>
     <string name="testo_rifai">Redo</string>
@@ -356,6 +361,7 @@
     <string name="theme">Theme</string>
     <string name="theme_black">Black theme</string>
     <string name="theme_dark">Dark theme</string>
+    <string name="this_app_is_designed_to_submit_n_assignments_via_mobile_phone">This app is designed to submit   assignments via mobile phone</string>
     <string name="tipo_connessione">Connection type</string>
     <string name="tipo_protocollo">Protocol type</string>
     <string name="translate_the_app">Translate</string>
@@ -373,44 +379,43 @@
     <string name="vota">Rate</string>
     <string name="what_to_do">What do you want to do?</string>
     <string name="wrap_content">Wrap content</string>
+    <string name="www_nitrr_ac_in_cse">www.nitrr.ac.in/cse</string>
     <style name="AppThemeBaseDark" parent="Theme.AppCompat.NoActionBar">
         <item name="windowActionModeOverlay">true</item>
         <item name="actionModeStyle">@style/LStyled.ActionMode</item>
-        <!-- Dialog -->
+        
         <item name="textAppearanceDialogTitle">@style/TextAppearance.Dialog.Title</item>
         <item name="textAppearanceDialogMessage">@style/TextAppearance.Dialog.Message</item>
         <item name="textAppearanceDialogInfo">@style/TextAppearance.Dialog.Info</item>
 
         <item name="android:windowBackground">@color/window_background</item>
 
-        <!-- colorPrimary is used for the default action bar background -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
 
-        <!-- colorPrimaryDark is used for the status bar -->
+        
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
 
-        <!-- colorAccent is used as the default value for colorControlActivated
-             which is used to tint widgets -->
+        
         <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="AppThemeBaseLight" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="windowActionModeOverlay">true</item>
         <item name="actionModeStyle">@style/LStyled.ActionMode</item>
-        <!-- Dialog -->
+        
         <item name="textAppearanceDialogTitle">@style/TextAppearance.Dialog.Title</item>
         <item name="textAppearanceDialogMessage">@style/TextAppearance.Dialog.Message</item>
         <item name="textAppearanceDialogInfo">@style/TextAppearance.Dialog.Info</item>
 
         <item name="android:windowBackground">@color/window_background_light</item>
 
-        <!-- colorPrimary is used for the default action bar background -->
+        
         <item name="colorPrimary">@color/actionbar_background</item>
 
-        <!-- colorPrimaryDark is used for the status bar -->
+        
         <item name="colorPrimaryDark">@color/actionbar_background</item>
 
-        <!-- colorAccent is used as the default value for colorControlActivated
-             which is used to tint widgets -->
+        
         <item name="colorAccent">@color/accent_material_dark</item>
     </style>
     <style name="AppThemeEditorDark" parent="AppThemeBaseDark">

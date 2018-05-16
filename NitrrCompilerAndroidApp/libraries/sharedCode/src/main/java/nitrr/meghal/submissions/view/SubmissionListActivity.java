@@ -13,6 +13,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
@@ -46,6 +47,8 @@ public class SubmissionListActivity extends AppCompatActivity {
     private SubmissionListAdapter submissionListAdapter;
     private int assignment_id;
 
+    TextView assignmentTitle, assignmentDescription, assignmentDueDate;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,10 +57,46 @@ public class SubmissionListActivity extends AppCompatActivity {
         Bundle b = iin.getExtras();
         assignment_id = b.getInt("assignment_id");
 
+        assignmentTitle = findViewById(R.id.assignmentTitle);
+        assignmentDescription = findViewById(R.id.assignmentDescription);
+        assignmentDueDate = findViewById(R.id.due_date);
+
+
+        try {
+
+            assignmentTitle.setText(b.getString("assignment_title"));
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        try {
+
+            assignmentDescription.setText(b.getString("assignment_description"));
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        try {
+
+            assignmentDueDate.setText(b.getString("assignment_due_date"));
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
         toolbar = findViewById(R.id.toolbar);
         joinNewClass = findViewById(R.id.joinClass);
         recyclerView = findViewById(R.id.recyclerView);
         progressBar = findViewById(R.id.progressBar);
+
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
 
         sharedPrefs = new SharedPrefs(this);
         progressDialog = new ProgressDialog(this);

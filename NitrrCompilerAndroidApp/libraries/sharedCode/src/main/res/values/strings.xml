@@ -100,5 +100,10 @@
     <string name="email">Email</string>
     <string name="Login">Login</string>
     <string name="logout">Logout</string>
-    <string name="contact_us">About Us</string>
+    <string name="contact_us">About App</string>
+    <string name="about_us">About App</string>
+    <string name="this_app_is_designed_to_submit_n_assignments_via_mobile_phone">This app is designed to submit   assignments via mobile phone</string>
+    <string name="admin_cse_nntrr_ac_in">admin@cse.nntrr.ac.in</string>
+    <string name="www_nitrr_ac_in_cse">www.nitrr.ac.in/cse</string>
+    <string name="tagLine">Submit lab assignments on the go!</string>
 </resources>

@@ -17,14 +17,7 @@
         android:orientation="vertical"
         >
 
-        <TextView
-            android:id="@+id/created_time"
-            android:layout_width="match_parent"
-            android:padding="8dp"
-            android:layout_height="wrap_content"
-            android:gravity="right"
-            android:textColor="@color/colorAccent"
-            android:textSize="14sp" />
+
 
     <LinearLayout
         android:id="@+id/classListLayout"
@@ -32,81 +25,105 @@
         android:layout_height="wrap_content"
         android:background="?android:attr/selectableItemBackground"
         android:clickable="true"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:weightSum="10"
         >
 
         <LinearLayout
-            android:layout_width="0dp"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="4"
             android:gravity="center"
             android:orientation="vertical"
             android:padding="8dp"
             >
-            <TextView
+            <LinearLayout
+                android:weightSum="2"
+                android:orientation="horizontal"
                 android:layout_width="match_parent"
-                android:padding="8dp"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Submission no. :"
-                android:textColor="@color/colorPrimaryDark"
-                android:textSize="14sp" />
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Submission no."
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="14sp" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:padding="8dp"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Time Taken :"
-                android:textColor="@color/colorPrimaryDark"
-                android:textSize="14sp" />
+                <TextView
+                    android:layout_weight="1"
+                    android:id="@+id/submissionNo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:text="1"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="14sp" />
 
-            <TextView
+            </LinearLayout>
+
+            <LinearLayout
+                android:weightSum="2"
+                android:orientation="horizontal"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:padding="8dp"
-                android:text="Outout :"
-                android:textColor="@color/colorPrimary"
-                android:textSize="14sp" />
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Time Taken :"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="14sp" />
+
+
+                <TextView
+                    android:layout_weight="1"
+                    android:id="@+id/classTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="5 seconds"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:weightSum="2"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Submission Date :"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="14sp" />
+
+
+                <TextView
+                    android:id="@+id/created_time"
+                    android:layout_width="match_parent"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+
+
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="4"
-            android:gravity="center"
-            android:orientation="vertical"
-            android:padding="8dp">
-            <TextView
-                android:id="@+id/submissionNo"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="1"
-                android:textColor="@color/colorPrimaryDark"
-                android:textSize="14sp" />
 
-            <TextView
-                android:id="@+id/classTitle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="5 seconds"
-                android:textColor="@color/colorPrimaryDark"
-                android:textSize="14sp" />
-
-            <TextView
-                android:id="@+id/classDescription"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:minHeight="40dp"
-                android:text="Successful"
-                android:textColor="@color/colorPrimary"
-                android:textSize="12sp" />
-        </LinearLayout>
     </LinearLayout>
     </LinearLayout>
 </android.support.v7.widget.CardView>

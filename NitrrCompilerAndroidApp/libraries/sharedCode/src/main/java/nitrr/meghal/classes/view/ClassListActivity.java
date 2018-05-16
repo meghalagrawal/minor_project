@@ -27,6 +27,7 @@ import com.google.gson.GsonBuilder;
 
 import java.util.concurrent.TimeUnit;
 
+import nitrr.meghal.AboutUsActivity;
 import nitrr.meghal.R;
 import nitrr.meghal.Urls;
 import nitrr.meghal.activity.MainActivity;
@@ -251,7 +252,8 @@ public class ClassListActivity extends AppCompatActivity implements NavigationVi
         if (id == R.id.home) {
             showAddClassDialog();
         }else if (id == R.id.contact_us){
-            Toast.makeText(this,"Feature under development",Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(ClassListActivity.this, AboutUsActivity.class);
+            startActivity(intent);
         }else {
             sharedPrefs.setAccessToken("NONE");
             Intent intent = new Intent(ClassListActivity.this, LoginActivity.class);

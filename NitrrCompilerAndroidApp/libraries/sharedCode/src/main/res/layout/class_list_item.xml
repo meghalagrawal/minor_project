@@ -38,6 +38,7 @@
                 android:layout_margin="@dimen/margin_medium"
                 android:padding="@dimen/padding_medium"
                 android:text="Class Name"
+                android:textStyle="bold"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="18dp" />
 

@@ -41,7 +41,7 @@ public class SubmissionListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
 
         final ClassListViewHolder classListViewHolder = (ClassListViewHolder) holder;
         classListViewHolder.classTitle.setText(submissionDetails.getTime_taken()+" seconds");
-        classListViewHolder.classDescription.setText(submissionDetails.getResponse());
+//        classListViewHolder.classDescription.setText(submissionDetails.getResponse());
         classListViewHolder.created_time.setText(submissionDetails.getCreated());
         classListViewHolder.submissionNo.setText((position+1)+"");
         classListViewHolder.classListLayout.setOnClickListener(new View.OnClickListener() {
@@ -81,10 +81,11 @@ public class SubmissionListAdapter extends RecyclerView.Adapter<RecyclerView.Vie
         public ClassListViewHolder(View itemView) {
             super(itemView);
             classTitle = itemView.findViewById(R.id.classTitle);
-            classDescription = itemView.findViewById(R.id.classDescription);
+//            classDescription = itemView.findViewById(R.id.classDescription);
             classListLayout = itemView.findViewById(R.id.classListLayout);
             submissionNo = itemView.findViewById(R.id.submissionNo);
             created_time = itemView.findViewById(R.id.created_time);
+
 
 
         }
