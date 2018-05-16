@@ -137,7 +137,7 @@ def submit_assignment(request):
 				print(str(e))
 
 
-			AssignmentSubmissionData.objects.create(user_instance = user_instance,assignment_instance = assignment_instance, submitted_code = code, time_taken = response["time"],response = response)
+			AssignmentSubmissionData.objects.create(user_instance = user_instance,assignment_instance = assignment_instance, submitted_code = code, time_taken = response["time"],response = response,passed_cases =passed, failed_cases = failed)
 			response_json["success"]=True
 
 		except Exception as e:

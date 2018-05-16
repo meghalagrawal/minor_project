@@ -698,7 +698,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
         } else if (i == R.id.im_compile) {
 //			Toast.makeText(this,mEditor.getText().toString(),Toast.LENGTH_SHORT).show();
 
-            compilerPresenter.compileCode(LANGUAGE_ID, mEditor.getText().toString(), stdin.getText().toString());
+            compilerPresenter.compileCode(LANGUAGE_ID, mEditor.getText().toString(), "");
         } else if (i == R.id.im_info) {
             FileInfoDialog.newInstance(greatUri.getUri()).show(getFragmentManager().beginTransaction(), "dialog");
         } else if (i == R.id.im_donate) {
@@ -710,7 +710,7 @@ public abstract class MainActivity extends AppCompatActivity implements IHomeAct
             }
         } else if (i == R.id.im_submit) {
 //            Toast.makeText(this,"Hello Meghal",Toast.LENGTH_SHORT).show();
-            compilerPresenter.submitCode(sharedp.getAccessToken(), LANGUAGE_ID, mEditor.getText().toString(), stdin.getText().toString(), assignment_id);
+            compilerPresenter.submitCode(sharedp.getAccessToken(), LANGUAGE_ID, mEditor.getText().toString(), "", assignment_id);
 //            compilerPresenter.compileCode(LANGUAGE_ID,mEditor.getText().toString(),"");
         }
         return super.onOptionsItemSelected(item);

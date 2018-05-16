@@ -216,7 +216,8 @@
 
 
 
-            <!--<RelativeLayout
+<!--
+            <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="52dp"
                 android:orientation="horizontal"
@@ -338,17 +339,18 @@
                     android:background="@drawable/item_background_holo_dark"
                     />
 
-            </RelativeLayout>-->
+            </RelativeLayout>
+-->
 
         </LinearLayout>
 
     </RelativeLayout>
 
-    <!--<fragment android:layout_width="@dimen/navigation_drawer_width"-->
-        <!--android:layout_height="match_parent"-->
-        <!--android:name="nitrr.meghal.helper.preferences.SettingsFragment"-->
-        <!--android:id="@id/drawer_settings"-->
-        <!--android:layout_gravity="end"/>-->
+    <fragment android:layout_width="@dimen/navigation_drawer_width"
+        android:layout_height="match_parent"
+        android:name="nitrr.meghal.helper.preferences.SettingsFragment"
+        android:id="@id/drawer_settings"
+        android:layout_gravity="end"/>
 
 
 </nitrr.meghal.views.CustomDrawerLayout>
